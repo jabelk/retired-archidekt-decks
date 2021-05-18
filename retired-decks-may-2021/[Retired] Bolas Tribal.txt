@@ -1,0 +1,89 @@
+1x Acquire (5dn) [Non Creature Tricks] 
+1x Agent of Treachery (m20) [Steal] 
+1x Animate Dead (4ed) [Creature Tricks] 
+1x Arcane Signet (cmr) [Ramp] 
+1x Armillary Sphere (cmr) [Ramp] 
+1x Baleful Strix (2xm) [Draw] 
+1x Blatant Thievery (c15) [Steal] 
+1x Bojuka Bog (c13)
+1x Bribery (mmq) [Steal] 
+1x Castle Locthwain (eld)
+1x Castle Vantress (eld)
+1x Chromatic Lantern (mb1) [Ramp] 
+1x Clearwater Pathway // Murkwater Pathway (znr)
+1x Command Tower (cma)
+1x Counterspell (cmr) [Removal] 
+1x Crumbling Necropolis (mb1)
+1x Cyclonic Rift (2xm) [Removal] 
+1x Deadeye Plunderers (xln) [Non Creature Tricks] 
+1x Demonic Tutor (mb1) [Draw] 
+1x Dimir Signet (znc) [Ramp] 
+1x Domineering Will (c14) [Creature Tricks] 
+1x Dragonskull Summit (m10)
+1x Drowned Catacomb (xln)
+1x Dualcaster Mage (cmr) [Steal] 
+1x Etali, Primal Storm (rix) [Steal] 
+1x Exotic Orchard (pca)
+1x Fabled Passage (peld) *F* 
+1x Fact or Fiction (inv) [Draw] 
+1x Faerie Artisans (c16) [Steal] 
+1x Faithless Looting (mb1) [Draw] 
+1x Forbidden Orchard (chk)
+1x Geth, Lord of the Vault (c19) [Steal] 
+1x Gonti, Lord of Luxury (mb1) [Steal] 
+1x Halimar Depths (c20)
+1x Hedron Archive (c19) [Ramp] 
+1x Hijack (mb1) [Creature Tricks] 
+1x Hostage Taker (xln) [Steal] 
+1x Illusionist's Gambit (c13) [Creature Tricks] 
+8x Island (pc2) 140 [Basics] 
+1x Izzet Signet (c20) [Ramp] 
+1x Karn's Temporal Sundering (dom) [Non Creature Tricks] 
+1x Kaya's Ghostform (war) [Creature Tricks] 
+1x Mimic Vat (mb1) [Creature Tricks] 
+1x Mind Stone (mb1) [Ramp] 
+1x Mirage Mirror (hou) [Non Creature Tricks] 
+1x Mnemonic Betrayal (grn) [Steal] 
+1x Mob Rule (frf) [Creature Tricks] 
+4x Mountain (hop) 160 [Basics] 
+1x Myriad Landscape (cmr)
+1x Necromancy (plist) [Creature Tricks] 
+1x Nicol Bolas (tsb) [Bolas] 
+1x Nicol Bolas, Dragon-God (war) [Bolas] 
+1x Nicol Bolas, God-Pharaoh (hou) [Bolas] 
+1x Nicol Bolas, Planeswalker (e01) [Bolas] 
+1x Nicol Bolas, the Deceiver (hou) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Nicol Bolas, the Ravager // Nicol Bolas, the Arisen (m19) [Commander{top}] 
+1x Polymorphist's Jest (m15) [Creature Tricks] 
+1x Ponder (c18) [Draw] 
+1x Prismatic Lens (uma) [Ramp] 
+1x Rakdos Signet (c20) [Ramp] 
+1x Revenge of Ravens (eld) [Creature Tricks] 
+1x Rewind (m21) [Removal] 
+1x Shark Typhoon (iko) [Non Creature Tricks] 
+1x Shivan Reef (c20)
+1x Sol Ring (c14) [Ramp] 
+1x Solemn Simulacrum (cm2) [Ramp] 
+1x Spark Double (war) [Bolas] 
+1x Spell Swindle (xln) [Non Creature Tricks] 
+1x Stolen Goods (c15) [Steal] 
+1x Sudden Spoiling (c13) [Creature Tricks] 
+1x Sunbird's Invocation (xln) *F*  [Non Creature Tricks] 
+1x Sunken Ruins (2xm)
+5x Swamp (hop) 153 [Basics] 
+1x Syphon Mind (cm2) [Draw] 
+1x Talisman of Dominance (e01) [Ramp] 
+1x Thada Adel, Acquisitor (wwk) [Steal] 
+1x The Scarab God (hou) [Maybeboard{noDeck}{noPrice}] 
+1x Thief of Sanity (grn) [Steal] 
+1x Thieving Skydiver (znr) [Steal] 
+1x Thran Dynamo (mb1) [Ramp] 
+1x Thriving Isle (jmp)
+1x Treasure Nabber (c18) [Steal] 
+1x Underground River (cm2)
+1x Unwind (dom) [Removal] 
+1x Visage of Bolas (hou) [Maybeboard{noDeck}{noPrice}] 
+1x Vivid Creek (cmr)
+1x Vivid Marsh (c17)
+1x Watery Grave (grn)
+1x Whir of Invention (mb1) [Draw] 

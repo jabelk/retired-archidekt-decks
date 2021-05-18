@@ -1,0 +1,5 @@
+50x Snow-Covered Forest (khm) 285
+50x Snow-Covered Island (khm) 278
+20x Snow-Covered Mountain (khm) 282
+21x Snow-Covered Plains (khm) 277
+21x Snow-Covered Swamp (khm) 280

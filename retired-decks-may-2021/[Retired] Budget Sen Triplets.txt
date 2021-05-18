@@ -1,0 +1,80 @@
+1x Aether Gale (c18) [Pillow Fort] 
+1x Aether Spellbomb (jmp) [Protection] 
+1x Aetherize (znc) [Return to Hand] 
+1x Arcane Denial (cmr) [Counter Spells] 
+1x Astral Cornucopia (cm2) [Ramp] 
+1x Bant Panorama (cma)
+1x Blink of an Eye (dom) [Return to Hand] 
+1x Boomerang (chr) [Return to Hand] 
+1x Celestial Dawn (tsb) [Color Fixing] 
+1x Chromatic Lantern (sld) [Ramp] 
+1x Clutch of the Undercity (rav) [Tutors] 
+1x Command Tower (cc1)
+1x Cultivator's Caravan (kld) [Ramp] 
+1x Curse of Exhaustion (dka) [Sight Beyond Sight] 
+1x Dakra Mystic (jou) [Group Hug] 
+1x Darksteel Ingot (sld) [Ramp] 
+1x Diabolic Tutor (cma) [Tutors] 
+1x Dictate of Kruphix (c18) [Group Hug] 
+1x Dissipation Field (som) [Pillow Fort] 
+1x Dream Fracture (cns) [Counter Spells] 
+1x Esper Panorama (c13)
+1x Evolving Wilds (cmr)
+1x Exotic Orchard (c20)
+1x Eye of Nowhere (chk) [Return to Hand] 
+1x Fellwar Stone (plist) [Ramp] 
+1x Gemstone Array (5dn) [Color Fixing] 
+1x Ghostly Prison (c19) [Pillow Fort] 
+1x Grixis Panorama (c17)
+1x Guildmages' Forum (grn)
+1x Head Games (10e) [Mind Games] 
+1x Hinder (2xm) [Counter Spells] 
+1x Intellectual Offering (c14) [Group Hug] 
+1x Into the Roil (cmr) [Maybeboard{noDeck}{noPrice}] 
+17x Island (cmr) 507
+1x Karn's Temporal Sundering (dom) [Pillow Fort] 
+1x Kumena's Awakening (rix) [Group Hug] 
+1x Manalith (gnt) [Ramp] 
+1x Mask of Avacyn (cmr) [Protection] 
+1x Mind Stone (znc) [Ramp] 
+1x Minds Aglow (cm2) [Group Hug] 
+1x Mnemonic Betrayal (grn) [Mind Games] 
+1x Negate (plist) [Counter Spells] 
+1x Neurok Stealthsuit (td2) [Protection] 
+1x Oblation (c16) [Group Hug] 
+1x Orzhov Signet (c20) [Ramp] 
+1x Otherworld Atlas (avr) [Group Hug] 
+1x Padeem, Consul of Innovation (kld) [Protection] 
+1x Painted Bluffs (akh)
+1x Paradox Haze (tsp) [Upkeeps] 
+1x Perplex (rav) [Tutors] 
+3x Plains (cmr) 504
+1x Praetor's Grasp (nph) [Mind Games] 
+1x Prismatic Lens (uma) [Ramp] 
+1x Prosperity (c13) [Group Hug] 
+1x Razaketh's Rite (hou) [Tutors] 
+1x Realmwright (gtc) [Color Fixing] 
+1x Remand (mm2) [Counter Spells] 
+1x Seal of Removal (nem) [Protection] 
+1x Seer's Vision (inv) [Sight Beyond Sight] 
+1x Sen Triplets (2xm) [Commander{top}] 
+1x Snap (mb1) [Return to Hand] 
+1x Snapback (tsp) [Return to Hand] 
+1x Spectral Searchlight (cmr) [Ramp] 
+1x Spell Swindle (xln) [Counter Spells] 
+1x Sphinx of the Second Sun (cmr) [Upkeeps] 
+4x Swamp (klr) 294
+1x Telepathy (m10) [Sight Beyond Sight] 
+1x Temple Bell (c16) [Group Hug] 
+1x Terramorphic Expanse (cmr)
+1x Tidespout Tyrant (bbd) [Pillow Fort] 
+1x Unsubstantiate (m21) [Counter Spells] 
+1x Unwind (dom) [Counter Spells] 
+1x Vanishing (vis) [Protection] 
+1x Vessel of Endless Rest (uma) [Ramp] 
+1x Vision Skeins (e01) [Group Hug] 
+1x Vivid Creek (cmr)
+1x Vivid Marsh (c17)
+1x Vivid Meadow (cm2)
+1x Whispering Madness (c16) [Group Hug] 
+1x Words of Wisdom (ody) [Group Hug] 

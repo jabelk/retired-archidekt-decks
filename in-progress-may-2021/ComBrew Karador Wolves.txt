@@ -1,0 +1,78 @@
+1x Adarkar Valkyrie (c18) [Graveyard Synergies] 
+1x Alpha Status (scg) [Wolves and Tokens] 
+1x Altar of Dementia (mh1) [Graveyard Synergies] 
+1x Arlinn, Voice of the Pack (war) [Wolves and Tokens] 
+1x Blossoming Sands (m21)
+1x Call the Gatewatch (ogw) [Tutors] 
+1x Circuitous Route (znc) [Ramp] 
+1x Crib Swap (2xm) [Removal] 
+1x Dawn of the Dead (tor) [Graveyard Synergies] 
+1x Diabolic Tutor (cma) [Tutors] 
+1x End-Raze Forerunners (khc) [Finisher] 
+1x Evolutionary Leap (tsr) [Wolves and Tokens] 
+1x Evolving Wilds (cmr)
+1x Farhaven Elf (khc) [Ramp] 
+1x Feed the Pack (dka) [Wolves and Tokens] 
+12x Forest (khm) 398
+1x Garruk Relentless // Garruk, the Veil-Cursed (isd) [Wolves and Tokens] 
+1x Garruk Wildspeaker (cmd) [Wolves and Tokens] 
+1x Garruk's Horde (w17) [Tutors] 
+1x Garruk's Packleader (c19) [Draw] 
+1x Garruk, Cursed Huntsman (eld) [Wolves and Tokens] 
+1x Golgari Grave-Troll (uma) [Graveyard Synergies] 
+1x Golgari Guildgate (khc)
+1x Golgari Rot Farm (khc)
+1x Greenwarden of Murasa (bfz) [Graveyard Synergies] 
+1x Grim Haruspex (plist) [Draw] 
+1x Harrow (znc) [Ramp] 
+1x Harvester of Souls (tsr) [Draw] 
+1x Howling Giant (m20) [Wolves and Tokens] 
+1x Howlpack Resurgence (soi) [Wolves and Tokens] 
+1x Idyllic Tutor (thb) [Tutors] 
+1x Indomitable Ancients (mor) [Toughness Matters] 
+1x Jungle Hollow (khc)
+1x Karador, Ghost Chieftain (cmr) *F*  [Commander{top}] 
+1x Kessig Cagebreakers (cma) [Wolves and Tokens] 
+1x Lampad of Death's Vigil (thb) [Draw] 
+1x Lord of Extinction (uma) [Graveyard Synergies] 
+1x Nighthowler (znc) [Graveyard Synergies] 
+1x Nightpack Ambusher (m20) [Wolves and Tokens] 
+1x Nyx Weaver (c20) [Graveyard Synergies] 
+1x Ordeal of Nylea (cmr) [Ramp] 
+1x Orzhov Basilica (c20)
+1x Orzhov Guildgate (war)
+1x Palace Siege (c17) [Graveyard Synergies] 
+5x Plains (khm) 394
+1x Predator's Howl (cns) [Wolves and Tokens] 
+1x Puppeteer Clique (c17) [Graveyard Synergies] 
+1x Rampant Growth (cmr) [Ramp] 
+1x Return of the Wildspeaker (znc) [Draw] 
+1x Rootborn Defenses (mb1) [Protection] 
+1x Sakura-Tribe Elder (c20) [Ramp] 
+1x Sandsteppe Citadel (c20)
+1x Scoured Barrens (m21)
+1x Second Harvest (c19) [Wolves and Tokens] 
+1x Seedtime (jud) [Protection] 
+1x Selesnya Guildgate (znc)
+1x Selesnya Sanctuary (znc)
+1x Silklash Spider (cma) [Toughness Matters] 
+1x Spark Reaper (war) [Draw] 
+1x Springbloom Druid (khc) [Ramp] 
+1x Stinkweed Imp (tsr) [Graveyard Synergies] 
+1x Stomp and Howl (dis) [Removal] 
+1x Strionic Resonator (c19) [Graveyard Synergies] 
+1x Sundering Growth (c19) [Removal] 
+8x Swamp (khm) 396
+1x Terramorphic Expanse (tsr)
+1x Thieving Amalgam (c19) [Protection] 
+1x Tree of Perdition (emn) [Toughness Matters] 
+1x Tree of Redemption (a25) [Toughness Matters] 
+1x Undercity Informer (gtc) [Graveyard Synergies] 
+1x Vampiric Rites (bfz) [Draw] 
+1x Wall of Shards (csp) [Toughness Matters] 
+1x Webweaver Changeling (mh1) [Graveyard Synergies] 
+1x Wolfbriar Elemental (cma) [Wolves and Tokens] 
+1x Wolfcaller's Howl (cma) [Wolves and Tokens] 
+1x Wolfir Silverheart (avr) [Toughness Matters] 
+1x Woodfall Primus (uma) [Removal] 
+1x Yavimaya Granger (ulg) [Ramp] 

@@ -1,0 +1,85 @@
+1x Ancestral Mask (mmq) [Suit Up] 
+1x Aqueous Form (ths) [Suit Up] 
+1x Archetype of Courage (bng) [Suit Up] 
+1x Archetype of Imagination (c18) [Suit Up] 
+1x Argothian Enchantress (usg) [Card Draw] 
+1x Austere Command (ima) [Mass Removal] 
+1x Authority of the Consuls (kld) [Pillow Fort] 
+1x Banishing Light (jou) [Single Target] 
+1x Bear Umbra (c18) [Suit Up] 
+1x Blind Obedience (gtc) [Pillow Fort] 
+1x Bountiful Promenade (bbd)
+1x Breeding Pool (rna)
+1x Calix, Destiny's Hand (pthb) [Search/Tutor] 
+1x Cast Out (akh) [Single Target] 
+1x Command Tower (c18)
+1x Copy Enchantment (rav) [Maybeboard{noDeck}{noPrice}] 
+1x Courser of Kruphix (a25)
+1x Cyclonic Rift (mm3) [Mass Removal] 
+1x Dance of the Manse (eld) [Recursion/Copy] 
+1x Dawn's Reflection (c18) [Ramp] 
+1x Daybreak Coronet (uma) [Suit Up] 
+1x Destiny Spinner (thb) [Pillow Fort] 
+1x Dueling Grounds (inv) [Pillow Fort] 
+1x Eidolon of Blossoms (c18) [Card Draw] 
+1x Enchantress's Presence (c18) [Card Draw] 
+1x Estrid's Invocation (c18) [Recursion/Copy] 
+1x Estrid, the Masked (c18) *F*  [Commander{top}] 
+1x Ethereal Armor (rtr) [Suit Up] 
+1x Evolving Wilds (c18)
+1x Fertile Ground (c18) [Ramp] 
+10x Forest (c18) 305
+1x Ghostly Prison (cn2) [Pillow Fort] 
+1x Gift of Paradise (m19) [Ramp] 
+1x Glacial Fortress (m11)
+1x Grasslands (mir)
+1x Hall of Heliod's Generosity (mh1)
+1x Hallowed Fountain (rna)
+1x Idyllic Tutor (thb) [Search/Tutor] 
+1x Island (kld) 255
+1x Ixalan's Binding (xln) [Single Target] 
+1x Kestia, the Cultivator (c18) *F*  [Card Draw] 
+1x Krosan Verge (c18)
+1x Kruphix's Insight (c18) [Search/Tutor] 
+1x Market Festival (jou) [Ramp] 
+1x Mesa Enchantress (c15) [Card Draw] 
+1x Mirari's Wake (c17) [Ramp] 
+1x Mirrormade (eld) [Recursion/Copy] 
+1x Myriad Landscape (a25)
+1x New Horizons (xln) [Ramp] 
+1x Nylea's Colossus (c18) [Suit Up] 
+1x Oblivion Ring (m13) [Single Target] 
+1x Open the Vaults (c16) [Recursion/Copy] 
+1x Overgrowth (c18) [Ramp] 
+8x Plains (hou) 190
+1x Propaganda (tmp) [Pillow Fort] 
+1x Quarantine Field (bfz) [Mass Removal] 
+1x Reliquary Tower (plgs) *F* 
+1x Replenish (uds) [Recursion/Copy] 
+1x Rhystic Study (pcy) [Card Draw] 
+1x Sandwurm Convergence (akh) [Pillow Fort] 
+1x Satyr Enchanter (m19) [Card Draw] 
+1x Sea of Clouds (bbd)
+1x Seaside Citadel (c18)
+1x Selesnya Sanctuary (c18)
+1x Setessan Champion (thb) [Card Draw] 
+1x Shield of the Oversoul (shm) [Suit Up] 
+1x Sigarda, Host of Herons (uma)
+1x Sigil of the Empty Throne (c18) [Win Cons] 
+1x Sphere of Safety (rtr) [Pillow Fort] 
+1x Spirit Mantle (m12) [Suit Up] 
+1x Starfield of Nyx (ori) [Win Cons] 
+1x Steel of the Godhead (ddi) [Suit Up] 
+1x Sterling Grove (inv) [Pillow Fort] 
+1x Sunpetal Grove (m13)
+1x Supreme Verdict (ima) [Mass Removal] 
+1x Swords to Plowshares (a25) [Single Target] 
+1x Teferi's Protection (c17)
+1x Temple Garden (grn)
+1x Three Dreams (rav) [Search/Tutor] 
+1x Tuvasa the Sunlit (c18) *F*  [Card Draw] 
+1x Utopia Sprawl (dis) [Ramp] 
+1x Verdant Haven (m15) [Ramp] 
+1x Verduran Enchantress (4ed) [Card Draw] 
+1x Wild Growth (c18) [Ramp] 
+1x Winds of Rath (c18) [Mass Removal] 

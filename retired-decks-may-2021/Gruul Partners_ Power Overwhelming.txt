@@ -1,0 +1,82 @@
+1x Alena, Kessig Trapper (cmr) [Commander{top}] 
+1x Arena (tsb)
+1x Ball Lightning (jmp) [Cheap, but Big Power] 
+1x Beast Within (cmr) [Removal] 
+1x Blistering Firecat (ons) [Cheap, but Big Power] 
+1x Bonders' Enclave (iko)
+1x Brash Taunter (m21) [Not Big Power, but Big Utility ] 
+1x Calming Verse (pcy)
+1x Cauldron of Souls (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Chaos Warp (c20) [Removal] 
+1x Cinder Glade (c20)
+1x Colfenor's Urn (lrw) [Maybeboard{noDeck}{noPrice}] 
+1x Command Tower (cc1)
+1x Cragcrown Pathway // Timbercrown Pathway (znr)
+1x Cream of the Crop (mor) [Maybeboard{noDeck}{noPrice}] 
+1x Cultivate (cmr) [Ramp] 
+1x Domri, Anarch of Bolas (sld) *F*  [Removal] 
+1x Elemental Bond (c19) [Draw] 
+1x Escape to the Wilds (eld) [Draw] 
+1x Fabled Passage (m21)
+1x Feldon of the Third Path (c19) [Not Big Power, but Big Utility ] 
+1x Fertile Ground (mb1) [Ramp] 
+1x Fires of Invention (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Flameshadow Conjuring (ori) [Utility] 
+1x Force of Savagery (fut) [Cheap, but Big Power] 
+14x Forest (cmr) 510
+1x Garruk's Packleader (c19) [Draw] 
+1x Garruk's Uprising (m21) [Draw] 
+1x Geode Golem (c18) [Big Power, but Big Value] 
+1x Ghalta, Primal Hunger (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Ghost Quarter (mb1)
+1x Goreclaw, Terror of Qal Sisma (m19) [Big Power, but Big Value] 
+1x Grothama, All-Devouring (bbd) [Draw] 
+1x Groundbreaker (plc) [Cheap, but Big Power] 
+1x Grove of the Burnwillows (zne) *F* 
+1x Gruul Signet (mb1) [Ramp] 
+1x Halana, Kessig Ranger (cmr) [Commander{top}] 
+1x Ilysian Caryatid (thb) [Ramp] 
+1x Impervious Greatwurm (grn) *F*  [Big Power, but Big Value] 
+1x Kavu Lair (inv) [Draw] 
+1x Kessig Wolf Run (c20)
+1x Kodama's Reach (cmr) [Ramp] 
+1x Leyline Tyrant (znr) [Big Power, but Big Value] 
+1x Mazemind Tome (m21) [Draw] 
+1x Momentous Fall (jmp) [Draw] 
+1x Mossbridge Troll (shm) [Big Power, but Big Value] 
+1x Mosswort Bridge (c20)
+13x Mountain (cmr) 509
+1x Myth Unbound (c18) [Utility] 
+1x Once Upon a Time (eld) [Draw] 
+1x Pelt Collector (grn) [Not Big Power, but Big Utility ] 
+1x Primal Might (m21) [Removal] 
+1x Proud Wildbonder (iko) [Big Power, but Big Value] 
+1x Purphoros, Bronze-Blooded (thb) [Utility] 
+1x Quartzwood Crasher (iko) [Big Power, but Big Value] 
+1x Radha, Heart of Keld (m21) [Not Big Power, but Big Utility ] 
+1x Ram Through (iko) [Removal] 
+1x Rampant Growth (cmr) [Ramp] 
+1x Reap the Past (mh1)
+1x Relic Golem (znr) [Cheap, but Big Power] 
+1x Rhythm of the Wild (rna) [Protection] 
+1x Rootbound Crag (xln)
+1x Sarkhan's Unsealing (jmp) [Utility] 
+1x Selvala, Heart of the Wilds (jmp) [Ramp] 
+1x Shadowspear (thb) [Utility] 
+1x Sneak Attack (2xm) [Utility] 
+1x Sol Ring (cc1) [Ramp] 
+1x Spearbreaker Behemoth (ala) [Big Power, but Big Value] 
+1x Spellbreaker Behemoth (c13) [Big Power, but Big Value] 
+1x Temur Sabertooth (c17) [Not Big Power, but Big Utility ] 
+1x Terror of the Peaks (m21) [Big Power, but Big Value] 
+1x Thunderblust (mm2) [Cheap, but Big Power] 
+1x Tuya Bearclaw (cmr) [Not Big Power, but Big Utility ] 
+1x Vexing Shusher (2xm) [Protection] 
+1x Vivien, Monsters' Advocate (iko) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Vizier of the Menagerie (akh) [Maybeboard{noDeck}{noPrice}] 
+1x Warstorm Surge (c19) [Utility] 
+1x Whisperer of the Wilds (2xm) [Ramp] 
+1x Wild Growth (mb1) [Ramp] 
+1x Worldspine Wurm (rtr) [Big Power, but Big Value] 
+1x Wrap in Vigor (cns) [Protection] 
+1x Zilortha, Strength Incarnate (iko) [Big Power, but Big Value] 

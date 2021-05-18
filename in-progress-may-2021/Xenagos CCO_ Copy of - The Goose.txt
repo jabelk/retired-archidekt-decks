@@ -1,0 +1,79 @@
+1x Aetherwind Basker (aer)
+1x Archetype of Aggression (bng)
+1x Atarka, World Render (pres) *F* 
+1x Bane of Progress (c15)
+1x Berserkers' Onslaught (dtk)
+1x Carnage Tyrant (xln)
+1x Chandra's Ignition (ori)
+1x Cinder Glade (bfz)
+1x Clan Defiance (c16)
+1x Cultivate (c18) [Ramp] 
+1x Defense of the Heart (ulg) [Card Advantage] 
+1x Dryad Arbor (v12) *F* 
+1x Escape to the Wilds (eld) [Card Advantage] 
+1x Farseek (rav) [Ramp] 
+12x Forest (ust) 216
+1x Fyndhorn Elves (v13) *F*  [Ramp] 
+1x Genesis Wave (som) [Card Advantage] 
+1x Ghalta, Primal Hunger (prix) *F* 
+1x God-Eternal Rhonas (war)
+1x Green Sun's Zenith (mbs)
+1x Greenwarden of Murasa (bfz)
+1x Gruul Charm (gtc) *F* 
+1x Gruul Turf (mm2)
+1x Harmonize (p08) [Card Advantage] 
+1x Karametra's Acolyte (pths) *F*  [Ramp] 
+1x Kessig Wolf Run (isd)
+1x Kodama's Reach (uma) [Ramp] 
+1x Krosan Grip (tsp)
+1x Lifecrafter's Bestiary (aer) [Card Advantage] 
+1x Malignus (avr)
+1x Mina and Denn, Wildborn (ogw) [Ramp] 
+1x Mosswort Bridge (c15)
+11x Mountain (ust) 215
+1x Nature's Lore (mb1) [Ramp] 
+1x Nylea, God of the Hunt (ths)
+1x Oracle of Mul Daya (zen) [Ramp] 
+1x Praetor's Counsel (mbs) [Card Advantage] 
+1x Primal Command (mm3)
+1x Prowling Serpopard (akh)
+1x Rampant Growth (p09) [Ramp] 
+1x Rapacious One (cmd)
+1x Reclamation Sage (c14)
+1x Rhonas the Indomitable (akh)
+1x Rhythm of the Wild (rna)
+1x Rishkar's Expertise (aer) [Card Advantage] 
+1x Rogue's Passage (rtr)
+1x Rootbound Crag (m13)
+1x Rugged Highlands (ktk)
+1x Ruric Thar, the Unbowed (dgm) *F* 
+1x Savage Ventmaw (c17) [Ramp] 
+1x See the Unwritten (ktk) [Card Advantage] 
+1x Selvala, Heart of the Wilds (cn2) [Ramp] 
+1x Shared Summons (m20)
+1x Sheltered Thicket (akh)
+1x Somberwald Sage (avr) [Ramp] 
+1x Soul of the Harvest (avr) [Card Advantage] 
+1x Soul's Fire (uma)
+1x Spinerock Knoll (c15)
+1x Stomping Ground (gtc)
+1x Stonehoof Chieftain (c16)
+1x Strionic Resonator (m14) *F* 
+1x Sunbird's Invocation (pxln) *F*  [Card Advantage] 
+1x Taiga (3ed)
+1x Temple of Abandon (ths)
+1x Temur Battle Rage (frf)
+1x The Great Henge (eld) [Card Advantage] 
+1x Thunderfoot Baloth (c16)
+1x Traverse the Outlands (c17) [Ramp] 
+1x Traverse the Ulvenwald (soi) *F* 
+1x Tyrant's Familiar (c14)
+1x Vexing Shusher (shm)
+1x Vizier of the Menagerie (akh) [Card Advantage] 
+1x Vorinclex, Voice of Hunger (nph)
+1x Wood Elves (c15) [Ramp] 
+1x World at War (roe)
+1x Worldspine Wurm (rtr)
+1x Xenagos, God of Revels (bng) [Commander{top}] 
+1x Zendikar Resurgent (c17) [Card Advantage] 
+1x Zhur-Taa Druid (dgm) *F* 

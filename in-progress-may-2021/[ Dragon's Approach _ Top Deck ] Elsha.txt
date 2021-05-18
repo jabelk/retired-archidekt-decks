@@ -1,0 +1,67 @@
+1x Arid Mesa (zne)
+1x Ash Barrens (2xm)
+1x Azorius Signet (khc) [Ramp] 
+1x Birgi, God of Storytelling // Harnfel, Horn of Bounty (khm) [Spell Enablement] 
+1x Blasphemous Act (c21) [Removal] 
+1x Brainstorm (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Burning Prophet (war) [Draw] 
+1x Chromatic Lantern (sld) [Ramp] 
+1x Command Tower (c21)
+1x Commander's Sphere (c21) [Ramp] 
+26x Dragon's Approach (stx)
+1x Dream Halls (sth) [Spell Enablement] 
+1x Elsha of the Infinite (c19) *F*  [Commander{top}] 
+1x Evolving Wilds (cmr)
+1x Faithless Looting (c21) [Draw] 
+1x Flusterstorm (ima) [Removal] 
+1x Frantic Search (c20) [Draw] 
+1x Ghost Quarter (mb1)
+1x Goblin Electromancer (grn) [Spell Enablement] 
+1x Guttersnipe (mb1) [Damage] 
+1x Hallowed Fountain (rna)
+1x Harness the Storm (soi) [Recursion] 
+1x Helm of Awakening (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Honor the God-Pharaoh (war) [Draw] 
+4x Island (stx) 368
+1x Izzet Signet (c21) [Ramp] 
+1x Jace's Sanctum (c19) [Spell Enablement] 
+1x Jeska's Will (cmr) [Spell Enablement] 
+1x Knollspine Dragon (mb1) [DRAGON BALL Z] 
+1x Lightning Greaves (2xm)
+1x Locket of Yesterdays (tsp) [Spell Enablement] 
+1x Mana Crypt (2xm) [Ramp] 
+1x Mana Drain (cmr) [Removal] 
+1x Mana Geyser (c21) [Spell Enablement] 
+1x Mana Vault (uma) [Ramp] 
+1x Mind Stone (c21) [Ramp] 
+13x Mountain (stx) 372
+1x Neheb, the Eternal (hou) [Spell Enablement] 
+1x Niv-Mizzet, Parun (grn) [DRAGON BALL Z] 
+1x Past in Flames (tsr) [Recursion] 
+2x Plains (stx) 367
+1x Prairie Stream (c20)
+1x Ruby Medallion (cm2) [Ramp] 
+1x Runaway Steam-Kin (grn) [Spell Enablement] 
+1x Sacred Foundry (grn)
+1x Scroll Rack (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Seal of the Guildpact (c15) [Spell Enablement] 
+1x Sensei's Divining Top (ema) [Maybeboard{noDeck}{noPrice}] 
+1x Shivan Reef (c21)
+1x Smash to Smithereens (mb1) [Removal] 
+1x Sol Ring (c21) [Ramp] 
+1x Steam Vents (grn)
+1x Storm-Kiln Artist (stx) [Spell Enablement] 
+1x Syr Carah, the Bold (eld) [Draw] 
+1x Talisman of Conviction (mh1) [Ramp] 
+1x Talisman of Creativity (c21) [Ramp] 
+1x Talisman of Progress (mrd) [Ramp] 
+1x Terramorphic Expanse (tsr)
+1x Thought Vessel (cmr) [Ramp] 
+1x Thrill of Possibility (m21) [Draw] 
+1x Torbran, Thane of Red Fell (eld) [Damage] 
+1x Tormenting Voice (znr) [Draw] 
+1x Underworld Breach (thb) [Recursion] 
+1x Valakut Exploration (znr) [Draw] 
+1x Whirlwind of Thought (iko) [Draw] 
+1x Wild Guess (m14) [Draw] 
+1x Windswept Heath (zne)

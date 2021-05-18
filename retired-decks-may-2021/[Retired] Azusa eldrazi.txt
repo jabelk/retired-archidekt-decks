@@ -1,0 +1,80 @@
+1x Abundance (znc)
+1x All Is Dust (mb1) [Removal] 
+1x Allosaurus Shepherd (jmp)
+1x Ancient Stirrings (2xm) [Card Advantage] 
+1x Ancient Tomb (zne)
+1x Azusa, Lost but Seeking (m21) [Commander{top}] 
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Protection] 
+1x Beast Within (cmr) [Removal] 
+1x Blightsteel Colossus (2xm) [Smash Face] 
+1x Burgeoning (c16) [Ramp] 
+1x City of Solitude (vis)
+1x Collective Voyage (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Conduit of Ruin (bfz) [Smash Face] 
+1x Courser of Kruphix (mb1) [Ramp] 
+1x Crashing Drawbridge (eld) [Smash Face] 
+1x Crucible of Worlds (m19)
+1x Cultivate (cmr) [Ramp] 
+1x Defense Grid (9ed)
+1x Everflowing Chalice (plist) [Ramp] 
+1x Evolving Wilds (cmr) [Graveyard Filling Lands] 
+1x Expedition Map (2xm) [Tutors] 
+1x Exploration (2xm) [Ramp] 
+1x Eye of Ugin (mm2) [Tutors] 
+1x Fabled Passage (m21) [Graveyard Filling Lands] 
+1x Finale of Devastation (war)
+27x Forest (cmr) 511 [Boring Basics] 
+1x Gaea's Touch (drk) [Maybeboard{noDeck}{noPrice}] 
+1x Garruk's Uprising (m21) [Card Advantage] 
+1x Genesis Wave (ima)
+1x Ghost Quarter (mb1) [Graveyard Filling Lands] 
+1x Hall of Gemstone (mir) [Maybeboard{noDeck}{noPrice}] 
+1x Harmonize (cmr) [Card Advantage] 
+1x Heroic Intervention (m21) [Protection] 
+1x Homeward Path (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Horizon Stone (cmr) [Ramp] 
+1x Horn of Greed (cn2) [in mail] 
+1x Inventors' Fair (plist) [Tutors] 
+1x Kenrith's Transformation (eld) [Removal] 
+1x Khalni Heart Expedition (cmr) [Ramp] 
+1x Kodama's Reach (cmr) [Ramp] 
+1x Krosan Grip (c20) [Removal] 
+1x Leyline of Lifeforce (gpt) [Maybeboard{noDeck}{noPrice}] 
+1x Lightning Greaves (2xm) [Protection] 
+1x Lotus Cobra (znr) [Ramp] 
+1x Lotus Field (m20) [Graveyard Filling Lands] 
+1x Lotus Vale (wth) [Graveyard Filling Lands] 
+1x Mosswort Bridge (c20) [Utility Land] 
+1x Myriad Landscape (cmr) [Graveyard Filling Lands] 
+1x Nissa's Pilgrimage (c17) [Ramp] 
+1x Nissa's Triumph (war) [Ramp] 
+1x Nissa, Vital Force (kld) [Ramp] 
+1x Nissa, Who Shakes the World (war) [Ramp] 
+1x Once Upon a Time (eld) [Card Advantage] 
+1x Oracle of Mul Daya (jmp) [Ramp] 
+1x Rampaging Baloths (cmr)
+1x Ramunap Excavator (cmr)
+1x Realms Uncharted (roe)
+1x Recycle (tmp) [Maybeboard{noDeck}{noPrice}] 
+1x Reliquary Tower (cmr) [Utility Land] 
+1x Savage Summoning (m14) [Protection] 
+1x Scavenger Grounds (c20) [Removal] 
+1x Shifting Ceratops (m20) [Smash Face] 
+1x Sol Ring (cc1) [Ramp] 
+1x Steel Hellkite (c18) [Smash Face] 
+1x Sylvan Library (cc1)
+1x Sylvan Safekeeper (cma)
+1x Sylvan Scrying (mb1) [Tutors] 
+1x Terramorphic Expanse (cmr) [Graveyard Filling Lands] 
+1x Thaumatic Compass // Spires of Orazca (xln) [Ramp] 
+1x Time of Need (chk) [in mail] 
+1x Titania, Protector of Argoth (cma)
+1x Torpor Orb (nph) [Protection] 
+1x Ugin, the Ineffable (war) [Removal] 
+1x Ugin, the Spirit Dragon (m21)
+1x Ulamog, the Ceaseless Hunger (bfz) [Smash Face] 
+1x Void Winnower (bfz) [Smash Face] 
+1x War Room (cmr) [Card Advantage] 
+1x Wave of Vitriol (cma)
+1x Wayward Swordtooth (rix) [in mail] 
+1x Zuran Orb (ice)

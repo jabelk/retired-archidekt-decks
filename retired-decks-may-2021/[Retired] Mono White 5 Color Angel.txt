@@ -1,0 +1,81 @@
+1x Akroma's Will (cmr)
+1x Angel of Destiny (znr)
+1x Angel of Jubilation (avr)
+1x Angel's Grace (plist)
+1x Angelic Arbiter (jmp)
+1x Angelic Skirmisher (gtc)
+1x Arcane Signet (cmr) [Ramp] 
+1x Archaeomancer's Map (c21) [Ramp] 
+1x Atraxa, Praetors' Voice (2xm)
+1x Austere Command (cmr)
+1x Bishop of Wings (m20)
+1x Blast Zone (war)
+1x Bruna, the Fading Light (emn)
+1x Buried Ruin (2xm)
+1x Castle Ardenvale (eld)
+1x Celestial Dawn (tsb)
+1x Command Tower (c20)
+1x Court of Grace (cmr)
+1x Darksteel Mutation (mb1)
+1x Deathless Angel (roe)
+1x Dolmen Gate (mb1)
+1x Emeria Shepherd (znc)
+1x Emeria's Call // Emeria, Shattered Skyclave (znr)
+1x Emeria, the Sky Ruin (plist)
+1x Exotic Orchard (c20)
+1x Fellwar Stone (plist) [Ramp] 
+1x Firja's Retribution (khm)
+1x Flagstones of Trokair (uma)
+1x Generous Gift (cmr)
+1x Gilded Lotus (sld) [Ramp] 
+1x Gisela, the Broken Blade (emn)
+1x Guardian of the Gateless (cn2)
+1x Herald of War (avr)
+1x Hour of Revelation (znc)
+1x Karoo (c14)
+1x Land Tax (plist)
+1x Linvala, Keeper of Silence (jmp)
+1x Luminarch Ascension (a25)
+1x Lyra Dawnbringer (dom)
+1x Maelstrom Archangel (jmp)
+1x Mind Stone (khc) [Ramp] 
+1x Mistveil Plains (uma)
+1x Morophon, the Boundless (mh1) [Commander{top}] 
+1x Myriad Landscape (cmr)
+1x Path of Ancestry (cmr)
+1x Path to Exile (tsr)
+20x Plains (cmr) 505
+1x Prismatic Lens (uma) [Ramp] 
+1x Rampage of the Valkyries (khm)
+1x Reliquary Tower (cmr)
+1x Resplendent Angel (m19)
+1x Resplendent Marshal (khm)
+1x Reya Dawnbringer (uma)
+1x Righteous Valkyrie (khm)
+1x Segovian Angel (mh1)
+1x Sephara, Sky's Blade (m20)
+1x Seraph Sanctuary (ddq)
+1x Shattered Angel (cma)
+1x Shielded by Faith (ss2)
+1x Skyclave Relic (znr) [Ramp] 
+1x Smothering Tithe (rna)
+1x Sol Ring (cc1) [Ramp] 
+1x Solemn Simulacrum (c21)
+1x Stalwart Valkyrie (khm)
+1x Starnheim Aspirant (khm)
+1x Starnheim Unleashed (khm)
+1x Swamp (khm) 396
+1x Tariel, Reckoner of Souls (cma)
+1x Teferi's Protection (sld)
+1x Thawing Glaciers (vma)
+1x The Immortal Sun (rix) [Ramp] 
+1x Thespian's Stage (2xm)
+1x True Conviction (ss2)
+1x Urza's Incubator (cm2) [Ramp] 
+1x Valkyrie Harbinger (khm)
+1x Wayfarer's Bauble (plist) [Ramp] 
+1x Windbrisk Heights (c20)
+1x Winds of Abandon (plist)
+1x Worn Powerstone (plist) [Ramp] 
+1x Wrath of God (plist)
+1x Youthful Valkyrie (khm)

@@ -1,0 +1,108 @@
+1x Abundance (znc)
+1x Aethersnipe (mb1) [bounce] 
+1x Alchemist's Refuge (avr)
+1x Ancestral Statue (jmp) [combo] 
+1x Animar, Soul of Elements (mb1) [Commander{top}] 
+1x Arbor Elf (mb1) [ramp] 
+1x Ash Barrens (2xm)
+1x Autumn's Veil (m12)
+1x Bane of Progress (cc1) [Maybeboard{noDeck}{noPrice}] 
+1x Beast Whisperer (c20) [draw] 
+1x Beastcaller Savant (bfz) [ramp] 
+1x Birds of Paradise (m12) [ramp] 
+1x Branching Evolution (jmp)
+1x Clever Impersonator (c19) [Maybeboard{noDeck}{noPrice}] 
+1x Cloud of Faeries (ulg) [ramp] 
+1x Cloudstone Curio (rav) [bounce] 
+1x Coiling Oracle (cmr) [draw] 
+1x Command Tower (cc1)
+1x Decimator of the Provinces (emn) [Maybeboard{noDeck}{noPrice}] 
+1x Dream Stalker (tsp) [bounce] 
+1x Eldritch Evolution (mb1)
+1x Eldritch Evolution (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Elvish Spirit Guide (all) [ramp] 
+1x Elvish Visionary (cmr) [draw] 
+1x Emrakul, the Promised End (emn) [Maybeboard{noDeck}{noPrice}] 
+1x Eternal Witness (cmr) [utility] 
+1x Evolving Wilds (cmr)
+1x Exotic Orchard (c20)
+1x Fabled Passage (m21)
+1x Fertile Ground (mb1) [ramp] 
+1x Flooded Grove (2xm)
+10x Forest (cmr) 510
+1x Forgotten Ancient (cm2)
+1x Frontier Bivouac (c20)
+1x Fyndhorn Elves (cmr) [ramp] 
+1x Gaea's Herald (10e) [protect] 
+1x Glimpse of Nature (chk)
+1x Glimpse of Nature (chk) [Maybeboard{noDeck}{noPrice}] 
+1x Green Sun's Zenith (ema)
+1x Hardened Scales (cm2)
+1x Heartwood Storyteller (fut) [Maybeboard{noDeck}{noPrice}] 
+1x Heroic Intervention (m21)
+1x Hinterland Harbor (dom)
+1x Imperial Recruiter (2xm) [draw] 
+1x Inspiring Call (znc)
+1x Invigorating Surge (m21)
+9x Island (cmr) 507
+1x Ketria Triome (iko)
+1x Klothys, God of Destiny (thb) [Maybeboard{noDeck}{noPrice}] 
+1x Kozilek, Butcher of Truth (uma)
+1x Llanowar Elves (mb1) [ramp] 
+1x Man-o'-War (mb1) [bounce] 
+1x Mossfire Valley (c20)
+1x Mountain (cmr) 508
+1x Mulldrifter (cmr) [draw] 
+1x Mwonvuli Beast Tracker (pm13) [Maybeboard{noDeck}{noPrice}] 
+1x Negate (mb1) [protect] 
+1x Neoform (war)
+1x Overgrowth (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Peregrine Drake (bbd) [bounce] 
+1x Pestermite (mma) [Maybeboard{noDeck}{noPrice}] 
+1x Phyrexian Metamorph (2xm) [utility] 
+1x Pollenbright Druid (war)
+1x Purphoros, God of the Forge (sld) *F*  [combo] 
+1x Quirion Elves (dde)
+1x Quirion Sentinel (inv) [ramp] 
+1x Rattleclaw Mystic (ktk) [ramp] 
+1x Reclamation Sage (cmr)
+1x Red Elemental Blast (a25) [Maybeboard{noDeck}{noPrice}] 
+1x Rhythm of the Wild (rna) [protect] 
+1x Rishkar, Peema Renegade (jmp) [ramp] 
+1x Rootbound Crag (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Ruric Thar, the Unbowed (a25)
+1x Seedtime (jud) [Maybeboard{noDeck}{noPrice}] 
+1x Shadowspear (thb)
+1x Shaman of Forgotten Ways (dtk) [combo] 
+1x Shrieking Drake (vis) [bounce] 
+1x Silhana Wayfinder (jmp) [draw] 
+1x Slippery Bogbonder (c20)
+1x Sol Ring (cc1) [ramp] 
+1x Song of Creation (iko)
+1x Spellskite (2xm) [protect] 
+1x Steam Vents (grn)
+1x Surrak Dragonclaw (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Sylvan Safekeeper (cma) [Maybeboard{noDeck}{noPrice}] 
+1x Temple of Abandon (thb)
+1x Temple of Mystery (m21)
+1x Temur Sabertooth (c17) [combo] 
+1x Terramorphic Expanse (cmr)
+1x The Great Henge (eld) [Maybeboard{noDeck}{noPrice}] 
+1x The Ozolith (iko)
+1x Thrasios, Triton Hero (cmr) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Timber Gorge (m19) [Maybeboard{noDeck}{noPrice}] 
+1x Tinder Wall (me2) [ramp] 
+1x Toothy, Imaginary Friend (bbd) [Maybeboard{noDeck}{noPrice}] 
+1x Vanishing (vis)
+1x Veil of Summer (m20) [Maybeboard{noDeck}{noPrice}] 
+1x Vexing Shusher (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Vizier of the Menagerie (akh) [draw] 
+1x Walking Ballista (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Wall of Blossoms (jmp) [draw] 
+1x Wall of Roots (ima)
+1x Weird Harvest (9ed) [draw] 
+1x Whispersilk Cloak (mb1) [protect] 
+1x Wild Cantor (gpt) [Maybeboard{noDeck}{noPrice}] 
+1x Wild Growth (mb1) [ramp] 
+1x Wood Elves (cma) [ramp] 
+1x Yavimaya Coast (c20)

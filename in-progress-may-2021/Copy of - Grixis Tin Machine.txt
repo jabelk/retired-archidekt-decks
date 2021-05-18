@@ -1,0 +1,117 @@
+1x Academy Ruins (2xm)
+1x All Is Dust (uma) [Sweeper] 
+1x Arcane Signet (eld) [Ramp] 
+1x Arcbound Ravager (sld) *F*  [Sac outlet] 
+1x Arcum Dagsson (2xm) [Cheat out] 
+1x Ashnod's Altar (ema) [Sac outlet] 
+1x Baleful Strix (e01) [Card selection] 
+1x Blood Crypt (prna)
+1x Bojuka Bog (c18)
+1x Bolas's Citadel (war) [Value] 
+1x Bosh, Iron Golem (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Brudiclad, Telchor Engineer (c18) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Buried Ruin (c18)
+1x Chaos Warp (c18) [Target removal] 
+1x Chief Engineer (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Chief of the Foundry (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Combustible Gearhulk (kld) [Card selection] 
+1x Command Tower (c18)
+1x Cranial Plating (c16) [Win con] 
+1x Crumbling Necropolis (ala) *F* 
+1x Damnation (mm3) [Sweeper] 
+1x Daretti, Ingenious Iconoclast (cn2) [Target removal] 
+1x Daretti, Scrap Savant (c16) [Card selection] 
+1x Darksteel Citadel (c18)
+1x Darksteel Forge (m14) [Protection] 
+1x Darkwater Egg (ody) [Maybeboard{noDeck}{noPrice}] 
+1x Diabolic Intent (bbd) [Maybeboard{noDeck}{noPrice}] 
+1x Disciple of the Vault (mrd) [Win con] 
+1x Dockside Extortionist (c19) [Ramp] 
+1x Draco (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Dragonskull Summit (pxln)
+1x Drowned Catacomb (pxln)
+1x Emergence Zone (war)
+1x Empowered Autogenerator (c19) [Maybeboard{noDeck}{noPrice}] 
+1x Emry, Lurker of the Loch (eld) [Recursion ] 
+1x Etherium Sculptor (c18) [Cheat out] 
+1x Fabricate (m10) [Tutor] 
+1x Goblin Engineer (mh1) [Recursion ] 
+1x Goblin Welder (ddu) *F*  [Recursion ] 
+1x Grave Pact (cm2) [Maybeboard{noDeck}{noPrice}] 
+1x Great Furnace (c18)
+1x Hangarback Walker (ori) [Tokens ] 
+1x Hanweir Battlements (emn)
+1x Herald of Anguish (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Inspiring Statuary (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Inventors' Fair (kld)
+5x Island (hou) 193
+1x Jhoira's Familiar (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Jhoira, Weatherlight Captain (dom) [Card selection] 
+1x Junk Diver (cm2) [Recursion ] 
+1x Krark-Clan Ironworks (5dn) [Sac outlet] 
+1x Lotus Bloom (mma) [Maybeboard{noDeck}{noPrice}] 
+1x Lotus Petal (mb1) [Ramp] 
+1x Luxury Suite (bbd)
+1x Mana Crypt (2xm) [Ramp] 
+1x Marionette Master (kld) [Win con] 
+1x Master Transmuter (arc) [Cheat out] 
+1x Mechanized Production (aer) [Win con] 
+1x Memnarch (dst) [Maybeboard{noDeck}{noPrice}] 
+1x Meteor Golem (jmp) [Target removal] 
+1x Mirage Mirror (hou) [Value] 
+1x Mirrodin Besieged (mh1) [Win con] 
+1x Morphic Pool (bbd)
+4x Mountain (pal05) 4
+1x Mox Opal (som) [Ramp] 
+1x Mycosynth Golem (5dn) [Maybeboard{noDeck}{noPrice}] 
+1x Myr Battlesphere (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Myr Retriever (mb1) [Recursion ] 
+1x Mystic Forge (m20) [Card selection] 
+1x Nihil Spellbomb (a25) [Yard hate] 
+1x Noxious Gearhulk (kld) [Target removal] 
+1x One with the Machine (m19) [Maybeboard{noDeck}{noPrice}] 
+1x Padeem, Consul of Innovation (kld) [Card selection] 
+1x Phyrexian Altar (uma) [Sac outlet] 
+1x Phyrexian Metamorph (nph) [Maybeboard{noDeck}{noPrice}] 
+1x Priest of Yawgmoth (atq) [Sac outlet] 
+1x Revel in Riches (pxln) [Win con] 
+1x Rogue's Passage (c19)
+1x Sai, Master Thopterist (pm19) [Tokens ] 
+1x Scrap Trawler (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Seat of the Synod (c18)
+1x Semblance Anvil (som) [Maybeboard{noDeck}{noPrice}] 
+1x Shimmer Myr (c16) [Value] 
+1x Signal Pest (mbs) [Maybeboard{noDeck}{noPrice}] 
+1x Silas Renn, Seeker Adept (c16) *F*  [Commander{top}] 
+1x Slobad, Goblin Tinkerer (c16) [Protection] 
+1x Sol Ring (pf19) [Ramp] 
+1x Solemn Simulacrum (cm2) [Maybeboard{noDeck}{noPrice}] 
+1x Spellskite (2xm) [Value] 
+1x Steam Vents (grn)
+1x Sulfur Falls (pdom)
+4x Swamp (und) 91
+1x Tainted Isle (pca)
+1x Tainted Peak (tor)
+1x Talisman of Creativity (mh1) [Ramp] 
+1x Talisman of Dominance (e01) [Ramp] 
+1x Talisman of Indulgence (e01) [Ramp] 
+1x Tezzeret the Seeker (mm2) [Cheat out] 
+1x Tezzeret, Master of the Bridge (war) *F*  [Win con] 
+1x Thopter Spy Network (ori) [Maybeboard{noDeck}{noPrice}] 
+1x Time Sieve (mb1) [Win con] 
+1x Tome of Legends (eld) [Card selection] 
+1x Trading Post (mb1) [Value] 
+1x Trash for Treasure (c16) [Cheat out] 
+1x Treasure Nabber (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Unwinding Clock (c18) [Value] 
+1x Urborg, Tomb of Yawgmoth (uma)
+1x Vandalblast (c15) [Sweeper] 
+1x Vault of Whispers (hop)
+1x Vela the Night-Clad (c17) [Maybeboard{noDeck}{noPrice}] 
+1x Vial Smasher the Fierce (c16) *F*  [Commander{top}] 
+1x Walking Ballista (sld) *F*  [Win con] 
+1x Welding Jar (mrd) [Maybeboard{noDeck}{noPrice}] 
+1x Whir of Invention (aer) [Tutor] 
+1x Whispersilk Cloak (m10) [Protection] 
+1x Wishclaw Talisman (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Wurmcoil Engine (cm2) [Value] 

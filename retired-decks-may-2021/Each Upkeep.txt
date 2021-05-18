@@ -1,0 +1,79 @@
+1x Aetherspouts (m15) [Removal] 
+1x Alchemist's Refuge (avr)
+1x Arcane Signet (khc) [Ramp] 
+1x As Foretold (akh) [Mana cheating] 
+1x Asceticism (mb1) [Protection] 
+1x Awakening Zone (2xm) [Each upkeep value] 
+1x Barkchannel Pathway // Tidechannel Pathway (khm)
+1x Beast Within (cmr) [Removal] 
+1x Blighted Woodland (cmr)
+1x Breeding Pool (rna)
+1x Champion of Lambholt (2xm) [TOKENZ] 
+1x Collective Voyage (c16) [Ramp] 
+1x Command Tower (c20)
+1x Craterhoof Behemoth (jmp) [Finish the game] 
+1x Cultivate (cmr) [Ramp] 
+1x Dark Depths (uma) [Finish the game] 
+1x Dissipation Field (som) [Removal] 
+1x Eldrazi Monument (mb1) [Protection] 
+1x Fabled Passage (m21)
+1x Field of Ruin (thb)
+1x Force of Negation (mh1) [Protection] 
+10x Forest (khm) 398
+1x Gaea's Cradle (usg)
+1x Greater Good (2xm) [Draw] 
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) [Mana cheating] 
+1x Heroic Intervention (m21) [Protection] 
+13x Island (khm) 395
+1x Kodama's Reach (cmr) [Ramp] 
+1x Koma, Cosmos Serpent (khm) [Commander{top}] 
+1x Kumena's Awakening (rix) [Draw] 
+1x Leyline of Anticipation (m20) [Each upkeep value] 
+1x Lightning Greaves (2xm) [Protection] 
+1x Mana Drain (cmr) [Protection] 
+1x Mindbreak Trap (zen) [Removal] 
+1x Mosswort Bridge (c20)
+1x Mulldrifter (cmr) [Draw] 
+1x Mystic Reflection (khm) [TOKENZ] 
+1x Mystic Sanctuary (eld)
+1x Nezahal, Primal Tide (cmr) [Draw] 
+1x Nykthos, Shrine to Nyx (plist)
+1x Ohran Frostfang (plist) [Protection] 
+1x Ominous Seas (iko) [TOKENZ] 
+1x Pact of Negation (tsr) [Removal] 
+1x Parallel Lives (isd) [TOKENZ] 
+1x Preordain (cmr) [Draw] 
+1x Proteus Staff (mrd) [TOKENZ] 
+1x Ravenform (khm) [Removal] 
+1x Return of the Wildspeaker (znc) [Finish the game] 
+1x Search for Tomorrow (cmr) [Ramp] 
+1x Second Harvest (c19) [TOKENZ] 
+1x Seedborn Muse (cc1) [Mana cheating] 
+1x Serum Visions (sld) *F*  [Draw] 
+1x Shaman of Forgotten Ways (dtk) [Finish the game] 
+1x Simic Signet (cmr) [Ramp] 
+1x Sol Ring (khc) [Ramp] 
+1x Soothsaying (mb1) [Draw] 
+1x Soul of New Phyrexia (c18) [Protection] 
+1x Soul-Guide Lantern (thb) [Removal] 
+1x Sphinx of the Second Sun (cmr) [Each upkeep value] 
+1x Summoner's Pact (tsr) [Finish the game] 
+1x Sun Droplet (c13) [Each upkeep value] 
+1x Swiftfoot Boots (khc) [Protection] 
+1x Talisman of Curiosity (mh1) [Ramp] 
+1x Teferi, Master of Time (m21) [Each upkeep value] 
+1x Tendershoot Dryad (rix) [Each upkeep value] 
+1x The Magic Mirror (eld) [Draw] 
+1x Thrasios, Triton Hero (cmr) *F*  [Draw] 
+1x Trench Gorger (cmd) [Removal] 
+1x Tyrite Sanctum (khm)
+1x Ulamog, the Infinite Gyre (uma) [Finish the game] 
+1x Veil of Summer (m20) [Protection] 
+1x Verdant Force (dom) [Each upkeep value] 
+1x War Room (cmr)
+1x Wayfarer's Bauble (cm2) [Ramp] 
+1x Wild Growth (mb1) [Ramp] 
+1x Wilderness Reclamation (c20) [Mana cheating] 
+1x Worldly Tutor (cc1) [Finish the game] 
+1x Worldspine Wurm (rtr) [Finish the game] 
+1x Yavimaya Hollow (uds)

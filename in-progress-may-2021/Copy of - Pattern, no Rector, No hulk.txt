@@ -1,0 +1,113 @@
+1x Aether Hub (f17) *F* 
+1x Altar of Dementia (mh1) [Sacrifice outlet] 
+1x Ancient Tomb (tmp) [Maybeboard{noDeck}{noPrice}] 
+1x Animate Dead (4ed) [Recursion] 
+1x Arcane Signet (c20) [Ramp] 
+1x Arid Mesa (zen) [Maybeboard{noDeck}{noPrice}] 
+1x Ash Barrens (a25)
+1x Ashnod's Altar (6ed) [Sacrifice outlet] 
+1x Assassin's Trophy (grn) [Removal] 
+1x Barren Moor (ons)
+1x Basri's Lieutenant (m21) [Counters stuff] 
+1x Blood Artist (c17) [Loop Value] 
+1x Bloodstained Mire (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Bojuka Bog (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Buried Alive (uma) [Tutor] 
+1x Caller of the Claw (lgn) [Loop Value] 
+1x Canopy Vista (bfz)
+1x Carrion Feeder (scg) [Sacrifice outlet] 
+1x Cartel Aristocrat (gtc) [Sacrifice outlet] 
+1x Caves of Koilos (md1)
+1x Champion of Lambholt (avr) [Loop Value] 
+1x Command Tower (c20)
+1x Commander's Sphere (c20) [Ramp] 
+1x Corpse Knight (m20) [Loop Value] 
+1x Crystalline Crawler (c16) [Ramp] 
+1x Dakmor Salvage (uma) [Self Mill] 
+1x Dance of the Dead (ice) [Recursion] 
+1x Deathrite Shaman (rtr) [Ramp] 
+1x Devoted Druid (shm) [Ramp] 
+1x Dictate of Erebos (jou) [Removal] 
+1x Emergence Zone (war) [Flash] 
+1x Entomb (uma) [Tutor] 
+1x Eternal Witness (c15) [Maybeboard{noDeck}{noPrice}] 
+1x Evolving Wilds (mb1)
+1x Exotic Orchard (c20)
+1x Fallen Ideal (tsp) [Sacrifice outlet] 
+1x Fanatical Devotion (nem) [Sacrifice outlet] 
+1x Flooded Strand (ktk) [Maybeboard{noDeck}{noPrice}] 
+2x Forest (mmq) 347
+1x Glory (jud) [Removal] 
+1x Godless Shrine (gtc) [Maybeboard{noDeck}{noPrice}] 
+1x Good-Fortune Unicorn (mh1) [Counters stuff] 
+1x Grave Pact (8ed) [Removal] 
+1x Hermit Druid (sth) [Self Mill] 
+1x Horizon Canopy (ima)
+1x Indatha Triome (iko)
+1x Isolated Chapel (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Jund Panorama (ala)
+1x Karmic Guide (ulg) [Recursion] 
+1x Kitchen Finks (uma) [Loop Value] 
+1x Krosan Verge (c19)
+1x Liliana's Standard Bearer (m21) *F*  [Loop Value] 
+1x Llanowar Wastes (apc)
+1x Lost Auramancers (fut) [Tutor] 
+1x Luminous Broodmoth (iko) [Counters stuff] 
+1x Lurrus of the Dream-Den (iko) [Recursion] 
+1x Marsh Flats (zen) [Maybeboard{noDeck}{noPrice}] 
+1x Mesmeric Orb (2xm) [Self Mill] 
+1x Mind Stone (ddp) [Ramp] 
+1x Misty Rainforest (zen) [Maybeboard{noDeck}{noPrice}] 
+1x Nature's Claim (ima) [Removal] 
+1x Naya Panorama (c19)
+1x Nesting Grounds (c20) [Counters stuff] 
+1x Netherborn Altar (c20) [Counters stuff] 
+1x Oubliette (2xm) [Removal] 
+1x Overgrown Tomb (grn) [Maybeboard{noDeck}{noPrice}] 
+1x Pattern of Rebirth (uds) [Tutor] 
+1x Pawn of Ulamog (roe) [Ramp] 
+1x Phyrexian Tower (uma) [Sacrifice outlet] 
+3x Plains (ody) 333
+1x Polluted Delta (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Power Conduit (mrd) [Counters stuff] 
+1x Reliquary Tower (con)
+1x Renegade Rallier (aer) [Recursion] 
+1x Reveillark (c20) [Recursion] 
+1x Reverent Silence (nem) [Removal] 
+1x Saffi Eriksdotter (tsp) [Recursion] 
+1x Sakura-Tribe Elder (chk) [Ramp] 
+1x Sandsteppe Citadel (ktk)
+1x Scattered Groves (akh)
+1x Secluded Steppe (ons)
+1x Snuff Out (mmq) [Removal] 
+1x Sol Ring (c20) [Ramp] 
+1x Spore Frog (pcy) [Loop Value] 
+1x Springbloom Druid (mh1) [Ramp] 
+1x Sungrass Prairie (c20)
+1x Sunpetal Grove (xln) [Maybeboard{noDeck}{noPrice}] 
+3x Swamp (ody) 339
+1x Swords to Plowshares (ice) [Removal] 
+1x Syr Konrad, the Grim (eld) [Loop Value] 
+1x Tainted Field (e02)
+1x Tainted Wood (c15)
+1x Tayam, Luminous Enigma (c20) *F*  [Commander{top}] 
+1x Tectonic Edge (wwk) [Removal] 
+1x Temple Garden (grn) [Maybeboard{noDeck}{noPrice}] 
+1x Terramorphic Expanse (uma)
+1x Tormod's Crypt (m13) [Removal] 
+1x Tortured Existence (sth) [Recursion] 
+1x Unexpectedly Absent (c13) [Removal] 
+1x Urborg, Tomb of Yawgmoth (uma) [Maybeboard{noDeck}{noPrice}] 
+1x Vampire Hexmage (cns) [Removal] 
+1x Veil of Summer (m20) [Removal] 
+1x Verdant Catacombs (zen) [Maybeboard{noDeck}{noPrice}] 
+1x Vivien, Champion of the Wilds (war) [Flash] 
+1x Vivien, Monsters' Advocate (iko) [Tutor] 
+1x Vizier of Remedies (akh) [Counters stuff] 
+1x Wall of Roots (mir) [Ramp] 
+1x Wayfarer's Bauble (mm2) [Ramp] 
+1x Windswept Heath (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Wood Elves (exo) [Ramp] 
+1x Wooded Foothills (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Woodland Cemetery (dom)
+1x Yahenni, Undying Partisan (aer) [Sacrifice outlet] 

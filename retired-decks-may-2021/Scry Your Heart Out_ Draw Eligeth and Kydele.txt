@@ -1,0 +1,81 @@
+1x Aetherspouts (m15) [Removal] 
+1x Alchemist's Refuge (avr)
+1x Arcane Signet (khc) [Ramp] 
+1x Ash Barrens (2xm)
+1x Augury Owl (mb1) [Scry] 
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Utility] 
+1x Beast Within (cmr) [Removal] 
+1x Castle Vantress (eld)
+1x Chasm Skulker (mb1) [Draw Payoffs] 
+1x Command Tower (khc)
+1x Commander's Plate (cmr)
+1x Condescend (mb1) [Removal] 
+1x Cryptic Annelid (ddi) [Maybeboard{noDeck}{noPrice}] 
+1x Crystal Ball (mb1) [Scry] 
+1x Cultivate (cmr) [Ramp] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Deliberate (znr) [Scry] 
+1x Dissipation Field (som)
+1x Eligeth, Crossroads Augur (cmr) [Commander{top}] 
+1x Emrakul, the Promised End (emn) [Draw Payoffs] 
+1x Exotic Orchard (c20)
+1x Fabled Passage (m21)
+1x Flooded Grove (2xm)
+1x Foresee (m11) [Scry] 
+1x Freed from the Real (a25) [Untap] 
+1x Graven Lore (khm) [Scry] 
+1x Growth Spiral (cmr) [Ramp] 
+1x Helix Pinnacle (plist) [Draw Payoffs] 
+1x Heroic Intervention (m21) [Utility] 
+1x Hinterland Harbor (dom)
+1x Horizon Stone (cmr) [Draw Payoffs] 
+1x In Search of Greatness (khm) [Scry] 
+1x Inscription of Insight (znr) [Scry] 
+1x Jace's Sanctum (c19) [Scry] 
+1x Jace, Mirror Mage (znr) [Scry] 
+1x Kiora's Follower (mb1) [Untap] 
+1x Kodama's Reach (cmr) [Ramp] 
+1x Kruphix, God of Horizons (mb1) [Draw Payoffs] 
+1x Kydele, Chosen of Kruphix (cmr) *F*  [Commander{top}] 
+1x Lifecrafter's Bestiary (c20) [Scry] 
+1x Marit Lage's Slumber (mh1) [Scry] 
+1x Mass Manipulation (rna) [Draw Payoffs] 
+1x Minamo, School at Water's Edge (chk)
+1x Murkfiend Liege (cmr) [Utility] 
+1x Mystic Speculation (fut) [Scry] 
+1x Negate (plist) [Removal] 
+1x Omen of the Sea (thb) [Scry] 
+1x Ominous Seas (iko) [Draw Payoffs] 
+1x Opt (m21) [Scry] 
+1x Praetor's Counsel (cma)
+1x Preordain (cmr) [Scry] 
+1x Prognostic Sphinx (e01) [Scry] 
+1x Psychosis Crawler (c20) [Draw Payoffs] 
+1x Rampant Growth (cmr) [Ramp] 
+1x Ravenform (khm) [Removal] 
+1x Reliquary Tower (cmr)
+1x Retreat to Coralhelm (plist) [Untap] 
+1x Rimewood Falls (khm)
+1x Sea Gate Restoration // Sea Gate, Reborn (znr) [Utility] 
+1x Serum Visions (mm3) [Scry] 
+1x Sigiled Starfish (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Simic Signet (cmr) [Ramp] 
+9x Snow-Covered Forest (khm) 285
+15x Snow-Covered Island (khm) 279
+1x Sol Ring (khc) [Ramp] 
+1x Soul of New Phyrexia (c18) [Utility] 
+1x Staff of Domination (cmr) [Utility] 
+1x Swiftfoot Boots (khc) [Utility] 
+1x Talisman of Curiosity (mh1) [Ramp] 
+1x Tamiyo's Epiphany (war) [Scry] 
+1x Teferi's Ageless Insight (m21) [Utility] 
+1x The Magic Mirror (eld) [Utility] 
+1x Thought Vessel (cmr) [Ramp] 
+1x Thousand-Year Elixir (cma) [Untap] 
+1x Three Visits (cmr) [Ramp] 
+1x Toothy, Imaginary Friend (bbd) [Draw Payoffs] 
+1x Track Down (m21) [Scry] 
+1x Umbral Mantle (mb1) [Untap] 
+1x Vizier of Tumbling Sands (c20) [Untap] 
+1x Witching Well (eld) [Scry] 
+1x Zhalfirin Void (dom)

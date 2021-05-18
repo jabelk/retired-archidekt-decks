@@ -1,0 +1,92 @@
+1x Ancient Tomb (zne)
+1x Atarka, World Render (c17) [Evasion] 
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Recursion] 
+1x Balefire Dragon (uma) [Removal] 
+1x Blasphemous Act (c21) [Removal] 
+1x Blightsteel Colossus (2xm) [Finisher] 
+1x Bonders' Enclave (iko)
+1x Castle Garenbrig (eld)
+1x Chaos Warp (c20) [Removal] 
+1x Cinder Glade (c20)
+1x Combustible Gearhulk (c21) [Non Combat Damage] 
+1x Command Tower (c21)
+1x Copperline Gorge (zne)
+1x Cultivate (c21) [Ramp] 
+1x Defense of the Heart (mb1) [Cheat into Play] 
+1x Deflecting Swat (c20) [Protection] 
+1x Dragonlord Atarka (dtk) [Non Combat Damage] 
+1x Elder Gargaroth (m21) [Value Beaters] 
+1x Etali, Primal Storm (c21) [Value Beaters] 
+1x Farseek (tsr) [Ramp] 
+1x Fire-Lit Thicket (2xm)
+4x Forest (stx) 375
+1x Greater Good (2xm) [Draw] 
+1x Greenwarden of Murasa (bfz) [Recursion] 
+1x Hellkite Tyrant (c21) [Value Beaters] 
+1x Hydra Omnivore (c18) [Non Combat Damage] 
+1x Ilharg, the Raze-Boar (war) [Cheat into Play] 
+1x Inferno Titan (sld) [Non Combat Damage] 
+1x Kazuul's Fury // Kazuul's Cliffs (znr) [Non Combat Damage] 
+1x Kessig Wolf Run (c20)
+1x Knollspine Dragon (mb1) [Draw] 
+1x Kodama's Reach (c21) [Ramp] 
+1x Kogla, the Titan Ape (iko) [Removal] 
+1x Malignus (avr) [Finisher] 
+1x Mana Crypt (2xm) [Ramp] 
+1x Migration Path (iko) [Ramp] 
+1x Moldgraf Monstrosity (c18) [Recursion] 
+1x Moraug, Fury of Akoum (znr) [Finisher] 
+1x Mosswort Bridge (c21)
+6x Mountain (stx) 372
+1x Nykthos, Shrine to Nyx (plist)
+1x Oracle of Mul Daya (jmp) [Ramp] 
+1x Phyrexian Hydra (mbs) [Value Beaters] 
+1x Questing Beast (eld) [Value Beaters] 
+1x Radha, Heart of Keld (m21) [Ramp] 
+1x Raging Ravine (uma)
+1x Reliquary Tower (c21)
+1x Return of the Wildspeaker (c21) [Draw] 
+1x Rhythm of the Wild (rna) [Protection] 
+1x Rishkar's Expertise (aer) [Draw] 
+1x Rogue's Passage (c21)
+1x Rootbound Crag (xln)
+1x Ruric Thar, the Unbowed (a25) [Non Combat Damage] 
+1x Sakura-Tribe Elder (c20) [Ramp] 
+1x Savage Ventmaw (bbd) [Value Beaters] 
+1x Scourge of the Throne (plist) [Value Beaters] 
+1x Seasons Past (soi) [Recursion] 
+1x See the Unwritten (ktk) [Cheat into Play] 
+1x Sheltered Thicket (akh)
+1x Siege Behemoth (cma) [Non Combat Damage] 
+1x Skarrg, the Rage Pits (mb1)
+1x Skyshroud Claim (bbd) [Ramp] 
+1x Sneak Attack (2xm) [Cheat into Play] 
+1x Sol Ring (c21) [Ramp] 
+1x Soul of New Phyrexia (c18) [Protection] 
+1x Spinerock Knoll (c20)
+1x Spire Garden (zne)
+1x Stalking Vengeance (c16) [Non Combat Damage] 
+1x Stomping Ground (rna)
+1x Sunder Shaman (rna) [Removal] 
+1x Survival of the Fittest (wc98) [Tutor] 
+1x Sylvan Library (cc1) [Draw] 
+1x Taiga (3ed)
+1x Tectonic Edge (mb1)
+1x Temple of Abandon (thb)
+1x Terror of the Peaks (m21) [Non Combat Damage] 
+1x The Great Henge (eld) [Ramp] 
+1x Three Visits (cmr) [Ramp] 
+1x Thunderfoot Baloth (cma) [Evasion] 
+1x Tooth and Nail (mma) [Cheat into Play] 
+1x Triumph of the Hordes (mb1) [Evasion] 
+1x Turntimber Symbiosis // Turntimber, Serpentine Wood (znr) [Cheat into Play] 
+1x Tyrant's Familiar (cm2) [Non Combat Damage] 
+1x Ulvenwald Hydra (jmp) [Ramp] 
+1x Valakut Awakening // Valakut Stoneforge (znr) [Draw] 
+1x Warstorm Surge (c19) [Non Combat Damage] 
+1x Wasteland (zne)
+1x Whisperwood Elemental (frf) [Protection] 
+1x Wooded Foothills (zne)
+1x World Breaker (ogw) [Removal] 
+1x Xenagos, God of Revels (bng) [Commander{top}] 
+1x Yavimaya Hollow (uds)

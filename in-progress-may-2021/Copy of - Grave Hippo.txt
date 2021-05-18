@@ -1,0 +1,97 @@
+1x Altered Ego (soi) [Clone Patrol] 
+1x Asceticism (mb1) [Protection] 
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Recursion ] 
+1x Barrier Breach (iko) [Removal] 
+1x Beast Within (tsr) [Removal] 
+1x Boneyard Parley (c19) [Recursion ] 
+1x Breeding Pool (rna)
+1x Buried Ruin (2xm)
+1x Cephalid Coliseum (ody)
+1x Clearwater Pathway // Murkwater Pathway (znr)
+1x Clever Impersonator (c19) [Clone Patrol] 
+1x Command Tower (khc)
+1x Commander's Sphere (khc) [Ramp] 
+1x Court of Bounty (cmr) [Card advantage ] 
+1x Crucible of Worlds (m19) [Recursion ] 
+1x Crux of Fate (c17) [Sweeper] 
+1x Cultivate (m21) [Ramp] 
+1x Dakmor Salvage (uma)
+1x Damnation (tsr) [Sweeper] 
+1x Dark Depths (plist)
+1x Darkbore Pathway // Slitherbore Pathway (khm)
+1x Deadly Rollick (c20) [Removal] 
+1x Demon's Disciple (znr) [Removal] 
+1x Disallow (aer) [Protection] 
+1x Drowned Catacomb (xln)
+1x Emergence Zone (war)
+1x Eternal Witness (tsr) [Recursion ] 
+1x Evil Twin (bbd) [Clone Patrol] 
+1x False Demise (mmq) [Recursion ] 
+1x Farhaven Elf (khc) [Ramp] 
+1x Fetid Pools (akh)
+1x Field of Ruin (tsr)
+1x Fierce Guardianship (c20) [Protection] 
+1x Frantic Search (c20) [Card advantage ] 
+1x Glasspool Mimic // Glasspool Shore (znr) [Clone Patrol] 
+1x God-Eternal Bontu (war) [Card advantage ] 
+1x Gray Merchant of Asphodel (tsr) [get fucked] 
+1x Greater Good (2xm) [Card advantage ] 
+1x Gyruda, Doom of Depths (iko) *F*  [Clone Patrol] 
+1x Halimar Depths (c20)
+1x Harrow (znc) [Ramp] 
+1x Havengul Lich (c17) [Recursion ] 
+1x Hinterland Harbor (dom)
+1x Jarad, Golgari Lich Lord (gk1) [get fucked] 
+1x Keruga, the Macrosage (iko) [Commander{top}] 
+1x Kodama of the East Tree (cmr) [Card advantage ] 
+1x Kodama's Reach (cmr) [Ramp] 
+1x Laboratory Maniac (tsr) [Judge me you Coward] 
+1x Lake of the Dead (all)
+1x Littjara Mirrorlake (khm)
+1x Living Death (plist) [Recursion ] 
+1x Llanowar Wastes (c20)
+1x Lord of Extinction (uma) [get fucked] 
+1x Meren of Clan Nel Toth (mb1) [Recursion ] 
+1x Mikaeus, the Unhallowed (uma) [Recursion ] 
+1x Mirror-Mad Phantasm (isd) [Judge me you Coward] 
+1x Misty Rainforest (zne)
+1x Momir Vig, Simic Visionary (gk2) [Tutor] 
+1x Moritte of the Frost (khm) *F*  [Clone Patrol] 
+1x Morphic Pool (zne)
+1x Muldrotha, the Gravetide (plist) [Commander{top}] 
+1x Mythos of Brokkos (iko) [Recursion ] 
+1x Nurturing Peatland (mh1)
+1x Overgrown Tomb (grn)
+1x Plaguecrafter (mb1) [Removal] 
+1x Port of Karfell (khm)
+1x Psychosis Crawler (c20) [get fucked] 
+1x Realms Uncharted (roe) [Tutor] 
+1x Reclamation Sage (tsr) [Removal] 
+1x Rejuvenating Springs (cmr)
+1x Rishkar's Expertise (aer) [Card advantage ] 
+1x Roiling Regrowth (znr) [Ramp] 
+1x Sakashima of a Thousand Faces (cmr) [Clone Patrol] 
+1x Sakashima the Impostor (mb1) [Clone Patrol] 
+1x Shared Summons (m20) [Tutor] 
+1x Sidisi, Undead Vizier (dtk) [Tutor] 
+3x Snow-Covered Forest (khm) 285
+2x Snow-Covered Island (khm) 278
+2x Snow-Covered Swamp (khm) 280
+1x Solemn Simulacrum (tsr) [Ramp] 
+1x Spark Double (war) [Clone Patrol] 
+1x Springbloom Druid (khc) [Ramp] 
+1x Stinkweed Imp (tsr) [Card advantage ] 
+1x Stunt Double (mb1) [Clone Patrol] 
+1x Tatyova, Benthic Druid (mb1) [Card advantage ] 
+1x Tempt with Immortality (c13) [Recursion ] 
+1x Thespian's Stage (2xm)
+1x Undergrowth Stadium (cmr)
+1x Underrealm Lich (grn) [Card advantage ] 
+1x Urborg, Tomb of Yawgmoth (tsr)
+1x Uro, Titan of Nature's Wrath (thb) [Card advantage ] 
+1x Verdant Catacombs (zne)
+1x Vizier of Many Faces (akh) [Clone Patrol] 
+1x Waterlogged Grove (mh1)
+1x Wood Elves (khc) [Ramp] 
+1x Woodland Cemetery (dom)
+1x Zagoth Triome (iko)

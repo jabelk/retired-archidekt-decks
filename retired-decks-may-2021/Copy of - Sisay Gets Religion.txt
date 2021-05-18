@@ -1,0 +1,109 @@
+1x Anafenza, the Foremost (ktk) [For Heathens] 
+1x Arcane Denial (mb1) [Sacred Silence] 
+1x Arcane Sanctum (mb1)
+1x Arcane Signet (c20) [Sacrament] 
+1x Assassin's Trophy (grn) [Maybeboard{noDeck}{noPrice}] 
+1x Austere Command (2xm) [For Heathens] 
+1x Beast Within (c20) [For Heathens] 
+1x Blackblade Reforged (dom)
+1x Blasphemous Act (2xm) [For Heathens] 
+1x Blood Crypt (rna)
+1x Breeding Pool (rna)
+1x Chaos Warp (c14) [For Heathens] 
+1x Chromatic Lantern (mb1) [Sacrament] 
+1x Chromatic Orrery (m21) [Sacrament] 
+1x Command Tower (c20)
+1x Commander's Sphere (c20) [Sacrament] 
+1x Counterspell (mb1) [Sacred Silence] 
+1x Crumbling Necropolis (mb1)
+1x Cultivate (m21) [Sacrament] 
+1x Damia, Sage of Stone (cm2) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Deflecting Swat (c20) [Sacred Silence] 
+1x Dovin's Veto (war) [Sacred Silence] 
+1x Dryad of the Ilysian Grove (thb) [Sacrament] 
+1x Elesh Norn, Grand Cenobite (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Erebos, God of the Dead (ths) [Scripture Study] 
+1x Exotic Orchard (c20)
+1x Faeburrow Elder (eld) [Sacrament] 
+1x Farseek (mb1) [Sacrament] 
+1x Fierce Guardianship (c20) [Sacred Silence] 
+2x Forest (2xm) 381
+1x Forsake the Worldly (mb1) [For Heathens] 
+1x Frontier Bivouac (c20)
+1x Gaddock Teeg (uma) [For Heathens] 
+1x Generous Gift (mh1) [For Heathens] 
+1x Ghostly Prison (c19) [Maybeboard{noDeck}{noPrice}] 
+1x Godless Shrine (rna)
+1x Hallowed Fountain (rna)
+1x Hammer of Nazahn (2xm) [Sacred Silence] 
+1x Harrow (c20) [Sacrament] 
+1x Honden of Cleansing Fire (ema) [Let Us Pray] 
+1x Honden of Infinite Rage (ema) [Let Us Pray] 
+1x Honden of Life's Web (ema) [Let Us Pray] 
+1x Honden of Night's Reach (ema) [Let Us Pray] 
+1x Honden of Seeing Winds (ema) [Let Us Pray] 
+1x Imprisoned in the Moon (emn) [For Heathens] 
+1x Indatha Triome (iko)
+2x Island (2xm) 376
+1x Jungle Shrine (mb1)
+1x Kaervek, the Spiteful (m21) [For Heathens] 
+1x Keranos, God of Storms (jou) [Maybeboard{noDeck}{noPrice}] 
+1x Ketria Triome (iko)
+1x Kodama's Reach (c20) [Sacrament] 
+1x Kynaios and Tiro of Meletis (c16) *F*  [Scripture Study] 
+1x Mangara, the Diplomat (m21) [Scripture Study] 
+1x Michiko Konda, Truth Seeker (sok) [For Heathens] 
+1x Mirri, Weatherlight Duelist (c17) *F*  [Sacred Silence] 
+1x Mountain (2xm) 379
+1x Muldrotha, the Gravetide (dom) [Resurrection] 
+1x Mystic Barrier (c13) [Maybeboard{noDeck}{noPrice}] 
+1x Mystic Monastery (c20)
+1x Nature's Lore (mb1) [Sacrament] 
+1x Nezahal, Primal Tide (rix) [Maybeboard{noDeck}{noPrice}] 
+1x Niambi, Esteemed Speaker (m21) [Maybeboard{noDeck}{noPrice}] 
+1x Nomad Outpost (c20)
+1x Open the Vaults (2xm) [Resurrection] 
+1x Opulent Palace (c20)
+1x Overgrown Tomb (grn)
+1x Paradox Haze (tsp) [Let Us Pray] 
+1x Path to Exile (md1) [For Heathens] 
+3x Plains (2xm) 373
+1x Pongify (c14) [Maybeboard{noDeck}{noPrice}] 
+1x Pramikon, Sky Rampart (c19) *F*  [Sacred Silence] 
+1x Primevals' Glorious Rebirth (dom) [Resurrection] 
+1x Propaganda (c20) [Sacred Silence] 
+1x Radha, Heart of Keld (m21) [Maybeboard{noDeck}{noPrice}] 
+1x Rankle, Master of Pranks (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Raugrin Triome (iko)
+1x Reki, the History of Kamigawa (sok) [Scripture Study] 
+1x Reliquary Tower (c20)
+1x Replenish (uds) [Resurrection] 
+1x Sacred Foundry (grn)
+1x Sanctum of All (m21) [Let Us Pray] 
+1x Sanctum of Calm Waters (m21) [Let Us Pray] 
+1x Sanctum of Fruitful Harvest (m21) [Let Us Pray] 
+1x Sanctum of Shattered Heights (m21) [Let Us Pray] 
+1x Sanctum of Stone Fangs (m21) [Let Us Pray] 
+1x Sanctum of Tranquil Light (m21) [Let Us Pray] 
+1x Sandsteppe Citadel (c20)
+1x Savage Lands (c18)
+1x Savai Triome (iko)
+1x Seaside Citadel (c18)
+1x Second Sunrise (mrd) [Resurrection] 
+1x Shalai, Voice of Plenty (dom) [Sacred Silence] 
+1x Sisay, Weatherlight Captain (mh1) [Commander{top}] 
+1x Skyshroud Claim (bbd) [Sacrament] 
+1x Solemnity (hou) [Sacred Silence] 
+1x Sphere of Safety (c16) [Sacred Silence] 
+1x Steam Vents (grn)
+1x Stomping Ground (rna)
+1x Swamp (2xm) 378
+1x Sword of the Animist (mb1) [Sacrament] 
+1x Tatyova, Benthic Druid (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Temple Garden (grn)
+1x Toxic Deluge (ema) [For Heathens] 
+1x Urza's Ruinous Blast (dom) [For Heathens] 
+1x Watery Grave (grn)
+1x Wrath of God (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Zagoth Triome (iko)
+1x Zur the Enchanter (mm3) [Scripture Study] 

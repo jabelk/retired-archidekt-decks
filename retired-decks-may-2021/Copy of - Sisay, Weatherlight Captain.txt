@@ -1,0 +1,101 @@
+1x Anafenza, the Foremost (ktk)
+1x Arcane Signet (eld)
+1x Archangel Avacyn // Avacyn, the Purifier (soi)
+1x Arvad the Cursed (dom) *F* 
+1x Ayli, Eternal Pilgrim (ogw)
+1x Blackblade Reforged (ss2)
+1x Blood Crypt (prna) *F* 
+1x Bountiful Promenade (bbd)
+1x Bow of Nylea (mb1)
+1x Breeding Pool (rna)
+1x Captain Sisay (inv)
+1x Chromatic Lantern (c16)
+1x Chromatic Orrery (m21)
+1x Coalition Relic (a25)
+1x Command Tower (c16)
+1x Commander's Sphere (c16)
+1x Cryptolith Rite (soi)
+1x Day of Destiny (bok)
+1x Dosan the Falling Leaf (chk)
+1x Embercleave (eld)
+1x Ephara, God of the Polis (bng)
+1x Exotic Orchard (c16)
+1x Farseek (rav)
+1x Forest (eld) 268 *F* 
+1x Gerrard, Weatherlight Hero (c19)
+1x God-Eternal Rhonas (pwar) *F* 
+1x Godless Shrine (rna)
+1x Grand Coliseum (ons)
+1x Hadana's Climb // Winged Temple of Orazca (prix) *F* 
+1x Hallowed Fountain (rtr)
+1x Hammer of Nazahn (c17)
+1x Hammerheim (leg)
+1x Heroes' Podium (bng)
+1x Hunting Wilds (c18)
+1x Island (eld) 256 *F* 
+1x Jhoira, Weatherlight Captain (dom)
+1x Journey to Eternity // Atzal, Cave of Eternity (rix) *F* 
+1x Judith, the Scourge Diva (rna) *F* 
+1x Kagemaro, First to Suffer (sok)
+1x Kethis, the Hidden Hand (m20)
+1x Kunoros, Hound of Athreos (thb) *F* 
+1x Lazav, the Multifarious (pgrn) *F* 
+1x Legacy Weapon (10e)
+1x Linvala, Shield of Sea Gate (znr)
+1x Luxury Suite (bbd)
+1x Mana Confluence (jou)
+1x Mangara of Corondor (bbd) *F* 
+1x Minamo, School at Water's Edge (chk)
+1x Mirri, Weatherlight Duelist (c17) *F* 
+1x Mistveil Plains (uma)
+1x Morphic Pool (bbd)
+1x Mountain (eld) 264 *F* 
+1x Mox Amber (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Nature's Lore (mb1)
+1x Niambi, Esteemed Speaker (m21)
+1x Nin, the Pain Artist (j18) *F* 
+1x Okina, Temple to the Grandfathers (chk)
+1x Overgrown Tomb (rtr) *F* 
+1x Plains (eld) 253 *F* 
+1x Pramikon, Sky Rampart (c19) *F* 
+1x Primevals' Glorious Rebirth (dom)
+1x Radha, Heart of Keld (m21)
+1x Radha, Heir to Keld (plc)
+1x Raff Capashen, Ship's Mage (dom) *F* 
+1x Ranger's Path (m13)
+1x Reflecting Pool (tmp)
+1x Rejuvenating Springs (cmr)
+1x Reki, the History of Kamigawa (fmb1) *F* 
+1x Sacred Foundry (grn)
+1x Safewright Quest (shm)
+1x Samut, Voice of Dissent (akh) *F* 
+1x Sea of Clouds (bbd)
+1x Selvala, Heart of the Wilds (mb1)
+1x Shadowspear (thb)
+1x Shalai, Voice of Plenty (dom) *F* 
+1x Shanna, Sisay's Legacy (dom) *F* 
+1x Sidisi, Undead Vizier (dtk)
+1x Sigarda, Host of Herons (avr) *F* 
+1x Sisay, Weatherlight Captain (mh1) *F*  [Commander{top}] 
+1x Skyshroud Claim (nem)
+1x Smothering Tithe (rna) *F* 
+1x Sol Ring (mb1)
+1x Spectator Seating (cmr)
+1x Spire Garden (bbd)
+1x Steam Vents (grn)
+1x Stomping Ground (rna)
+1x Swamp (eld) 261 *F* 
+1x Temple Garden (rtr)
+1x Teshar, Ancestor's Apostle (dom)
+1x The Great Henge (eld)
+1x Training Center (cmr)
+1x Undergrowth Stadium (cmr)
+1x Untaidake, the Cloud Keeper (chk)
+1x Urborg (leg)
+1x Urza's Ruinous Blast (dom) *F* 
+1x Vault of Champions (cmr)
+1x Venser, Shaper Savant (mm3)
+1x Vivien Reid (m19)
+1x Vraska the Unseen (rtr) *F* 
+1x Watery Grave (grn)
+1x Wilderness Reclamation (rna)

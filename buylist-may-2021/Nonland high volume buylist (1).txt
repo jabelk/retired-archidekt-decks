@@ -1,0 +1,150 @@
+1x Aetherspouts (m15)
+1x Akroma's Will (cmr) [Staple Nonland] 
+1x Allosaurus Shepherd (jmp)
+1x Anguished Unmaking (soi) [Staple Nonland] 
+1x Approach of the Second Sun (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Arcane Denial (cmr) [Staple Nonland] 
+1x Arcane Signet (khc)
+1x Assassin's Trophy (grn) [Staple Nonland] 
+1x Autumn's Veil (m12)
+1x Azorius Signet (khc)
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr)
+1x Basalt Monolith (2xm)
+1x Beast Within (cmr)
+1x Birds of Paradise (sld)
+1x Blackblade Reforged (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Blasphemous Act (cmr)
+1x Blind Obedience (c17) [Maybeboard{noDeck}{noPrice}] 
+1x Bloodchief Ascension (zen)
+1x Bloom Tender (mb1)
+1x Boreal Druid (csp)
+1x Boros Charm (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Boros Signet (cmr)
+1x Bubbling Muck (uds) [Maybeboard{noDeck}{noPrice}] 
+1x Burgeoning (c16)
+1x Carpet of Flowers (mb1)
+1x Chaos Warp (c20) [Staple Nonland] 
+1x Chromatic Lantern (sld)
+1x Chromatic Orrery (m21) [Maybeboard{noDeck}{noPrice}] 
+1x Commander's Plate (cmr)
+1x Crypt Ghast (c14)
+1x Cultivate (cmr)
+1x Curse of the Swine (khc) [Maybeboard{noDeck}{noPrice}] 
+1x Cyclonic Rift (2xm) [Staple Nonland] 
+1x Darksteel Plate (ddu)
+1x Defense Grid (9ed)
+1x Deflecting Palm (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Deflecting Swat (c20) [Staple Nonland] 
+1x Deglamer (mor)
+1x Demonic Tutor (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Dimir Signet (znc)
+1x Dockside Extortionist (c19)
+1x Dryad of the Ilysian Grove (thb)
+1x Eladamri's Vineyard (tmp)
+1x Enlightened Tutor (plist)
+1x Essence Warden (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Eternal Witness (cmr)
+1x Everflowing Chalice (plist)
+1x Expedition Map (2xm)
+1x Exploration (2xm)
+1x Extraplanar Lens (mrd)
+1x Faeburrow Elder (eld)
+1x Felidar Retreat (znr)
+1x Fellwar Stone (plist)
+1x Fierce Guardianship (c20)
+1x Fyndhorn Elves (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Generous Gift (cmr)
+1x Gilded Lotus (sld)
+1x Glimpse of Nature (chk)
+1x Goldspan Dragon (khm) [Maybeboard{noDeck}{noPrice}] 
+1x Golgari Signet (gk1)
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln)
+1x Growth Spiral (cmr)
+1x Gruul Signet (mb1)
+1x Guardian Project (rna)
+1x Heroic Intervention (m21)
+1x Imperial Recruiter (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Imperial Seal (ptk) [Maybeboard{noDeck}{noPrice}] 
+1x Into the North (plist)
+1x It That Betrays (ddp) [Maybeboard{noDeck}{noPrice}] 
+1x Izzet Signet (c20)
+1x Keeper of the Accord (cmr)
+1x Kodama's Reach (cmr)
+1x Krosan Grip (c20)
+1x Leyline Tyrant (znr) [Maybeboard{noDeck}{noPrice}] 
+1x Leyline of Anticipation (m20)
+1x Lightning Greaves (2xm)
+1x Mazemind Tome (m21)
+1x Mimic Vat (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Mirri's Guile (tmp)
+1x Mox Amber (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Mox Diamond (sth) [Maybeboard{noDeck}{noPrice}] 
+1x Mox Opal (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Mox Tantalite (mh1) [Maybeboard{noDeck}{noPrice}] 
+1x Mystic Reflection (khm)
+1x Mystic Remora (ice)
+1x Mystical Tutor (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Narset's Reversal (war)
+1x Nature's Lore (mb1)
+1x Negate (plist)
+1x Night's Whisper (mb1)
+1x Oblation (c16)
+1x Once Upon a Time (eld)
+1x Ophiomancer (c13) [Maybeboard{noDeck}{noPrice}] 
+1x Oracle of Mul Daya (jmp)
+1x Orzhov Signet (c20)
+1x Path to Exile (tsr)
+1x Polymorphist's Jest (c17)
+1x Pongify (2xm)
+1x Prismatic Lens (uma)
+1x Prismatic Omen (shm)
+1x Rakdos Signet (c20)
+1x Rampant Growth (cmr)
+1x Sakura-Tribe Elder (c20)
+1x Seedborn Muse (cc1) [Maybeboard{noDeck}{noPrice}] 
+1x Sensei's Divining Top (ema)
+1x Shadowspear (thb)
+1x Silence (m14)
+1x Simic Signet (cmr)
+1x Skyclave Relic (znr)
+1x Slippery Bogbonder (c20)
+1x Smothering Tithe (rna)
+1x Sol Ring (khc)
+1x Solemn Simulacrum (m21)
+1x Song of the Dryads (plist)
+1x Soothsaying (mb1)
+1x Soul-Guide Lantern (thb)
+1x Swan Song (sld)
+1x Swiftfoot Boots (khc)
+1x Sword of the Animist (mb1)
+1x Swords to Plowshares (cmr)
+1x Sylvan Library (cc1)
+1x Talisman of Conviction (mh1)
+1x Talisman of Creativity (mh1)
+1x Talisman of Curiosity (mh1)
+1x Talisman of Dominance (e01)
+1x Talisman of Hierarchy (mh1)
+1x Talisman of Impulse (mrd)
+1x Talisman of Indulgence (e01)
+1x Talisman of Progress (mrd)
+1x Talisman of Resilience (mh1)
+1x Talisman of Unity (mrd)
+1x Thaumatic Compass // Spires of Orazca (xln)
+1x The Great Henge (eld)
+1x Thought Vessel (cmr)
+1x Thran Dynamo (mb1)
+1x Three Visits (cmr)
+1x Tome of Legends (eld)
+1x Toxic Deluge (2xm)
+1x Unravel the Aether (bng)
+1x Valakut Awakening // Valakut Stoneforge (znr) [Staple Nonland] 
+1x Vampiric Tutor (cmr) [Staple Nonland] 
+1x Vandalblast (c15)
+1x Vedalken Orrery (cns)
+1x Veil of Summer (m20) [Staple Nonland] 
+1x Wayfarer's Bauble (plist)
+1x Wheel of Misfortune (cmr)
+1x Wood Elves (khc)
+1x Worldly Tutor (cc1) [Staple Nonland] 
+1x Worn Powerstone (plist)
+1x Wrap in Vigor (cns) [Staple Nonland] 

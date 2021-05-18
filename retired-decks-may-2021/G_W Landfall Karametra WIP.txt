@@ -1,0 +1,91 @@
+1x Abundance (znc)
+1x Amulet of Vigor (sld) [Maybeboard{noDeck}{noPrice}] 
+1x Ancient Greenwarden (znr) [Maybeboard{noDeck}{noPrice}] 
+1x Ashaya, Soul of the Wild (znr)
+1x Aura Shards (mb1)
+1x Austere Command (cmr)
+1x Avacyn's Pilgrim (mb1)
+1x Avenger of Zendikar (cmr)
+1x Azusa, Lost but Seeking (m21)
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr)
+1x Beanstalk Giant // Fertile Footsteps (plist)
+1x Beast Within (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Blackblade Reforged (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Blighted Woodland (cmr)
+1x Blood Clock (sok)
+1x Broken Bond (mb1)
+1x Burgeoning (c16)
+1x Collective Blessing (rtr)
+1x Command Tower (khc)
+1x Court of Bounty (cmr)
+1x Crash of Rhino Beetles (c18)
+1x Cultivate (cmr)
+1x Dryad of the Ilysian Grove (thb)
+1x Emeria Angel (plist)
+1x Emeria Shepherd (znc)
+1x End-Raze Forerunners (khc)
+1x Eternal Witness (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Exploration (2xm)
+1x Explore (cmr)
+1x Felidar Retreat (znr)
+1x Field of Ruin (thb)
+17x Forest (khm) 398
+1x Gaddock Teeg (uma)
+1x Generous Gift (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Harmonize (cmr)
+1x Heroic Intervention (m21) [Maybeboard{noDeck}{noPrice}] 
+1x Hour of Revelation (znc)
+1x Hurricane (mb1)
+1x Kamahl's Will (cmr)
+1x Karametra, God of Harvests (c20) [Commander{top}] 
+1x Kazandu Mammoth // Kazandu Valley (znr) [Maybeboard{noDeck}{noPrice}] 
+1x Kenrith's Transformation (eld)
+1x Knight of the Reliquary (ima) [Maybeboard{noDeck}{noPrice}] 
+1x Kodama's Reach (cmr)
+1x Kor Cartographer (khc)
+1x Krosan Verge (znc)
+1x Liege of the Tangle (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Lifecrafter's Bestiary (klr)
+1x Lotus Cobra (znr)
+1x Multani, Yavimaya's Avatar (znc)
+1x Murasa Rootgrazer (znr)
+1x Nissa, Vastwood Seer // Nissa, Sage Animist (ori)
+1x Nylea's Intervention (thb)
+1x Nylea, Keen-Eyed (thb) [Maybeboard{noDeck}{noPrice}] 
+1x Once Upon a Time (eld)
+1x Oran-Rief Hydra (e01)
+1x Path to Exile (tsr)
+13x Plains (khm) 394
+1x Planar Outburst (znc) [Maybeboard{noDeck}{noPrice}] 
+1x Primeval Bounty (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Prowling Felidar (znr)
+1x Rampaging Baloths (cmr)
+1x Reclaim the Wastes (znr)
+1x Retreat to Kazandu (cmr)
+1x Return of the Wildspeaker (znc)
+1x Roaring Primadox (m15)
+1x Sakura-Tribe Elder (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Scute Mob (c18)
+1x Scute Swarm (znr)
+1x Seer's Sundial (cmr)
+1x Selesnya Sanctuary (znc)
+1x Shalai, Voice of Plenty (sld) [Maybeboard{noDeck}{noPrice}] 
+1x Sigarda, Host of Herons (uma) [Maybeboard{noDeck}{noPrice}] 
+1x Sol Ring (khc)
+1x Spirit of the Hearth (c17)
+1x Sun Titan (khc)
+1x Sunpetal Grove (xln)
+1x Swords to Plowshares (sld)
+1x Sylvan Awakening (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Sylvan Ranger (jmp)
+1x Sylvan Reclamation (znc)
+1x Tel-Jilad Justice (5dn)
+1x Temur Sabertooth (c17)
+1x Tireless Tracker (mb1)
+1x Ulvenwald Hydra (jmp)
+1x Verdant Sun's Avatar (cmr)
+1x Windswept Heath (zne)
+1x Wood Elves (khc) [Maybeboard{noDeck}{noPrice}] 
+1x Wrath of God (plist)
+1x Yasharn, Implacable Earth (znr)
+1x Yavimaya Elder (cmr) [Maybeboard{noDeck}{noPrice}] 

@@ -1,0 +1,88 @@
+1x Ancient Tomb (tmp)
+1x Anguished Unmaking (soi) [Removal] 
+1x Anointed Procession (akh) [Token Time] 
+1x Arcane Signet (c20) [Acceleration] 
+1x Ash Barrens (2xm)
+1x Aura of Silence (c15) [Removal] 
+1x Austere Command (cmd) [Removal] 
+1x Bojuka Bog (c14)
+1x Brightclimb Pathway // Grimclimb Pathway (znr)
+1x Call the Coppercoats (c20) [Token Time] 
+1x Castle Ardenvale (eld)
+1x Cathars' Crusade (avr) [Damage] 
+1x Caves of Koilos (m15)
+1x Command Beacon (cmr)
+1x Command Tower (c18)
+1x Divine Visitation (grn) [Damage] 
+1x Elenda, the Dusk Rose (rix) [Token Time] 
+1x Elesh Norn, Grand Cenobite (mb1) [Damage] 
+1x Elspeth, Sun's Champion (ths) [Token Time] 
+1x Endrek Sahr, Master Breeder (mm2) [Token Time] 
+1x Evolving Wilds (dtk)
+1x Fabled Passage (m21)
+1x Felidar Retreat (znr) [Token Time] 
+1x Fetid Heath (2xm)
+1x Finale of Glory (war) [Token Time] 
+1x Flawless Maneuver (c20) [Removal] 
+1x Generous Gift (mh1) [Removal] 
+1x Ghoulcaller Gisa (c14) [Token Time] 
+1x Godless Shrine (gtc)
+1x Grave Titan (c14) [Token Time] 
+1x Great Hall of Starnheim (khm)
+1x Hedron Archive (bfz) [Acceleration] 
+1x Heraldic Banner (eld) [Acceleration] 
+1x Increasing Devotion (dka) [Token Time] 
+1x Inkshield (c21) [Token Time] 
+1x Intangible Virtue (isd) [Damage] 
+1x Isolated Chapel (isd)
+1x Jazal Goldmane (c14) [Damage] 
+1x Kor Haven (nem)
+1x Krav, the Unredeemed (bbd) [Advantage] 
+1x Lingering Souls (dka) [Token Time] 
+1x Luminarch Ascension (zen) [Token Time] 
+1x Marsh Flats (mm3)
+1x Martial Coup (c14) [Maybeboard{noDeck}{noPrice}] 
+1x Maw of the Obzedat (dgm) [Enchancements] 
+1x Merciless Eviction (2xm) [Removal] 
+1x Mind Stone (10e) [Acceleration] 
+1x Minions' Murmurs (fut) [Advantage] 
+1x Mirror Entity (mb1) [Enchancements] 
+1x Myriad Landscape (c19)
+1x Nadier's Nightblade (cmr) [Enchancements] 
+1x Necrotic Hex (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Night's Whisper (ema) [Advantage] 
+1x Noosegraf Mob (bbd) [Token Time] 
+1x Orzhov Basilica (gpt)
+1x Orzhov Signet (gpt) *F*  [Acceleration] 
+1x Pact of the Serpent (khc) [Advantage] 
+1x Path to Exile (2xm) [Removal] 
+1x Phyrexian Arena (apc) [Advantage] 
+8x Plains (znr) 267
+1x Plumb the Forbidden (stx) [Advantage] 
+1x Read the Bones (ths) [Advantage] 
+1x Regna, the Redeemer (bbd) [Token Time] 
+1x Scavenger Grounds (c20)
+1x Shrine of Loyal Legions (nph) [Token Time] 
+1x Sign in Blood (cmd) [Advantage] 
+1x Silent Clearing (mh1)
+1x Skullclamp (c14) [Advantage] 
+1x Smothering Tithe (rna) [Acceleration] 
+1x Sol Ring (c15) [Acceleration] 
+1x Stinging Study (c21) [Advantage] 
+1x Strixhaven Stadium (stx) [Acceleration] 
+7x Swamp (bfz) 263
+1x Swords to Plowshares (bbd) [Removal] 
+1x Szat's Will (cmr) [Token Time] 
+1x Talisman of Hierarchy (mh1) [Acceleration] 
+1x Teferi's Protection (mb1) [Removal] 
+1x Tevesh Szat, Doom of Fools (cmr) [Token Time] 
+1x Thalisse, Reverent Medium (cmr) *F*  [Commander{top}] 
+1x Thought Vessel (cmr) [Acceleration] 
+1x Toxic Deluge (c13) [Removal] 
+1x Urborg, Tomb of Yawgmoth (m15)
+1x Vault of Champions (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Vault of the Archangel (dka)
+1x Wayfarer's Bauble (c13) [Acceleration] 
+1x Windbrisk Heights (lrw)
+1x Winds of Abandon (plist) [Removal] 
+1x Worn Powerstone (c15) [Acceleration] 

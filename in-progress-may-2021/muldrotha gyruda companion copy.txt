@@ -1,0 +1,95 @@
+1x Altar of Dementia (mh1)
+1x Altered Ego (soi)
+1x Animate Dead (mb1)
+1x Arcane Signet (cmr) [ramp] 
+1x Archaeomancer (mb1)
+1x Archaeomancer (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Assassin's Trophy (sld)
+1x Atris, Oracle of Half-Truths (thb)
+1x Baleful Strix (2xm)
+1x Blood Artist (jmp)
+1x Bojuka Bog (plist)
+1x Castle Vantress (eld)
+1x Choked Estuary (soi)
+1x Clearwater Pathway // Murkwater Pathway (znr)
+1x Clever Impersonator (c19)
+1x Clone (m14)
+1x Coiling Oracle (cmr)
+1x Command Beacon (cmr)
+1x Command Tower (cc1)
+1x Consecrated Sphinx (sld)
+1x Cyclonic Rift (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Deadeye Navigator (mm3)
+1x Deadly Rollick (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Destiny Spinner (thb)
+1x Diabolic Tutor (cma)
+1x Dimir Signet (znc) [ramp] 
+1x Dredge the Mire (c20)
+1x Drown in the Loch (eld) [removal] 
+1x Duplicant (2xm)
+1x Evil Twin (bbd)
+1x Evolving Wilds (cmr)
+1x Extinction Event (iko) *F*  [wipe] 
+1x Fabled Passage (m21) [Maybeboard{noDeck}{noPrice}] 
+1x Finale of Eternity (war) [Maybeboard{noDeck}{noPrice}] 
+5x Forest (cmr) 510
+1x Frilled Mystic (rna)
+1x Gigantoplasm (c15)
+1x Glowspore Shaman (grn)
+1x Golgari Findbroker (grn)
+1x Golgari Signet (gk1) [Maybeboard{noDeck}{noPrice}] 
+1x Gonti, Lord of Luxury (znc)
+1x Grave Titan (mb1)
+1x Gyruda, Doom of Depths (iko) [companion ,companion] 
+5x Island (cmr) 506
+1x Jarad, Golgari Lich Lord (gk1)
+1x Kenrith's Transformation (eld)
+1x Kogla, the Titan Ape (iko)
+1x Llanowar Wastes (c20)
+1x Lochmere Serpent (eld)
+1x Lonely Sandbar (c20)
+1x Meren of Clan Nel Toth (mb1)
+1x Mikaeus, the Unhallowed (uma)
+1x Mind Stone (znc) [Maybeboard{noDeck}{noPrice}] 
+1x Muldrotha, the Gravetide (cmr) *F*  [Commander{top}] 
+1x Myriad Landscape (cmr)
+1x Mystic Sanctuary (eld)
+1x Mythos of Brokkos (iko)
+1x Nevinyrral's Disk (cmr) [wipe] 
+1x Nightmare Shepherd (thb)
+1x Noxious Gearhulk (kld)
+1x Omen of the Sea (thb) [draw] 
+1x Opulent Palace (c20)
+1x Panharmonicon (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Phyrexian Metamorph (2xm)
+1x Progenitor Mimic (2xm)
+1x Rampant Growth (cmr)
+1x Ravenous Chupacabra (jmp)
+1x Sakashima of a Thousand Faces (cmr)
+1x Sakura-Tribe Elder (c20)
+1x Satyr Wayfinder (znc)
+1x Scavenging Ooze (m21)
+1x Scroll Rack (cmr)
+1x Search for Azcanta // Azcanta, the Sunken Ruin (xln)
+1x Simic Signet (cmr) [ramp] 
+1x Soaring Thought-Thief (znr)
+1x Solemn Simulacrum (m21)
+1x Spark Double (war) [Maybeboard{noDeck}{noPrice}] 
+1x Stunt Double (mb1)
+1x Sunken Hollow (c20)
+7x Swamp (znr) 273
+1x Temple of Deceit (thb)
+1x Temple of Mystery (m21)
+1x Terramorphic Expanse (cmr)
+1x Thassa's Oracle (thb)
+1x Thassa, Deep-Dwelling (thb)
+1x Thieving Skydiver (znr)
+1x Thought Vessel (cmr)
+1x Trade Routes (9ed) [draw] 
+1x Triskelion (ddf)
+1x Undergrowth Stadium (cmr)
+1x Verdant Catacombs (zne)
+1x Wonder (cm2)
+1x Yavimaya Coast (c20)
+1x Zagoth Triome (iko)
+1x Zof Consumption // Zof Bloodbog (znr)

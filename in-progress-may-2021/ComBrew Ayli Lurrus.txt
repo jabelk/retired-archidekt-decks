@@ -1,0 +1,82 @@
+1x Alseid of Life's Bounty (thb)
+1x Altar of Dementia (mh1)
+1x Angelic Renewal (uma)
+1x Animate Dead (4ed)
+1x Arguel's Blood Fast // Temple of Aclazotz (xln)
+1x Ash Barrens (2xm)
+1x Ayli, Eternal Pilgrim (ogw) [Commander{top}] 
+1x Barren Moor (c19)
+1x Blood Artist (jmp) [Aristocrats] 
+1x Bounty Agent (c20)
+1x Brought Back (m20)
+1x Butcher Ghoul (ddq)
+1x Carrier Thrall (ddr)
+1x Cartel Aristocrat (gtc)
+1x Citywide Bust (c20)
+1x Command Tower (khc)
+1x Command the Dreadhorde (war)
+1x Corpse Knight (m20) [Aristocrats] 
+1x Cruel Celebrant (war) [Aristocrats] 
+1x Culling Dais (2xm)
+1x Dawn of Hope (grn)
+1x Desert of the Glorified (hou)
+1x Desert of the True (c20)
+1x Dread Return (tsr)
+1x Drifting Meadow (c20)
+1x Dusk // Dawn (c19)
+1x Eternal Taskmaster (jmp)
+1x Executioner's Capsule (2xm)
+1x Faith's Reward (cn2)
+1x Fell the Mighty (c17)
+1x Gatekeeper of Malakir (plist)
+1x Golgari Thug (plist)
+1x Hidden Stockpile (2xm)
+1x Immortal Servitude (gtc)
+1x Kaya's Ghostform (war)
+1x Knight of the White Orchid (c20) [Ramp] 
+1x Lampad of Death's Vigil (thb) [Aristocrats] 
+1x Lurrus of the Dream-Den (iko) [Sideboard] 
+1x Mind Stone (khc)
+1x Nihil Spellbomb (a25)
+1x Onyx Mage (m12)
+1x Orzhov Basilica (c20)
+1x Orzhov Guildgate (war)
+1x Pack Rat (rtr)
+1x Perilous Myr (cmr)
+1x Pitiless Pontiff (rna)
+1x Plaguebearer (exo)
+10x Plains (khm) 394
+1x Polluted Mire (cma)
+1x Priest of Forgotten Gods (rna)
+1x Priest of Yawgmoth (atq)
+1x Reassembling Skeleton (mb1)
+1x Recruit the Worthy (mh1)
+1x Restoration Specialist (aer)
+1x Retrofitter Foundry (c18)
+1x Return to the Ranks (m15)
+1x Revival // Revenge (rna)
+1x Scoured Barrens (m21)
+1x Seal of Cleansing (mb1) [Removal] 
+1x Secluded Steppe (cmr)
+1x Sevinne's Reclamation (c19)
+1x Sinuous Vermin (cn2)
+1x Skullclamp (plist)
+1x Slaughter the Strong (cmr)
+1x Sol Ring (khc) [Ramp] 
+1x Soldevi Adnate (all)
+1x Soul Tithe (rtr)
+1x Stitcher's Supplier (m19)
+1x Suture Priest (nph) [Aristocrats] 
+1x Suture Spirit (eve)
+11x Swamp (khm) 396
+1x Syndicate Trafficker (kld)
+1x Unburial Rites (plist)
+1x Unearth (mh1) [Neat Moves] 
+1x Victimize (cmr)
+1x Vizkopa Guildmage (gk2)
+1x Wake the Dead (c14)
+1x Wall of Corpses (mir)
+1x Wall of Omens (khc)
+1x Wayfarer's Bauble (plist) [Ramp] 
+1x Wishclaw Talisman (eld)
+1x Zulaport Cutthroat (tsr) [Aristocrats] 

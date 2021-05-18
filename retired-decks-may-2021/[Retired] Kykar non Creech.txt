@@ -1,0 +1,88 @@
+1x Academy Ruins (2xm)
+1x Akroma's Will (cmr) [Protection] 
+1x Akroma, Angel of Wrath (lgn)
+1x Akroma, Vision of Ixidor (cmr)
+1x Amass the Components (mb1) [Back into Deck] 
+1x Anticipate (iko) [Draw Cards] 
+1x Arcane Denial (cmr) [Protection] 
+1x Arcane Signet (cmr) [Ramp] 
+1x Ash Barrens (2xm)
+1x Aurelia, the Warleader (gtc)
+1x Avacyn, Angel of Hope (2xm)
+1x Azorius Signet (c20) [Ramp] 
+1x Battlefield Forge (c20)
+1x Boros Signet (cmr) [Ramp] 
+1x Boseiju, Who Shelters All (chk)
+1x Brainstorm (plist) [Back into Deck] 
+1x Buried Ruin (2xm)
+1x Call the Coppercoats (c20) [Utility] 
+1x Coldsteel Heart (mb1) [Ramp] 
+1x Command Tower (cc1)
+1x Commit // Memory (mb1) [Utility] 
+1x Counterspell (cmr) [Protection] 
+1x Crescendo of War (cmd) [Utility] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Deflecting Swat (c20) [Protection] 
+1x Deliberate (znr) [Draw Cards] 
+1x Dig Through Time (uma) [Draw Cards] 
+1x Dovin's Veto (war) [Protection] 
+1x Dream Cache (tmp) [Back into Deck] 
+1x Emergence Zone (war)
+1x Exotic Orchard (c20)
+1x Expansion // Explosion (grn) [Utility] 
+1x Fabled Passage (m21)
+1x Faerie Conclave (mb1)
+1x Fierce Guardianship (c20) [Protection] 
+1x Gisela, Blade of Goldnight (a25)
+1x Goblin Bombardment (mb1) [Utility] 
+1x Hallowed Burial (cn2) [Removal] 
+1x Heliod's Intervention (thb) [Removal] 
+1x Homeward Path (c16)
+1x Idyllic Tutor (thb) [Tutors] 
+1x Indomitable Creativity (aer) [Polymorph] 
+9x Island (cmr) 506
+1x Isochron Scepter (2xm) [Utility] 
+1x Izzet Signet (c20) [Ramp] 
+1x Jeskai Ascendancy (ktk) [Draw Cards] 
+1x Kykar, Wind's Fury (m20) [Commander{top}] 
+1x Lat-Nam's Legacy (cst) [Back into Deck] 
+1x Lightning Greaves (2xm) [Protection] 
+1x Mass Polymorph (m11) [Polymorph] 
+1x Merchant Scroll (8ed) [Tutors] 
+1x Mishra's Factory (2xm)
+2x Mountain (cmr) 508
+1x Mystic Monastery (c20)
+1x Mystic Sanctuary (eld)
+1x Narset, Enlightened Master (sld) *F* 
+1x Negate (znr) [Protection] 
+1x Nimbus Maze (ima)
+1x Oblation (c16) [Removal] 
+1x Odric, Lunarch Marshal (cmr)
+1x Penance (exo) [Back into Deck] 
+6x Plains (cmr) 504
+1x Primal Amulet // Primal Wellspring (xln) [Utility] 
+1x Prismatic Lens (uma) [Ramp] 
+1x Raugrin Triome (iko)
+1x Reliquary Tower (cmr)
+1x See Beyond (pca) [Back into Deck] 
+1x Skullclamp (plist) [Draw Cards] 
+1x Sol Ring (cc1) [Ramp] 
+1x Soul-Guide Lantern (thb) [Removal] 
+1x Springjack Pasture (c13)
+1x Sudden Substitution (c19) [Protection] 
+1x Swan Song (sld) [Protection] 
+1x Synthetic Destiny (c15) [Polymorph] 
+1x Tale's End (m20) [Protection] 
+1x Talisman of Conviction (mh1) [Ramp] 
+1x Talisman of Creativity (mh1) [Ramp] 
+1x Teferi's Protection (mb1) [Protection] 
+1x Teferi, Mage of Zhalfir (ima)
+1x Temple of Enlightenment (thb)
+1x Temple of Epiphany (m21)
+1x Temple of Triumph (m21)
+1x Terminus (c18) [Removal] 
+1x Thought Vessel (cmr) [Ramp] 
+1x Ulamog, the Infinite Gyre (uma)
+1x Valakut Awakening // Valakut Stoneforge (znr) [Back into Deck] 
+1x Whirlwind of Thought (iko) [Draw Cards] 
+1x Zetalpa, Primal Dawn (c20)

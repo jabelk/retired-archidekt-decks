@@ -1,0 +1,120 @@
+1x Adrix and Nev, Twincasters (c21) [Artifact Ramp] 
+1x Aesi, Tyrant of Gyre Strait (cmr) *F*  [Card Advantage] 
+1x All Is Dust (uma) [Interaction] 
+1x Ancient Greenwarden (znr) [Card Advantage] 
+1x Arixmethes, Slumbering Isle (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Ashaya, Soul of the Wild (znr) [Land Ramp] 
+1x Beast Within (nph) [Interaction] 
+1x Blinkmoth Urn (mrd) [Maybeboard{noDeck}{noPrice}] 
+1x Boundless Realms (m13) [Land Ramp] 
+1x Brass's Bounty (rix) [Big Mana] 
+1x Breeding Pool (gtc)
+1x Broodstar (mrd) [Maybeboard{noDeck}{noPrice}] 
+1x Brudiclad, Telchor Engineer (2xm) [Wincon] 
+1x Capsize (tmp) [Interaction] 
+1x Chaos Warp (c19) [Interaction] 
+1x Command Tower (cmr)
+1x Counterspell (3ed) [Interaction] 
+1x Crop Rotation (2xm) [Land Ramp] 
+1x Cultivate (cmr) [Land Ramp] 
+1x Curse of Opulence (c17) [Artifact Ramp] 
+1x Dack Fayden (cns) [Card Advantage] 
+1x Deflecting Swat (c20) [Interaction] 
+1x Distorting Wake (inv) [Maybeboard{noDeck}{noPrice}] 
+1x Dockside Extortionist (c19) [Big Mana] 
+1x Doubling Season (2xm) [Artifact Ramp] 
+1x Dreamshaper Shaman (thb) [Maybeboard{noDeck}{noPrice}] 
+1x Evolving Wilds (iko)
+1x Expansion // Explosion (grn) [Card Advantage] 
+1x Explosive Vegetation (ons) [Maybeboard{noDeck}{noPrice}] 
+1x Fabled Passage (m21)
+1x Farseek (m13) [Land Ramp] 
+1x Fathom Fleet Swordjack (cmr) [Wincon] 
+1x Feasting Troll King (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Fierce Guardianship (c20) [Interaction] 
+1x Finale of Promise (war) [Card Advantage] 
+1x Finale of Revelation (war) [Card Advantage] 
+11x Forest (khm) 398
+1x Gadrak, the Crown-Scourge (m21) [Maybeboard{noDeck}{noPrice}] 
+1x Galazeth Prismari (stx) [Big Mana] 
+1x Gelatinous Genesis (roe) [Maybeboard{noDeck}{noPrice}] 
+1x Ghirapur Aether Grid (ori) [Wincon] 
+1x Gingerbread Cabin (eld)
+1x Glacian, Powerstone Engineer (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Goldspan Dragon (khm) [Artifact Ramp] 
+1x Harrow (znc) [Land Ramp] 
+1x Hellkite Igniter (mbs) [Wincon] 
+1x Hellkite Tyrant (gtc) [Maybeboard{noDeck}{noPrice}] 
+1x Icy Blast (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Idol of Oblivion (c21) [Card Advantage] 
+1x Illuna, Apex of Wishes (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Indomitable Creativity (aer) [Wincon] 
+1x Inspiring Statuary (aer) [Big Mana] 
+1x Into the North (csp) [Land Ramp] 
+1x Karn, Scion of Urza (dom) [Artifact Ramp] 
+1x Kessig Wolf Run (isd)
+1x Ketria Triome (iko)
+1x Khalni Heart Expedition (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Kodama's Reach (uma) [Land Ramp] 
+1x Machinate (dst) [Maybeboard{noDeck}{noPrice}] 
+1x Manifold Key (m20) [Maybeboard{noDeck}{noPrice}] 
+1x Mass Manipulation (rna) [Maybeboard{noDeck}{noPrice}] 
+1x Master of Etherium (2xm) [Wincon] 
+1x Masterful Replication (m20) [Wincon] 
+1x Migration Path (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Misty Rainforest (zen)
+1x Mox Opal (som) [Maybeboard{noDeck}{noPrice}] 
+1x Nature's Lore (p02) [Land Ramp] 
+1x Negate (m15) [Interaction] 
+1x Oko, Thief of Crowns (eld) [Interaction] 
+1x Oracle of Mul Daya (jmp) [Card Advantage] 
+1x Parallel Lives (isd) [Maybeboard{noDeck}{noPrice}] 
+1x Pia Nalaar (kld) [Maybeboard{noDeck}{noPrice}] 
+1x Pir's Whim (bbd) [Maybeboard{noDeck}{noPrice}] 
+1x Prismatic Vista (mh1)
+1x Pull from Tomorrow (akh) [Maybeboard{noDeck}{noPrice}] 
+1x Radha, Heart of Keld (m21) [Card Advantage] 
+1x Rampant Growth (m12) [Land Ramp] 
+1x Reckless Crew (khm) [Maybeboard{noDeck}{noPrice}] 
+1x Reverse Engineer (aer) [Card Advantage] 
+1x Rogue's Passage (rtr) [Maybeboard{noDeck}{noPrice}] 
+1x Saheeli, the Gifted (c18) *F*  [Big Mana] 
+1x Scalding Tarn (zen)
+1x Scavenger Grounds (c21)
+1x Shimmer Dragon (eld) [Card Advantage] 
+1x Skyshroud Claim (bbd) [Maybeboard{noDeck}{noPrice}] 
+2x Snow-Covered Forest (khm) 284
+2x Snow-Covered Island (khm) 279
+2x Snow-Covered Mountain (khm) 282
+1x Solemn Simulacrum (m12) [Maybeboard{noDeck}{noPrice}] 
+1x Spell Swindle (xln) [Interaction] 
+1x Springbloom Druid (mh1) [Maybeboard{noDeck}{noPrice}] 
+1x Steam Vents (rtr)
+1x Stolen Identity (gtc) [Maybeboard{noDeck}{noPrice}] 
+1x Stomping Ground (gtc)
+1x Storm the Vault // Vault of Catlacan (rix) [Big Mana] 
+1x Strip Mine (atq)
+1x Swan Song (ths) [Interaction] 
+1x Taiga (3ed)
+1x Tamiyo's Journal (soi) [Maybeboard{noDeck}{noPrice}] 
+1x Tatyova, Benthic Druid (dom) [Card Advantage] 
+1x Temple of the False God (c19)
+1x Terramorphic Expanse (cmr)
+1x Tezzeret, Artifice Master (m19) [Card Advantage] 
+1x Thopter Engineer (2xm) [Wincon] 
+1x Thopter Spy Network (ori) [Card Advantage] 
+1x Thoughtcast (mrd) [Card Advantage] 
+1x Thrasios, Triton Hero (cmr) *F*  [Commander{top}] 
+1x Three Visits (cmr) [Land Ramp] 
+1x Tireless Tracker (soi) [Card Advantage] 
+1x Toggo, Goblin Weaponsmith (cmr) *F*  [Commander{top}] 
+1x Treasure Cruise (ktk) [Maybeboard{noDeck}{noPrice}] 
+1x Tropical Island (3ed)
+1x Ugin, the Spirit Dragon (m21) [Interaction] 
+1x Urza, Lord High Artificer (mh1) [Big Mana] 
+1x Valduk, Keeper of the Flame (dom) [Wincon] 
+1x Volcanic Island (3ed)
+1x Wayfarer's Bauble (5dn) [Maybeboard{noDeck}{noPrice}] 
+1x Whirler Rogue (ori) [Wincon] 
+1x Wooded Foothills (ktk)
+1x Workshop Elders (eld) [Maybeboard{noDeck}{noPrice}] 

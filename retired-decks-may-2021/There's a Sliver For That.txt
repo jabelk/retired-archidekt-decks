@@ -1,0 +1,87 @@
+1x Amoeboid Changeling (lrw) [Utility] 
+1x Arcane Sanctum (mb1)
+1x Arcane Signet (cmr) [Ramp] 
+1x Arena of the Ancients (chr) [Utility] 
+1x Armillary Sphere (cmr) [Ramp] 
+1x Beast Within (cmr) [Removal] 
+1x Bonescythe Sliver (m14) [Combat] 
+1x Boros Signet (cmr) [Ramp] 
+1x Cauldron of Souls (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Chromatic Lantern (sld) [Ramp] 
+1x Cloudshredder Sliver (mh1) [Evasion] 
+1x Command Tower (cc1)
+1x Constricting Sliver (m15) [Removal] 
+1x Crop Rotation (2xm) [Utility] 
+1x Crumbling Necropolis (mb1)
+1x Crypt Sliver (lgn) [Recursion] 
+1x Crystalline Sliver (plist) [Protection] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Darkheart Sliver (plc) [Protection] 
+1x Demonic Tutor (mb1) [Utility] 
+1x Diffusion Sliver (m15) [Protection] 
+1x Dimir Signet (znc) [Ramp] 
+1x Dregscape Sliver (mh1) [Recursion] 
+1x Exotic Orchard (c20)
+1x Faeburrow Elder (eld) [Ramp] 
+5x Forest (khm) 398
+1x Galerider Sliver (m14) [Evasion] 
+1x Gemhide Sliver (tsp) [Ramp] 
+1x Golgari Signet (gk1) [Ramp] 
+1x Gruul Signet (mb1) [Ramp] 
+1x Harmonic Sliver (tsp) [Removal] 
+1x Harsh Mercy (ons) [Removal] 
+1x Heart Sliver (tmp) [Combat] 
+1x Heartstone (sth) [Utility] 
+1x Hibernation Sliver (sth) [Recursion] 
+1x Homing Sliver (fut) [Draw] 
+1x Hunter Sliver (lgn) [Combat] 
+1x Incubation // Incongruity (rna) [Removal] 
+1x Indatha Triome (iko)
+6x Island (khm) 395
+1x Izzet Signet (c20) [Ramp] 
+1x Jegantha, the Wellspring (iko) [Companion{top}] 
+1x Kindred Summons (c17) [Finish the game] 
+1x Lavabelly Sliver (mh1) [Removal] 
+1x Manaweft Sliver (m14) [Ramp] 
+1x Merciless Eviction (2xm) [Removal] 
+3x Mountain (khm) 397
+1x Muscle Sliver (plist) [Combat] 
+1x Myriad Landscape (cmr)
+1x Mystic Monastery (c20)
+1x Nature's Lore (mb1) [Ramp] 
+1x Necrotic Sliver (plc) [Removal] 
+1x Nomad Outpost (c20)
+1x Opaline Sliver (tsp) [Protection] 
+1x Orzhov Signet (c20) [Ramp] 
+1x Path of Ancestry (cmr)
+5x Plains (khm) 394
+1x Predatory Sliver (m14) [Combat] 
+1x Quick Sliver (lgn) [Protection] 
+1x Rakdos Signet (c20) [Ramp] 
+1x Rhythm of the Wild (rna) [Protection] 
+1x Root Sliver (lgn) [Protection] 
+1x Rootbound Crag (xln)
+1x Sedge Sliver (tsp) [Recursion] 
+1x Selesnya Signet (gk1) [Ramp] 
+1x Sentinel Sliver (m14) [Combat] 
+1x Shifting Sliver (lgn) [Evasion] 
+1x Simic Signet (cmr) [Ramp] 
+1x Sinew Sliver (plc) [Combat] 
+1x Sliver Hive (m15)
+1x Sliver Hivelord (mb1) [Protection] 
+1x Sliver Overlord (scg) [Commander{top}] 
+1x Soul-Guide Lantern (thb) [Removal] 
+1x Striking Sliver (m14) [Combat] 
+2x Swamp (khm) 396
+1x Syphon Sliver (m14) [Protection] 
+1x The First Sliver (mh1) [Utility] 
+1x Thriving Grove (jmp)
+1x Thriving Heath (jmp)
+1x Thriving Isle (jmp)
+1x Unclaimed Territory (c20)
+1x Unknown Shores (thb)
+1x Vanishing (vis) [Protection] 
+1x Venom Sliver (mb1) [Combat] 
+1x Wargate (mb1) [Finish the game] 
+1x Winged Sliver (tmp) [Evasion] 
+1x Zagoth Triome (iko)

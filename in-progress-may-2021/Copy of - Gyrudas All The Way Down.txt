@@ -1,0 +1,93 @@
+1x Alexi's Cloak (pcy) [Maybeboard] 
+1x Ancestral Knowledge (wth) [Selection] 
+1x Angelic Renewal (uma) [Zur Targets] 
+1x Angelic Shield (ddi) [Zur Targets] 
+1x Animate Dead (mb1) [Zur Targets] 
+1x Arcane Sanctum (c13)
+1x Arcane Signet (c20) [Ramp] 
+1x Arguel's Blood Fast // Temple of Aclazotz (xln) [Selection] 
+1x Ash Barrens (c20)
+1x Azorius Chancery (c20)
+1x Azorius Signet (c20) [Ramp] 
+1x Bad River (mir)
+1x Bant Panorama (cma)
+1x Charming Prince (eld) [DOOM!] 
+1x Clever Impersonator (c19) [DOOM!] 
+1x Clone (m14) [DOOM!] 
+1x Command Tower (c20)
+1x Counterspell (mb1) [Interaction] 
+1x Countersquall (uma) [Interaction] 
+1x Dance of Many (5ed) [DOOM!] 
+1x Dance of the Dead (ice) [Zur Targets] 
+1x Deadeye Navigator (mm3) [DOOM!] 
+1x Dimir Aqueduct (c20)
+1x Dimir Signet (c18) [Ramp] 
+1x Dread Return (ddq) [DOOM!] 
+1x Dromar's Cavern (pls)
+1x Esper Panorama (c13)
+1x Everflowing Chalice (c14) [Ramp] 
+1x Evil Twin (bbd) [DOOM!] 
+1x Evolving Wilds (iko)
+1x Fabled Passage (m21)
+1x Fact or Fiction (mh1) [Selection] 
+1x Felidar Guardian (mb1) [DOOM!] 
+1x Fellwar Stone (cm2) [Ramp] 
+1x Field of Ruin (thb)
+1x Flicker of Fate (thb) [DOOM!] 
+1x Flood Plain (ddi)
+1x Flood of Tears (m20) [Interaction] 
+1x Frogify (eld) [Zur Targets] 
+1x Gigantoplasm (c15) [DOOM!] 
+1x Glimmerpoint Stag (ema) [DOOM!] 
+1x Godless Shrine (rna)
+1x Grixis Panorama (c17)
+1x Gyruda, Doom of Depths (iko) [Sideboard] 
+1x Hall of Heliod's Generosity (mh1)
+1x Hallowed Fountain (rna)
+1x Heliod's Intervention (thb) [Interaction] 
+1x Impulse (mb1) [Selection] 
+5x Island (bfz) 257
+1x Kasmina's Transmutation (war) [Zur Targets] 
+1x Kozilek, Butcher of Truth (uma) [Mill Protection] 
+1x Luminous Broodmoth (iko) [DOOM!] 
+1x Medomai's Prophecy (thb) [Selection] 
+1x Mind Stone (mb1) [Ramp] 
+1x Mirror Mockery (dtk) [DOOM!] 
+1x Momentary Blink (tsp) [DOOM!] 
+1x Myriad Landscape (c20)
+1x Negate (dpa) [Interaction] 
+1x Nightmare Shepherd (thb) [DOOM!] 
+1x Orzhov Basilica (c20)
+1x Orzhov Signet (c20) [Ramp] 
+1x Panharmonicon (kld) [DOOM!] 
+1x Phantasmal Image (mm3) [DOOM!] 
+1x Phyrexian Metamorph (mb1) [DOOM!] 
+4x Plains (bfz) 251a
+1x Planar Collapse (ulg) [Zur Targets] 
+1x Prismatic Lens (uma) [Ramp] 
+1x Ransack the Lab (mh1) [Maybeboard] 
+1x Remorseful Cleric (m19) [Interaction] 
+1x Restoration Angel (ima) [DOOM!] 
+1x Sakashima the Impostor (mb1) [DOOM!] 
+1x Sakashima's Student (pca) [DOOM!] 
+1x Seal of Cleansing (nem) [Zur Targets] 
+1x Shatter the Sky (thb) [Interaction] 
+1x Slaughter Pact (mma) [Interaction] 
+1x Spark Double (war) [DOOM!] 
+1x Stasis (3ed) [Maybeboard] 
+1x Stunt Double (cn2) [DOOM!] 
+3x Swamp (cma) 303
+1x Swiftfoot Boots (c20) [Interaction] 
+1x Talisman of Hierarchy (mh1) [Ramp] 
+1x Telling Time (c18) [Selection] 
+1x Temple of Deceit (thb)
+1x Temple of Enlightenment (thb)
+1x Temple of Silence (m20)
+1x Terramorphic Expanse (c19)
+1x Thassa, Deep-Dwelling (thb) [DOOM!] 
+1x Utter End (c18) [Interaction] 
+1x Vizier of Many Faces (akh) [DOOM!] 
+1x Wall of Stolen Identity (c19) [DOOM!] 
+1x Watery Grave (grn)
+1x Wispweaver Angel (kld) [DOOM!] 
+1x Zur the Enchanter (mm3) [Commander{top}] 

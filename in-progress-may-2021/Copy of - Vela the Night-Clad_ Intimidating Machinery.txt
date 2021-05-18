@@ -1,0 +1,114 @@
+1x Academy Ruins (mma)
+1x All Is Dust (mm2)
+1x Ancient Tomb (tmp)
+1x Arcane Signet (eld)
+1x Arcbound Crusher (dst)
+1x Arcbound Ravager (mma)
+1x Artificer's Epiphany (ddu) [Maybeboard{noDeck}{noPrice}] 
+1x Ashnod's Altar (chr)
+1x Bojuka Bog (cma)
+1x Buried Ruin (c18)
+1x Cloud Key (fut)
+1x Command Tower (c17)
+1x Crashing Drawbridge (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Cyclonic Rift (c14)
+1x Darksteel Citadel (c18)
+1x Demonic Tutor (3ed)
+1x Dimir Signet (mm3)
+1x Drowned Catacomb (xln)
+1x Efficient Construction (aer)
+1x Fact or Fiction (cmd)
+1x Feed the Swarm (znr)
+1x Fellwar Stone (c16)
+1x Forsaken Monument (znr)
+1x Foundry Inspector (kld)
+1x Grim Monolith (ulg)
+1x Hangarback Walker (ori)
+1x Hex Parasite (nph)
+1x Imprisoned in the Moon (emn) [Maybeboard{noDeck}{noPrice}] 
+1x Inventors' Fair (kld)
+5x Island (gk2) 27
+1x Jhoira's Familiar (dom)
+1x Karn, Silver Golem (usg)
+1x Krark-Clan Ironworks (5dn)
+1x Kuldotha Forgemaster (som) [Maybeboard{noDeck}{noPrice}] 
+1x March of the Machines (arc) [Maybeboard{noDeck}{noPrice}] 
+1x Masterful Replication (m20) [Maybeboard{noDeck}{noPrice}] 
+1x Mechanized Production (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Metalwork Colossus (kld)
+1x Metalworker (uds)
+1x Midnight Clock (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Mind Stone (c18)
+1x Mirage Mirror (hou) [Maybeboard{noDeck}{noPrice}] 
+1x Mirrodin Besieged (mh1)
+1x Mishra's Self-Replicator (dom)
+1x Morphic Pool (bbd)
+1x Mox Opal (som)
+1x Mycosynth Golem (5dn) [Maybeboard{noDeck}{noPrice}] 
+1x Myr Battlesphere (som)
+1x Myriad Construct (znr)
+1x Mystic Forge (m20)
+1x Night's Whisper (ddm)
+1x Notion Rain (grn)
+1x One with the Machine (m19)
+1x Phyrexian Altar (inv)
+1x Phyrexian Tower (usg)
+1x Phyrexian Triniform (cmr)
+1x Polluted Delta (ktk)
+1x Pongify (c14)
+1x Port of Karfell (khm)
+1x Rapid Hybridization (gk2)
+1x Read the Bones (ori)
+1x Reality Shift (ugin)
+1x Reliquary Tower (c16)
+1x Revel in Riches (xln)
+1x Rite of Replication (c15) [Maybeboard{noDeck}{noPrice}] 
+1x Sakashima's Will (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Scarecrone (eve)
+1x Scavenger Grounds (hou)
+1x Scrapyard Recombiner (mh1) [Maybeboard{noDeck}{noPrice}] 
+1x Seat of the Synod (mrd)
+1x Semblance Anvil (som) [Maybeboard{noDeck}{noPrice}] 
+1x Shambling Suit (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Shimmer Myr (c16)
+1x Shrine of the Forsaken Gods (c19)
+1x Sign in Blood (m11)
+1x Skullclamp (c17)
+1x Skyclave Relic (znr)
+1x Sol Ring (pf19)
+1x Soul of New Phyrexia (m15)
+1x Soul-Guide Lantern (thb)
+1x Spawning Pit (dst)
+1x Spellskite (nph)
+1x Steel Hellkite (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Steel Overseer (m20)
+1x Strip Mine (4ed)
+1x Sunken Hollow (bfz)
+1x Sunken Ruins (2xm) [Maybeboard{noDeck}{noPrice}] 
+5x Swamp (gk2) 78
+1x Tainted Isle (tor)
+1x Talisman of Dominance (mrd)
+1x Tezzeret the Schemer (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Tezzeret the Seeker (ala)
+1x Tezzeret, Agent of Bolas (mbs)
+1x Tezzeret, Artifice Master (m19)
+1x Tezzeret, Cruel Machinist (m19) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Tezzeret, Master of Metal (aer) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Tezzeret, Master of the Bridge (war) *F* 
+1x The Antiquities War (dom)
+1x The Elderspell (war) [Maybeboard{noDeck}{noPrice}] 
+1x Thopter Spy Network (c18)
+1x Thought Vessel (c15)
+1x Thoughtcast (mrd)
+1x Toxic Deluge (c13)
+1x Traxos, Scourge of Kroog (dom)
+1x Underground River (ice)
+1x Underground Sea (3ed)
+1x Unwinding Clock (c18) [Maybeboard{noDeck}{noPrice}] 
+1x Urborg, Tomb of Yawgmoth (m15)
+1x Vault of Whispers (mrd)
+1x Vela the Night-Clad (pc2) [Commander{top}] 
+1x War Room (cmr)
+1x Wasteland (tmp)
+1x Watery Grave (gtc)
+1x Wurmcoil Engine (c14)

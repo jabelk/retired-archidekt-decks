@@ -1,0 +1,93 @@
+1x Aetherflux Reservoir (mb1) [Infinite Bounce] 
+1x Ainok Survivalist (mb1) [Trap Cards] 
+1x Alchemist's Refuge (avr) [Flashing Traps Each Turn] 
+1x Arcane Signet (c21) [Ramp (Ritual Summon)] 
+1x Bane of the Living (c19) [Trap Cards] 
+1x Beast Whisperer (tsr) [Draw (pot of greed)] 
+1x Birds of Paradise (sld) [Ramp (Ritual Summon)] 
+1x Bloodstained Mire (zne)
+1x Bloom Tender (mb1) [Ramp (Ritual Summon)] 
+1x Bojuka Bog (tsr)
+1x Breeding Pool (rna)
+1x Brine Elemental (tsr) [Lock the Board] 
+1x Burgeoning (c16) [Ramp (Ritual Summon)] 
+1x Chromeshell Crab (c19) [Trap Cards] 
+1x Cloudstone Curio (rav) [Infinite Bounce,Reset The Trap Cards] 
+1x Command Tower (khc)
+1x Crop Rotation (2xm) [Flashing Traps Each Turn] 
+1x Cyclonic Rift (2xm) [Lock the Board] 
+1x Demonic Tutor (mb1) [Top Deck (Heart of the Cards)] 
+1x Den Protector (c19) [Lock the Board] 
+1x Earthcraft (tmp) [Infinite Bounce,Ramp (Ritual Summon)] 
+1x Echo Tracer (ddn) [Trap Cards] 
+1x Equilibrium (7ed) [Reset The Trap Cards] 
+1x Eternal Witness (tsr) [Recursion (Call of the Haunted)] 
+1x Exotic Orchard (c20)
+1x Exploration (2xm) [Land] 
+1x Fierce Guardianship (c20) [Protection] 
+1x Flooded Strand (zne)
+4x Forest (stx) 374
+1x Ghastly Conscription (c19) [Recursion (Call of the Haunted)] 
+1x Gift of Doom (c19) [Trap Cards] 
+1x Grim Haruspex (plist) [Trap Cards] 
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) [Ramp (Ritual Summon)] 
+1x Guardian Project (rna) [Draw (pot of greed)] 
+1x Heartless Summoning (isd) [Infinite Bounce] 
+1x Heroic Intervention (m21) [Protection] 
+1x Icefeather Aven (c19) [Trap Cards] 
+4x Island (stx) 368
+1x Ixidron (c19) [Bluffing W/Extra Facedown] 
+1x Kadena's Silencer (c19) [Trap Cards] 
+1x Kadena, Slinking Sorcerer (c19) *F*  [Commander{top}] 
+1x Kheru Spellsnatcher (c19) [Trap Cards] 
+1x Leyline of Anticipation (m20) [Flashing Traps Each Turn] 
+1x Marsh Flats (zne)
+1x Mischievous Quanar (plist) [Trap Cards] 
+1x Mistfire Weaver (ktk) [Trap Cards] 
+1x Misty Rainforest (zne)
+1x Mystic Forge (m20) [Top Deck (Heart of the Cards)] 
+1x Mystic Remora (ice) [Draw (pot of greed)] 
+1x Nantuko Vigilante (c19) [Trap Cards] 
+1x Nature's Lore (mb1) [Ramp (Ritual Summon)] 
+1x Noxious Revival (nph) [Recursion (Call of the Haunted)] 
+1x Nurturing Peatland (mh1)
+1x Obscuring Aether (dtk) [Ramp (Ritual Summon)] 
+1x Overgrown Tomb (grn)
+1x Polluted Delta (zne)
+1x Prismatic Vista (zne)
+1x Reliquary Tower (cmr)
+1x Rhystic Study (jmp) [Draw (pot of greed)] 
+1x Riptide Laboratory (plist)
+1x Ruthless Ripper (a25) [Trap Cards] 
+1x Scalding Tarn (zne)
+1x Scheming Symmetry (m20) [Top Deck (Heart of the Cards)] 
+1x Scroll of Fate (c19) [Bluffing W/Extra Facedown] 
+1x Secret Plans (tsr) [Draw (pot of greed)] 
+1x Seedborn Muse (cc1) [Flashing Traps Each Turn] 
+1x Sensei's Divining Top (ema) [Top Deck (Heart of the Cards)] 
+1x Shared Summons (m20) [Top Deck (Heart of the Cards)] 
+1x Silumgar Assassin (c19) [Trap Cards] 
+1x Sol Ring (c21) [Ramp (Ritual Summon)] 
+1x Stratus Dancer (c19) [Trap Cards] 
+2x Swamp (stx) 371
+1x Sylvan Library (cc1) [Top Deck (Heart of the Cards)] 
+1x Teferi, Mage of Zhalfir (tsr) [Flashing Traps Each Turn] 
+1x Temur Sabertooth (c17) [Reset The Trap Cards] 
+1x Tomb of the Spirit Dragon (ktk)
+1x Ugin, the Ineffable (war) [Infinite Bounce] 
+1x Unblinking Bleb (fut) [Trap Cards] 
+1x Vampiric Tutor (cmr) [Top Deck (Heart of the Cards)] 
+1x Verdant Catacombs (zne)
+1x Vesuvan Shapeshifter (tsr) [Lock the Board] 
+1x Vivien, Champion of the Wilds (war) [Flashing Traps Each Turn] 
+1x Vizier of the Menagerie (akh) [Top Deck (Heart of the Cards)] 
+1x Voidmage Apprentice (jvc) [Trap Cards] 
+1x Waterlogged Grove (mh1)
+1x Watery Grave (grn)
+1x Willbender (c19) [Trap Cards] 
+1x Winding Canyons (wth) [Flashing Traps Each Turn] 
+1x Windswept Heath (zne)
+1x Wooded Foothills (zne)
+1x Words of Wind (ons) [Reset The Trap Cards] 
+1x Worldly Tutor (cc1) [Top Deck (Heart of the Cards)] 
+1x Zoetic Cavern (a25) [Trap Cards] 

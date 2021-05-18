@@ -1,0 +1,106 @@
+1x All That Glitters (eld) [Too Many Cards{noDeck}{noPrice}] 
+1x Anointed Procession (akh) [Doubloons] 
+1x Arcane Signet (c20) [Boring Ramp] 
+1x Ash Barrens (c19)
+1x Azure Fleet Admiral (cmr) [The Crew] 
+1x Bad River (mir)
+1x Biomancer's Familiar (rna) *F*  [First mates] 
+1x Blasphemous Act (2xm) [Too Many Cards{noDeck}{noPrice}] 
+1x Brash Taunter (m21) [Too Many Cards{noDeck}{noPrice}] 
+1x Brass's Bounty (rix) *F*  [Pirate's Booty] 
+1x Breeches, Brazen Plunderer (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Captain Lannery Storm (xln)
+1x Captivating Crew (c20) [Pirate's code] 
+1x Chromatic Lantern (rtr) [Boring Ramp] 
+1x Cinder Glade (c20)
+1x Coercive Recruiter (cmr) [Pirate's code] 
+1x Command Tower (eld)
+1x Commander's Sphere (cmr) [Boring Ramp] 
+1x Conjurer's Closet (2xm) [All hands on deck] 
+1x Conqueror's Galleon // Conqueror's Foothold (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Contract Killing (xln) [Smooth sailing] 
+1x Corsair Captain (jmp) [The Crew] 
+1x Crafty Cutpurse (rix) [Too Many Cards{noDeck}{noPrice}] 
+1x Dead Man's Chest (rix) [Maybeboard{noDeck}{noPrice}] 
+1x Deadeye Navigator (mm3) [All hands on deck] 
+1x Deadeye Plunderers (xln) [The Crew] 
+1x Depths of Desire (xln) [Smooth sailing] 
+1x Dire Fleet Daredevil (rix) [Maybeboard{noDeck}{noPrice}] 
+1x Dockside Extortionist (c19) [The Crew] 
+1x Dowsing Dagger // Lost Vale (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Dusk Legion Dreadnought (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Emberwilde Captain (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Enlightened Tutor (mir) [Too Many Cards{noDeck}{noPrice}] 
+1x Evolving Wilds (c19)
+1x Exotic Orchard (c20)
+1x Expedition Map (2xm) [Treasure Maps] 
+1x Explorer's Scope (cmr) [Captain's Arsenal] 
+1x Fabled Passage (eld)
+1x Fathom Fleet Captain (xln)
+1x Fathom Fleet Captain (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Fathom Fleet Swordjack (cmr) [The Crew] 
+1x Fell Flagship (xln)
+1x Fell Flagship (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Fiery Cannonade (cmr)
+1x Flood Plain (ddi)
+1x Forerunner of the Coalition (rix) [Maybeboard{noDeck}{noPrice}] 
+3x Forest (thb) 254 *F* 
+1x Glint-Horn Buccaneer (m20) [The Crew] 
+1x Hanna, Ship's Navigator (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Hellkite Tyrant (gtc) [Too Many Cards{noDeck}{noPrice}] 
+1x Hornswoggle (rix) [Smooth sailing] 
+1x Hostage Taker (xln) [Pirate's code] 
+1x Hullbreacher (cmr) [The Crew] 
+1x Illusionist's Bracers (gtc)
+1x Impulsive Pilferer (cmr) [Too Many Cards{noDeck}{noPrice}] 
+1x Inspiring Statuary (aer)
+5x Island (thb) 251 *F* 
+1x Kenrith, the Returned King (eld) *F*  [Commander{top}] 
+1x Land Tax (2xm) [Boring Ramp] 
+1x Lookout's Dispersal (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Malcolm, Keen-Eyed Navigator (cmr) [The Crew] 
+1x Marionette Master (kld) [The Crew] 
+1x Mechanized Production (aer)
+1x Merchant Raiders (cmr) [Maybeboard{noDeck}{noPrice}] 
+5x Mountain (thb) 253 *F* 
+1x Mountain Valley (c18)
+1x Parallel Lives (isd) [Doubloons] 
+1x Pitiless Plunderer (rix) [The Crew] 
+3x Plains (thb) 250 *F* 
+1x Prairie Stream (c20)
+1x Prismatic Vista (mh1)
+1x Prosperous Pirates (xln) [The Crew] 
+1x Prying Blade (xln) [Captain's Arsenal] 
+1x Reckless Fireweaver (kld) [The Crew] 
+1x Revel in Riches (xln) [Pirate's Booty] 
+1x Rocky Tar Pit (c18)
+1x Rout (cns) [Smooth sailing] 
+1x Ruthless Knave (xln) [The Crew] 
+1x Siren Stormtamer (cmr)
+1x Sisay's Ring (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Sleek Schooner (xln) [Captain's Arsenal] 
+1x Smoldering Marsh (c20)
+1x Smothering Tithe (rna) [Pirate's Booty] 
+1x Sol Ring (c19) [Boring Ramp] 
+1x Spectral Sailor (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Spell Swindle (xln) [Smooth sailing] 
+1x Stolen Goods (avr) [Pirate's code] 
+1x Storm Fleet Sprinter (rix) [Maybeboard{noDeck}{noPrice}] 
+1x Storm the Vault // Vault of Catlacan (rix) [Pirate's Booty] 
+1x Sunken Hollow (c20)
+3x Swamp (thb) 252 *F* 
+1x Talisman of Conviction (mh1)
+1x Talisman of Creativity (mh1)
+1x Talisman of Hierarchy (mh1)
+1x Talisman of Resilience (mh1)
+1x Terramorphic Expanse (uma)
+1x Thassa, Deep-Dwelling (thb) [All hands on deck] 
+1x Training Grounds (roe) [First mates] 
+1x Treasure Map // Treasure Cove (xln) [Treasure Maps] 
+1x Unwind (dom) [Smooth sailing] 
+1x Vance's Blasting Cannons // Spitfire Bastion (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Villainous Wealth (c20) [Pirate's code] 
+1x Vraska, Relic Seeker (xln) [Pirate's Booty] 
+1x Walk the Plank (mb1) [Smooth sailing] 
+1x Zara, Renegade Recruiter (cmr) [Pirate's code] 
+1x Zirda, the Dawnwaker (iko) [First mates] 

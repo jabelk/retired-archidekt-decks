@@ -1,0 +1,105 @@
+1x Act of Aggression (nph) [Tricks] 
+1x Alchemist's Gift (m21) [Lifelink] 
+1x All Is Dust (mb1) [Removal] 
+1x Ancient Tomb (uma)
+1x Anger (uma) [Maybeboard{noDeck}{noPrice}] 
+1x Arcane Lighthouse (cm2)
+1x Arcane Signet (eld) [Acceleration] 
+1x Ash Barrens (mb1)
+1x Basilisk Collar (mm3) [Lifelink] 
+1x Besmirch (cn2) [Tricks] 
+1x Blasphemous Act (isd) [Removal] 
+1x Blessing of Belzenlok (mb1) [Lifelink] 
+1x Blood Crypt (rna)
+1x Bloodstained Mire (ktk)
+1x Bloodsworn Steward (c17) [Noms] 
+1x Bojuka Bog (c19)
+1x Bolas's Citadel (war) [Maybeboard{noDeck}{noPrice}] 
+1x Bolt Bend (war) [No] 
+1x Butcher's Glee (dtk) [Lifelink] 
+1x Champion's Helm (cmd) [No] 
+1x Chandra's Ignition (ori) [Tricks] 
+1x Chaos Warp (c19) [Removal] 
+1x City of Brass (md1)
+1x Coldsteel Heart (mb1) [Acceleration] 
+1x Combat Celebrant (akh) [Noms] 
+1x Command Beacon (cmr)
+1x Command Tower (eld)
+1x Commander's Sphere (c20) [Acceleration] 
+1x Damnation (plc) [Removal] 
+1x Deflecting Swat (c20) [No] 
+1x Demonic Tutor (mb1) [Independent Advantage] 
+1x Doom Whisperer (grn) [Noms] 
+1x Dragonskull Summit (pxln)
+1x Essence Harvest (avr) [Lifelink] 
+1x Fire Covenant (ice) [Removal] 
+1x Frenzied Fugue (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Funeral Rites (jmp) [Independent Advantage] 
+1x Graven Cairns (ima)
+1x Gray Merchant of Asphodel (c14) [Maybeboard{noDeck}{noPrice}] 
+1x Greven, Predator Captain (c19) *F*  [Commander{top}] 
+1x Hall of the Bandit Lord (chk)
+1x Hatred (exo) [Tricks] 
+1x Hellkite Courser (cmr) [Noms] 
+1x Kediss, Emberclaw Familiar (cmr) [Tricks] 
+1x Kokusho, the Evening Star (ima) [Maybeboard{noDeck}{noPrice}] 
+1x Lightning Greaves (mrd) [No] 
+1x Lupine Prototype (emn) [Noms] 
+1x Luxury Suite (bbd)
+1x Malakir Rebirth // Malakir Mire (znr) [Maybeboard{noDeck}{noPrice}] 
+1x Mana Confluence (jou)
+1x Mind Stone (10e) [Acceleration] 
+4x Mountain (zen) 243
+1x Myriad Landscape (c19)
+1x Necropotence (ice) [Independent Advantage] 
+1x Night's Whisper (mb1) [Independent Advantage] 
+1x Obsidian Battle-Axe (mor) [Maybeboard{noDeck}{noPrice}] 
+1x Painful Lesson (mb1) [Independent Advantage] 
+1x Painful Truths (c20) [Independent Advantage] 
+1x Phyrexian Arena (cn2) [Independent Advantage] 
+1x Phyrexian Purge (mir) [Maybeboard{noDeck}{noPrice}] 
+1x Phyrexian Soulgorger (csp) [Noms] 
+1x Prismatic Vista (mh1)
+1x Psychotic Fury (dis) [Maybeboard{noDeck}{noPrice}] 
+1x Pyroblast (ice) [No] 
+1x Rakdos Carnarium (c19)
+1x Rakdos Charm (rtr) [Maybeboard{noDeck}{noPrice}] 
+1x Rakdos Signet (dis) [Acceleration] 
+1x Raking Claws (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Read the Bones (c17) [Independent Advantage] 
+1x Reliquary Tower (c16)
+1x Rogue's Passage (c19)
+1x Rotting Regisaur (m20) [Noms] 
+1x Rush of Vitality (kld) [Lifelink] 
+1x Scavenger Grounds (c20)
+1x Shadowblood Ridge (c16)
+1x Shadowspear (thb) [Lifelink] 
+1x Sign in Blood (cm2) [Independent Advantage] 
+1x Silent Arbiter (cns) [Tricks] 
+1x Snuff Out (gvl) [Maybeboard{noDeck}{noPrice}] 
+1x Sol Ring (c19) [Acceleration] 
+1x Solemn Simulacrum (m21) [Acceleration] 
+1x Soul Channeling (mmq) [Tricks] 
+1x Soul's Fire (ala) [Tricks] 
+1x Sulfurous Springs (10e)
+7x Swamp (bfz) 261
+1x Swiftfoot Boots (m12) [No] 
+1x Tainted Strike (som) [Tricks] 
+1x Talisman of Indulgence (mrd) [Acceleration] 
+1x Tectonic Edge (c14)
+1x Temur Battle Rage (frf) [Maybeboard{noDeck}{noPrice}] 
+1x Tentative Connection (iko) [Tricks] 
+1x Thought Vessel (c15) [Acceleration] 
+1x Toxic Deluge (ema) [Removal] 
+1x Treasonous Ogre (cns) [Acceleration] 
+1x Unexpected Fangs (iko) [Lifelink] 
+1x Unleash Fury (m21) [Tricks] 
+1x Urabrask the Hidden (ima) [Noms] 
+1x Urborg, Tomb of Yawgmoth (uma)
+1x Vampiric Tutor (ema) [Independent Advantage] 
+1x Vandalblast (c15) [Maybeboard{noDeck}{noPrice}] 
+1x Vorrac Battlehorns (mrd) [Tricks] 
+1x Wall of Blood (mrd) [Noms] 
+1x War Room (cmr)
+1x Wayfarer's Bauble (cm2) [Acceleration] 
+1x Whip of Erebos (ths) [Lifelink] 

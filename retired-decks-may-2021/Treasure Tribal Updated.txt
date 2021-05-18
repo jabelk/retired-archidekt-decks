@@ -1,0 +1,90 @@
+1x Anointed Procession (akh) [Treasure Pile] 
+1x Arcane Signet (khc) [Ramp] 
+1x Arid Mesa (zne)
+1x Blightstep Pathway // Searstep Pathway (khm)
+1x Blood Artist (jmp) [Win Con] 
+1x Bloodstained Mire (zne)
+1x Brought Back (m20) [Recursion] 
+1x Cauldron of Souls (mb1) [Protection] 
+1x Clackbridge Troll (eld) [Draw] 
+1x Command Beacon (cmr)
+1x Command Tower (khc)
+1x Daretti, Ingenious Iconoclast (cn2) [Maybeboard{noDeck}{noPrice}] 
+1x Demon's Disciple (znr) [Removal] 
+1x Demonic Tutor (mb1) [Draw] 
+1x Dictate of Erebos (mb1) [Removal] 
+1x Disciple of the Vault (2xm) [Win Con] 
+1x Dockside Extortionist (c19) [Treasure Pile] 
+1x Emergence Zone (war) [Maybeboard{noDeck}{noPrice}] 
+1x Exsanguinate (mb1) [Win Con] 
+1x Fabled Passage (m21)
+1x Field of the Dead (m20)
+1x Foreboding Fruit (eld) [Draw] 
+1x Forging the Tyrite Sword (khm) [Treasure Pile] 
+1x Gadrak, the Crown-Scourge (m21) [Treasure Pile] 
+1x Glacial Chasm (ice)
+1x Godless Shrine (rna)
+1x Goldspan Dragon (khm) [Treasure Pile] 
+1x Heliod's Intervention (thb) [Removal] 
+1x Hellkite Tyrant (c16) [Treasure Pile] 
+1x Inspiring Statuary (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Isolated Chapel (dom)
+1x It That Betrays (ddp) [Removal] 
+1x Killing Wave (avr) [Maybeboard{noDeck}{noPrice}] 
+1x Lavaclaw Reaches (uma)
+1x Leyline of the Void (tsr) [Protection] 
+1x Lightning Greaves (2xm) [Protection] 
+1x Liliana of the Veil (mm3) [Removal] 
+1x Liliana, Dreadhorde General (war) [Draw] 
+1x Luminous Broodmoth (iko) [Recursion] 
+1x Magda, Brazen Outlaw (khm) [Treasure Pile] 
+1x Malakir Rebirth // Malakir Mire (znr) [Recursion] 
+1x Marionette Master (kld) [Win Con] 
+1x Marsh Flats (zne)
+1x Massacre Wurm (m21) [Removal] 
+1x Mayhem Devil (war) [Removal] 
+1x Mogis, God of Slaughter (bng) [Removal] 
+4x Mountain (khm) 397
+1x Mythos of Snapdax (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Negan, the Cold-Blooded (sld) *F*  [Commander{top}] 
+1x Night's Whisper (mb1) [Draw] 
+1x Ob Nixilis, Unshackled (m15) [Removal] 
+1x Orzhov Signet (c20) [Ramp] 
+1x Panharmonicon (plist) [Flicker] 
+1x Phyrexian Arena (mb1) [Draw] 
+1x Phyrexian Obliterator (plist) [Removal] 
+1x Phyrexian Reclamation (jmp) [Recursion] 
+1x Pirate's Pillage (rix) [Draw] 
+1x Pitiless Plunderer (rix) [Treasure Pile] 
+1x Plaguecrafter (mb1) [Removal] 
+3x Plains (khm) 394
+1x Rakdos Signet (c20) [Ramp] 
+1x Reassembling Skeleton (mb1) [Recursion] 
+1x Reckless Fireweaver (mb1) [Win Con] 
+1x Revel in Riches (mb1) [Treasure Pile] 
+1x Sacred Foundry (grn)
+1x Sangromancer (jmp) [Protection] 
+1x Savai Triome (iko)
+1x Second Sunrise (mrd) [Recursion] 
+1x Seize the Spoils (khm) [Draw] 
+1x Sevinne's Reclamation (c19) [Recursion] 
+1x Skeletal Scrying (mb1) [Draw] 
+1x Smothering Tithe (rna) [Treasure Pile] 
+1x Sol Ring (khc) [Ramp] 
+1x Solemn Simulacrum (m21) [Ramp] 
+1x Solemnity (hou) [Recursion] 
+1x Soul Shatter (znr) [Removal] 
+1x Spectator Seating (cmr)
+14x Swamp (khm) 396
+1x Swiftfoot Boots (khc) [Protection] 
+1x Talisman of Hierarchy (mh1) [Ramp] 
+1x Talisman of Indulgence (e01) [Maybeboard{noDeck}{noPrice}] 
+1x Teferi's Protection (sld) [Protection] 
+1x Tergrid, God of Fright // Tergrid's Lantern (khm) [Removal] 
+1x Tevesh Szat, Doom of Fools (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Thrill of Possibility (m21) [Draw] 
+1x Torment of Hailfire (mb1) [Win Con] 
+1x Treasure Map // Treasure Cove (xln) [Treasure Pile] 
+1x Vault Robber (khm) [Treasure Pile] 
+1x Wayfarer's Bauble (plist) [Ramp] 
+1x Worn Powerstone (plist) [Ramp] 

@@ -1,0 +1,85 @@
+1x Akroma's Will (cmr) [Protection] 
+1x Ancient Tomb (zne)
+1x Arcane Signet (cmr)
+1x Arcbond (frf) [Blow Up the Board] 
+1x Arena (tsb) [Power Punch Fighting] 
+1x Arid Mesa (zne)
+1x Battlefield Forge (c20)
+1x Blasphemous Act (cmr) [Blow Up the Board] 
+1x Blessed Sanctuary (jmp)
+1x Boros Reckoner (mb1) [Beefy Boys] 
+1x Brash Taunter (m21) [Beefy Boys] 
+1x Brushland (10e)
+1x Canopy Vista (c20)
+1x Chain Reaction (c18) [Blow Up the Board] 
+1x Chromatic Lantern (sld)
+1x Cinder Glade (c20)
+1x Comeuppance (c14) [Utility Belt] 
+1x Court of Bounty (cmr) [Building Muscle Ramp] 
+1x Cragcrown Pathway // Timbercrown Pathway (znr)
+1x Cultivate (cmr) [Building Muscle Ramp] 
+1x Dawnglade Regent (cmr) [Beefy Boys] 
+1x Domri, Anarch of Bolas (war) [Power Punch Fighting] 
+1x Dromoka's Command (dtk) [Power Punch Fighting] 
+1x Earthquake (cm2) [Blow Up the Board] 
+1x Embercleave (eld) [Beat Face] 
+1x Enlightened Tutor (mir) [Tutors] 
+1x Entangler (pcy) [Utility Belt] 
+1x Fabled Passage (m21)
+1x Flawless Maneuver (c20) [Protection] 
+1x Flooded Strand (zne)
+8x Forest (cmr) 510
+1x Gideon's Sacrifice (war) [Protection] 
+1x Grothama, All-Devouring (bbd) [Card Draw] 
+1x Grove of the Burnwillows (zne)
+1x Guilty Conscience (scg)
+1x Harmonize (cmr) [Card Draw] 
+1x Jared Carthalion, True Heir (cmr) [Commander{top}] 
+1x Kessig Wolf Run (c20)
+1x Lightmine Field (roe) [Protection] 
+1x Mana Crypt (2xm) [Building Muscle Ramp] 
+1x Mana Vault (uma)
+1x Mangara, the Diplomat (m21) [Card Draw] 
+1x Marauding Raptor (plist)
+1x Marisi, Breaker of the Coil (c19) *F*  [Beefy Boys] 
+1x Marsh Flats (zne)
+1x Mirari's Wake (c17) [Building Muscle Ramp] 
+1x Mirri, Weatherlight Duelist (sld) *F*  [Beefy Boys] 
+1x Mogg Maniac (sth) [Maybeboard{noDeck}{noPrice}] 
+5x Mountain (cmr) 508
+1x Nature's Claim (mb1) [Utility Belt] 
+1x Needleverge Pathway // Pillarverge Pathway (znr)
+1x Neyith of the Dire Hunt (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Pariah (cn2) [Protection] 
+1x Pariah's Shield (rav) [Protection] 
+7x Plains (cmr) 505
+1x Primal Might (m21) [Power Punch Fighting] 
+1x Pyrohemia (cma) [Blow Up the Board] 
+1x Regal Behemoth (cn2) [Utility Belt] 
+1x Rhythm of the Wild (rna) [Protection] 
+1x Ripjaw Raptor (gn2) [Beefy Boys] 
+1x Rogue's Passage (cmr) [Beat Face] 
+1x Rolling Earthquake (2xm) [Blow Up the Board] 
+1x Rootbound Crag (xln)
+1x Scattered Groves (akh)
+1x Shadowspear (thb) [Beat Face] 
+1x Sol Ring (cc1) [Building Muscle Ramp] 
+1x Spitemare (ddh) [Beefy Boys] 
+1x Starstorm (c20) [Blow Up the Board] 
+1x Stormwild Capridor (iko) [Beefy Boys] 
+1x Stuffy Doll (m13) [Beefy Boys] 
+1x Subterranean Tremors (cn2) [Blow Up the Board] 
+1x Sungrass Prairie (c20)
+1x Swiftfoot Boots (cmr) [Protection] 
+1x Sylvan Library (cc1) [Card Draw] 
+1x Tamanoa (csp) [Utility Belt] 
+1x Teferi's Protection (sld) [Protection] 
+1x Temple Garden (grn)
+1x The Wanderer (war) [Protection] 
+1x Ulvenwald Tracker (mm3) [Power Punch Fighting] 
+1x Valakut Awakening // Valakut Stoneforge (znr)
+1x Vigor (mb1) [Beefy Boys] 
+1x Wheel of Misfortune (cmr) [Card Draw] 
+1x Whispersilk Cloak (mb1) [Beat Face] 
+1x Windswept Heath (zne)
+1x Worldly Tutor (mir) [Tutors] 

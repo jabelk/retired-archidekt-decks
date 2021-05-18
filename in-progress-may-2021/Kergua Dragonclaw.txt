@@ -1,0 +1,93 @@
+1x Acidic Slime (cmr) [Removal] 
+1x Alchemist's Refuge (avr) [Maybeboard{noDeck}{noPrice}] 
+1x Animar, Soul of Elements (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Archetype of Endurance (bng) [Protection] 
+1x Beanstalk Giant // Fertile Footsteps (plist) [Ramp] 
+1x Beast Whisperer (tsr) [Draw] 
+1x Beast Within (tsr) [Removal] 
+1x Bident of Thassa (a25) [Draw] 
+1x Bolt Bend (war) [Protection] 
+1x Breeding Pool (rna)
+1x Burnished Hart (khc) [Ramp] 
+1x Cauldron of Souls (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Chaos Warp (c20) [Removal] 
+1x Chromatic Lantern (sld) [Ramp] 
+1x Circuitous Route (znc) [Ramp] 
+1x Command Tower (khc)
+1x Commander's Sphere (khc) [Ramp] 
+1x Counterflux (c15) [Protection] 
+1x Craterhoof Behemoth (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Cultivate (cmr) [Ramp] 
+1x Domri, Anarch of Bolas (war) [Protection] 
+1x Elemental Bond (c19) [Draw] 
+1x Etali, Primal Storm (tsr) [Value Beaters] 
+1x Eternal Witness (tsr) [Recursion] 
+1x Evolving Wilds (cmr)
+1x Fact or Fiction (cmr) [Draw] 
+1x Farhaven Elf (khc) [Ramp] 
+1x Fires of Yavimaya (mb1) [Protection] 
+10x Forest (khm) 398
+1x Frilled Mystic (rna) [Protection] 
+1x Frontier Bivouac (c20)
+1x Garruk's Uprising (m21) [Draw] 
+1x Genesis Ultimatum (iko) [Finisher] 
+1x Genesis Wave (ima) [Finisher] 
+1x Ghalta, Primal Hunger (jmp) [Value Beaters] 
+1x Giant Adephage (c19) [Value Beaters] 
+1x Goreclaw, Terror of Qal Sisma (m19) [Value Beaters] 
+1x Gruul Turf (znc)
+1x Guardian Project (rna) [Draw] 
+1x Hinterland Harbor (dom)
+1x Incubation // Incongruity (rna) [Removal] 
+1x Intet, the Dreamer (c17) [Value Beaters] 
+5x Island (khm) 395
+1x Izzet Boilerworks (c20)
+1x Keruga, the Macrosage (iko) [Sideboard] 
+1x Kessig Wolf Run (c20)
+1x Ketria Crystal (iko) [Ramp] 
+1x Ketria Triome (iko)
+1x Kiora, Behemoth Beckoner (war) [Draw] 
+1x Kodama's Reach (cmr) [Ramp] 
+1x Kogla, the Titan Ape (iko) [Value Beaters] 
+1x Leyline of Anticipation (m20) [Flash] 
+1x Migration Path (iko) [Ramp] 
+1x Mosswort Bridge (c20)
+5x Mountain (khm) 397
+1x Myriad Landscape (khc)
+1x Mystic Snake (a25) [Protection] 
+1x Mythos of Illuna (iko) [Removal] 
+1x Negate (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Nezahal, Primal Tide (cmr) [Value Beaters] 
+1x Nylea, Keen-Eyed (thb) [Value Beaters] 
+1x Nyxbloom Ancient (thb) [Value Beaters] 
+1x Ogre Battledriver (ddn)
+1x Proud Wildbonder (iko) [Evasion] 
+1x Quartzwood Crasher (iko) [Evasion] 
+1x Rashmi, Eternities Crafter (c20)
+1x Reclamation Sage (tsr) [Removal] 
+1x Rhythm of the Wild (rna) [Protection] 
+1x Rootbound Crag (xln)
+1x Search for Tomorrow (tsr) [Ramp] 
+1x Shaman of the Great Hunt (frf) [Power Matters] 
+1x Simic Growth Chamber (cmr)
+1x Somberwald Sage (avr) [Ramp] 
+1x Soul of the Harvest (jmp) [Draw] 
+1x Steam Vents (grn)
+1x Stomping Ground (rna)
+1x Surrak Dragonclaw (ktk) [Commander{top}] 
+1x Teferi, Mage of Zhalfir (tsr) [Flash] 
+1x Temple of Abandon (thb)
+1x Temple of Mystery (m21)
+1x Temur Ascendancy (tsr) [Protection] 
+1x Temur Sabertooth (c17) [Protection] 
+1x Terastodon (cmr) [Removal] 
+1x Terramorphic Expanse (tsr)
+1x The Great Henge (eld) [Draw] 
+1x Thryx, the Sudden Storm (thb) [Flash] 
+1x Valakut Awakening // Valakut Stoneforge (znr) [Draw] 
+1x Vedalken Orrery (cns) [Maybeboard{noDeck}{noPrice}] 
+1x Warstorm Surge (c19) [Maybeboard{noDeck}{noPrice}] 
+1x Wilderness Reclamation (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Xenagos, God of Revels (bng) [Maybeboard{noDeck}{noPrice}] 
+1x Yeva, Nature's Herald (ddu) [Flash] 
+1x Zendikar Resurgent (plist) [Draw] 
