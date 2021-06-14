@@ -1,0 +1,108 @@
+1x Abundance (znc)
+1x Abundance (znc) [Maybeboard{noDeck}{noPrice}] 
+1x Approach of the Second Sun (mb1) [Closers] 
+1x Arcane Denial (c16) [Removal/Favors] 
+1x Arcane Lighthouse (c14)
+1x Arcane Signet (eld) [Mana] 
+1x Ash Barrens (c16)
+1x Beast Within (cn2) [Removal/Favors] 
+1x Bloodthirsty Blade (c19) [Maybeboard{noDeck}{noPrice}] 
+1x Boros Garrison (cm2)
+1x Bountiful Promenade (bbd)
+1x Brash Taunter (m21) [Pillowfort] 
+1x Canopy Vista (pss1)
+1x Chaos Warp (cmd) [Removal/Favors] 
+1x Chromatic Lantern (c16) [Mana] 
+1x Cinder Glade (bfz)
+1x Collective Restraint (inv) [Pillowfort] 
+1x Comet Storm (wwk) [Closers] 
+1x Command Tower (c17)
+1x Counterspell (cmr) [Removal/Favors] 
+1x Cultivate (a25) [Mana] 
+1x Cyclonic Rift (c14) [Removal/Favors] 
+1x Deflecting Palm (ktk) [Closers] 
+1x Dictate of Kruphix (jou) [Advantage] 
+1x Disrupt Decorum (c17) [Pillowfort] 
+1x Exotic Orchard (c16)
+1x Fellwar Stone (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Fevered Visions (soi) [Advantage] 
+1x Fiendish Duo (gn2) *F*  [Closers] 
+1x Forbidden Orchard (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Force of Will (2xm) *F*  [Maybeboard{noDeck}{noPrice}] 
+3x Forest (akh) 254
+1x Fury Storm (c18) [Closers] 
+1x Generous Gift (mh1) [Removal/Favors] 
+1x Geode Rager (znc) [Pillowfort] 
+1x Ghost Quarter (mb1)
+1x Ghostly Prison (pc2) [Pillowfort] 
+1x Gisela, Blade of Goldnight (avr) [Maybeboard{noDeck}{noPrice}] 
+1x Guided Passage (mb1) [Advantage] 
+1x Heartwood Storyteller (fut) [Advantage] 
+1x Heliod's Intervention (thb) [Removal/Favors] 
+1x Holistic Wisdom (ody) [Maybeboard{noDeck}{noPrice}] 
+1x Incite Rebellion (cm2) [Closers] 
+1x Insurrection (cmd) [Closers] 
+3x Island (akh) 251
+1x Izzet Boilerworks (c16)
+1x Jungle Shrine (c17)
+1x Kessig Wolf Run (isd)
+1x Ketria Triome (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Kodama's Reach (chk) [Mana] 
+1x Kor Haven (nem)
+1x Krosan Verge (c18)
+1x Kynaios and Tiro of Meletis (c16) *F*  [Commander{top}] 
+1x Library of Leng (5ed) [Pillowfort] 
+1x Mana Geyser (cns) [Advantage] 
+1x Manifold Insights (cm2) [Advantage] 
+1x Maze of Ith (ema) [Maybeboard{noDeck}{noPrice}] 
+1x Mirage Mirror (hou) [Pillowfort] 
+1x Mirari's Wake (c17) [Maybeboard{noDeck}{noPrice}] 
+1x Mossfire Valley (ody)
+2x Mountain (akh) 253
+1x Narset's Reversal (war) [Removal/Favors] 
+1x Nin, the Pain Artist (c17) [Advantage] 
+1x Norn's Annex (nph) [Pillowfort] 
+1x Oblation (cmd) [Removal/Favors] 
+1x Path of Ancestry (c17)
+1x Path to Exile (cmd) [Removal/Favors] 
+3x Plains (akh) 250
+1x Play of the Game (bbd) [Removal/Favors] 
+1x Polymorphist's Jest (c17) [Removal/Favors] 
+1x Prairie Stream (bfz)
+1x Propaganda (c13) [Pillowfort] 
+1x Protector of the Crown (cn2) *F*  [Pillowfort] 
+1x Psychic Possession (dis) [Advantage] 
+1x Raugrin Triome (iko)
+1x Recurring Insight (roe) [Advantage] 
+1x Reins of Power (c16) [Closers] 
+1x Reiterate (tsp) [Mana] 
+1x Reliquary Tower (c16)
+1x Reverberate (m13) [Advantage] 
+1x Rhystic Study (pcy) [Maybeboard{noDeck}{noPrice}] 
+1x Righteous Aura (mmq) [Pillowfort] 
+1x Rites of Flourishing (c16) [Advantage] 
+1x Rogue's Passage (cn2)
+1x Scavenger Grounds (hou) [Maybeboard{noDeck}{noPrice}] 
+1x Sea of Clouds (bbd)
+1x Seaside Citadel (c17)
+1x Selesnya Sanctuary (c18)
+1x Selfless Squire (c16) [Closers] 
+1x Skycloud Expanse (ody)
+1x Smothering Tithe (rna) [Mana] 
+1x Sol Ring (cmd) [Mana] 
+1x Soothsaying (mb1) [Advantage] 
+1x Sphere of Safety (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Spire Garden (bbd)
+1x Sungrass Prairie (c16)
+1x Swan Song (ths) [Maybeboard{noDeck}{noPrice}] 
+1x Swords to Plowshares (bbd) [Removal/Favors] 
+1x Sylvan Awakening (dom) [Closers] 
+1x Tamiyo, Collector of Tales (war) [Pillowfort] 
+1x Tatyova, Benthic Druid (dom) [Advantage] 
+1x Teferi's Ageless Insight (m21) [Advantage] 
+1x Temple Bell (c16) [Advantage] 
+1x Thaumatic Compass // Spires of Orazca (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Thespian's Stage (2xm)
+1x Thought Vessel (c15) [Maybeboard{noDeck}{noPrice}] 
+1x Whirlwind of Thought (iko) [Advantage] 
+1x Windborn Muse (c16) [Pillowfort] 

@@ -1,0 +1,86 @@
+1x Ambition's Cost (c21) [Draw] 
+1x Arcane Lighthouse (cm2)
+1x Arcane Signet (c20) [Ramp] 
+1x Blackblade Reforged (cmr) [voltron] 
+1x Bloodchief Ascension (zen) [Drain 'Em] 
+1x Bojuka Bog (plist)
+1x Brightclimb Pathway // Grimclimb Pathway (znr)
+1x Cabal Coffers (hop)
+1x Castle Locthwain (eld)
+1x Caves of Koilos (c20)
+1x Children of Korlis (tsr) [Lifegain] 
+1x Chrome Mox (2xm) [Ramp] 
+1x Command Tower (cc1)
+1x Cranial Plating (tsr) [voltron] 
+1x Damnation (mm3) [Removal] 
+1x Dark Ritual (mb1) [Ramp] 
+1x Dawn Charm (cmr) [Protection] 
+1x Debt to the Deathless (dgm) [Drain 'Em] 
+1x Defile (mh1) [Removal] 
+1x Demonic Tutor (mb1) [Tutor] 
+1x Doomskar (khm) [Removal] 
+1x Drannith Magistrate (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Duelist's Heritage (c21) [voltron] 
+1x Enlightened Tutor (plist) [Tutor] 
+1x Expedition Map (2xm) [Tutor] 
+1x Exsanguinate (mb1) [Drain 'Em] 
+1x Fabled Passage (m21)
+1x Font of Agonies (rna) [Removal] 
+1x Fracture (stx) [Removal] 
+1x Godless Shrine (rna)
+1x Grim Monolith (ulg) [Ramp] 
+1x Hatred (exo) [voltron] 
+1x Heliod's Intervention (thb) [Removal] 
+1x Heliod, Sun-Crowned (thb) [Lifegain] 
+1x Homeward Path (c16)
+1x Howl from Beyond (4ed) [voltron] 
+1x Imperial Seal (ptk) [Tutor] 
+1x Isolated Chapel (dom)
+1x Kambal, Consul of Allocation (kld) [Drain 'Em] 
+1x Kozilek, Butcher of Truth (uma) [Protection] 
+1x Liesa, Shroud of Dusk (cmr) [Commander{top}] 
+1x Lightning Greaves (2xm) [voltron] 
+1x Mana Crypt (2xm) [Ramp] 
+1x Mana Vault (4ed) [Ramp] 
+1x Manifold Key (tsr) [voltron] 
+1x Maze of Ith (2xm)
+1x Mistveil Plains (uma)
+1x Mox Diamond (sth) [Ramp] 
+1x Necrologia (7ed) [Draw] 
+1x Necropotence (ima) [Draw] 
+1x Night's Whisper (mb1) [Draw] 
+1x Nighthawk Scavenger (znr) [Lifegain] 
+1x No Mercy (ulg) [Protection] 
+1x Path to Exile (tsr) [Removal] 
+7x Plains (cmr) 505
+1x Read the Bones (mb1) [Draw] 
+1x Rogue's Passage (cmr)
+1x Shadowspear (thb) [voltron] 
+1x Shizo, Death's Storehouse (chk)
+1x Sign in Blood (sta) [Draw] 
+1x Silence (m14) [Protection] 
+1x Sol Ring (c20) [Ramp] 
+1x Sorcerous Spyglass (tsr) [Protection] 
+1x Soul-Guide Lantern (thb) [Draw] 
+1x Stern Judge (tor) [Drain 'Em] 
+1x Stinging Study (c21) [Draw] 
+1x Sudden Spoiling (tsr) [Removal] 
+10x Swamp (znr) 272
+1x Swiftfoot Boots (khc) [voltron] 
+1x Tainted Remedy (ori) [Drain 'Em] 
+1x Tectonic Edge (mb1)
+1x Teferi's Protection (mb1) [Protection] 
+1x Thespian's Stage (2xm)
+1x Thought Vessel (cmr) [Ramp] 
+1x Thran Dynamo (mb1) [Ramp] 
+1x Tome of Legends (eld) [Draw] 
+1x Urborg, Tomb of Yawgmoth (uma)
+1x Vampiric Tutor (ema) [Tutor] 
+1x Vesuva (tsr)
+1x Wall of Reverence (uma) [Lifegain] 
+1x Wandering Archaic // Explore the Vastlands (stx) [Protection] 
+1x Weathered Runestone (khm) [Protection] 
+1x Weathered Wayfarer (mb1) [Tutor] 
+1x Well of Lost Dreams (c21) [Draw] 
+1x Whispersilk Cloak (mb1) [voltron] 
+1x Wound Reflection (2xm) [Drain 'Em] 
