@@ -1,0 +1,101 @@
+1x Abundant Harvest (sta) [Draw] 
+1x Arcane Lighthouse (cm2)
+1x Arcane Signet (c21) [Ramp] 
+1x Archaeomancer's Map (c21) [Ramp] 
+1x Ashiok, Dream Render (sld) *F*  [Removal] 
+1x Assassin's Trophy (grn) [Removal] 
+1x Beast Within (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Birds of Paradise (sld) [Ramp] 
+1x Bloom Tender (mb1) [Ramp] 
+1x Canopy Vista (c20)
+1x Cascading Cataracts (akh)
+1x Chromatic Lantern (grn) [Ramp] 
+1x Command Tower (c21)
+1x Counterspell (sta) [Removal] 
+1x Crop Rotation (2xm) [Tutors] 
+1x Crumbling Necropolis (mb1)
+1x Cyclonic Rift (2xm) [Removal] 
+1x Dark Confidant (2xm) [Draw] 
+1x Demonic Tutor (mb1) [Tutors] 
+1x Dockside Extortionist (c19) [Good Stuff] 
+1x Doomskar (khm) [Removal] 
+1x Dovin's Veto (war) [Removal] 
+1x Dryad of the Ilysian Grove (thb) [Ramp] 
+1x Entomb (uma) [Tutors] 
+1x Exotic Orchard (c21)
+1x Fabled Passage (m21)
+1x Fact or Fiction (cmr) [Draw] 
+1x Faeburrow Elder (eld) [Ramp] 
+1x Faithless Looting (sta) [Draw] 
+1x Farseek (tsr) [Ramp] 
+1x Fellwar Stone (plist) [Ramp] 
+1x Fertile Ground (mb1) [Ramp] 
+1x Forbidden Orchard (c16)
+2x Forest (afr) 281
+1x Frontier Bivouac (c20)
+1x Ghostly Prison (c21) [Protection] 
+1x Godless Shrine (sld)
+1x Golos, Tireless Pilgrim (m20) [Good Stuff] 
+1x Heartstone (sth) [Maybeboard{noDeck}{noPrice}] 
+1x Homeward Path (c16)
+1x Hullbreacher (cmr) [Good Stuff] 
+1x Hunting Grounds (jud) [Recursion] 
+1x Indatha Triome (iko)
+2x Island (afr) 269
+1x It That Betrays (ddp) [Good Stuff] 
+1x Kenrith, the Returned King (eld) [Commander{top}] 
+1x Ketria Triome (iko)
+1x Krosan Grip (c21) [Removal] 
+1x Krosan Verge (znc)
+1x Lavinia, Azorius Renegade (rna) [Good Stuff] 
+1x Life from the Loam (sld) [Draw] 
+1x Lightning Greaves (2xm) [Protection] 
+1x Lim-Dûl's Vault (c13) [Tutors] 
+1x Mana Crypt (2xm) [Ramp] 
+1x Merciless Eviction (2xm) [Removal] 
+1x Mountain (afr) 277
+1x Narset, Parter of Veils (war) [Maybeboard{noDeck}{noPrice}] 
+1x Nature's Lore (mb1) [Ramp] 
+1x Notion Thief (znc) [Good Stuff] 
+1x Oko, Thief of Crowns (eld) [Removal] 
+1x Opposition Agent (cmr) [Good Stuff] 
+1x Opulent Palace (c20)
+1x Overgrown Tomb (sld)
+1x Path of Ancestry (khc)
+2x Plains (afr) 265
+1x Read the Bones (tsr) [Draw] 
+1x Reanimate (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Reconstruct History (stx) [Recursion] 
+1x Rhystic Study (jmp) [Draw] 
+1x Rings of Brighthearth (cmr) [Ken Synergy] 
+1x Rogue's Passage (c21)
+1x Sakura-Tribe Elder (c20) [Ramp] 
+1x Sandsteppe Citadel (c20)
+1x Savage Lands (c18)
+1x Seedborn Muse (cc1) [Maybeboard{noDeck}{noPrice}] 
+1x Serum Visions (c21) [Draw] 
+1x Sevinne's Reclamation (c19) [Recursion] 
+1x Smothering Tithe (rna) [Good Stuff] 
+1x Sol Ring (c21) [Ramp] 
+1x Spore Frog (mh1) [Protection] 
+1x Sudden Spoiling (tsr) [Removal] 
+2x Swamp (afr) 273
+1x Teferi, Time Raveler (war) [Protection] 
+1x Telepathy (m10) [Protection] 
+1x Temple Garden (sld)
+1x Tergrid, God of Fright // Tergrid's Lantern (khm) [Good Stuff] 
+1x The World Tree (khm)
+1x Thrasios, Triton Hero (cmr) *F*  [Draw] 
+1x Tolaria West (tsr)
+1x Torment of Hailfire (mb1) [Removal] 
+1x Torpor Orb (nph) [Protection] 
+1x Training Grounds (plist) [Ken Synergy] 
+1x Urborg, Tomb of Yawgmoth (tsr)
+1x Valakut Awakening // Valakut Stoneforge (znr) [Draw] 
+1x Vesuva (tsr)
+1x Vorinclex, Voice of Hunger (ima) [Good Stuff] 
+1x Wandering Archaic // Explore the Vastlands (stx) [Protection] 
+1x Watery Grave (sld)
+1x Windfall (khc) [Draw] 
+1x Zagoth Triome (iko)
+1x Zur the Enchanter (cmr) *F*  [Good Stuff] 
