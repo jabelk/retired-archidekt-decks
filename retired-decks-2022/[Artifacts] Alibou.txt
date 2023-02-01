@@ -1,0 +1,107 @@
+1x Alibou, Ancient Witness (c21) *F*  [Commander{top}] 
+1x Ancient Den (c21)
+1x Ancient Tomb (zne)
+1x Arcane Signet (eld) [Ramp] 
+1x Aurelia, the Warleader (gk1) *F*  [Extra Combats] 
+1x Battlefield Forge (c21)
+1x Blasphemous Act (c21) [Interaction] 
+1x Boros Signet (cmr) [Ramp] 
+1x Bosh, Iron Golem (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Bronze Guardian (c21) [Protection] 
+1x Buried Ruin (2xm)
+1x Combustible Gearhulk (c21) [Card Advantage] 
+1x Command Tower (c21)
+1x Commander's Sphere (c21) [Ramp] 
+1x Curse of Hospitality (vow) [Card Advantage] 
+1x Daretti, Scrap Savant (c16) [Recursion] 
+1x Darksteel Citadel (c21)
+1x Darksteel Forge (2xm) [Protection] 
+1x Defense Grid (9ed) [Protection] 
+1x Digsite Engineer (c21) [Main Plan] 
+1x Dolmen Gate (mb1) [Protection] 
+1x Dowsing Dagger // Lost Vale (xln) [Ramp] 
+1x Esper Sentinel (mh2) [Card Advantage] 
+1x Fabled Passage (m21)
+1x Forsaken Monument (pznr) [Ramp] 
+1x Gadrak, the Crown-Scourge (m21) [Ramp] 
+1x Ghirapur Aether Grid (ori) [Main Plan] 
+1x Goblin Welder (cm2) [Recursion] 
+1x Great Furnace (c21)
+1x Hall of the Bandit Lord (chk)
+1x Hangarback Walker (ori) [Main Plan] 
+1x Inventors' Fair (plist)
+1x Investigator's Journal (vow) [Card Advantage] 
+1x Jeska's Will (cmr) [Card Advantage] 
+1x Karn, Scion of Urza (dom) [Card Advantage] 
+1x Khorvath's Fury (bbd) [Card Advantage] 
+1x Kor Haven (nem)
+1x Krark-Clan Ironworks (5dn) [Ramp] 
+1x Krark-Clan Ironworks (5dn) [Maybeboard{noDeck}{noPrice}] 
+1x Kyren Negotiations (mmq) [Maybeboard{noDeck}{noPrice}] 
+1x Liquimetal Torque (mh2) [Ramp] 
+1x Lithoform Engine (znr) [Utility] 
+1x Loyal Apprentice (afc) [Maybeboard{noDeck}{noPrice}] 
+1x Manifold Key (tsr) [Utility] 
+1x Mazemind Tome (m21) [Card Advantage] 
+1x Memory Jar (ulg) [Card Advantage] 
+1x Metalwork Colossus (kld) [Main Plan] 
+1x Meteor Golem (c21) [Interaction] 
+1x Millikin (mb1) [Ramp] 
+1x Mind Stone (c21) [Ramp] 
+1x Mind's Eye (bbd) [Maybeboard{noDeck}{noPrice}] 
+1x Mirrorworks (c18) [Main Plan] 
+1x Mishra's Factory (2xm)
+1x Moonsilver Key (mid) [Utility] 
+1x Moraug, Fury of Akoum (znr) [Extra Combats] 
+6x Mountain (stx) 372
+1x Mox Opal (mm2) [Ramp] 
+1x Mycosynth Golem (5dn) [Ramp] 
+1x Mycosynth Lattice (bbd) [Protection] 
+1x Myr Battlesphere (c21) [Main Plan] 
+1x Myr Incubator (mrd) [Main Plan] 
+1x Mystic Forge (m20) [Card Advantage] 
+1x Needleverge Pathway // Pillarverge Pathway (znr)
+1x Nettlecyst (mh2) [Main Plan] 
+1x Ornithopter of Paradise (mh2) [Ramp] 
+1x Palladium Myr (m21) [Ramp] 
+6x Plains (stx) 366
+1x Prismatic Lens (tsr) [Ramp] 
+1x Rebbec, Architect of Ascension (cmr) [Protection] 
+1x Reconnaissance (exo) [Utility] 
+1x Reforge the Soul (avr) [Card Advantage] 
+1x Rogue's Passage (c21)
+1x Rustvale Bridge (mh2)
+1x Sacred Foundry (grn)
+1x Saheeli's Directive (c18) [Main Plan] 
+1x Sanctum of Ugin (bfz)
+1x Scavenger Grounds (c21)
+1x Scorched Ruins (wth)
+1x Scroll Rack (cmr) [Card Advantage] 
+1x Sculpting Steel (c21) [Utility] 
+1x Seize the Day (ody) [Extra Combats] 
+1x Seize the Spoils (khm) [Card Advantage] 
+1x Shadowspear (thb) [Utility] 
+1x Shimmer Myr (cmr) [Utility] 
+1x Shrine of the Forsaken Gods (c19)
+1x Slayers' Stronghold (c21)
+1x Slobad, Goblin Tinkerer (c16) [Protection] 
+1x Sol Ring (c21) [Ramp] 
+1x Solemn Simulacrum (c21) [Ramp] 
+1x Spectator Seating (cmr)
+1x Spire of Industry (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Strike It Rich (mh2) [Ramp] 
+1x Talisman of Conviction (mh1) [Ramp] 
+1x Teferi's Protection (c17) [Protection] 
+1x Thran Dynamo (c19) [Ramp] 
+1x Traxos, Scourge of Kroog (dom) [Main Plan] 
+1x Ugin, the Ineffable (war) [Ramp] 
+1x Ugin, the Spirit Dragon (m21) [Interaction] 
+1x Unexpected Windfall (afr) [Card Advantage] 
+1x Vandalblast (afc) [Interaction] 
+1x Vanquish the Horde (mid) [Interaction] 
+1x Wake the Past (c21) [Recursion] 
+1x War Room (cmr)
+1x Wayfarer's Bauble (plist) [Ramp] 
+1x Witch's Clinic (c21)
+1x Worn Powerstone (plist) [Ramp] 
+1x Wurmcoil Engine (2xm) [Main Plan] 

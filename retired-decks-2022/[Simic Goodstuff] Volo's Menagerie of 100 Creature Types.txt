@@ -1,0 +1,69 @@
+1x Aetherspouts (c21) [Removal] 
+1x Alchemist's Refuge (avr)
+1x Barkchannel Pathway // Tidechannel Pathway (khm)
+1x Beast Within (bbd) [Removal] 
+1x Blessed Respite (mh2) [Utility] 
+1x Blue Sun's Zenith (c15) [Maybeboard{noDeck}{noPrice}] 
+1x Breeding Pool (rna)
+1x Careful Consideration (tsr) [Draw] 
+1x Command Tower (c21)
+1x Commit // Memory (pakh) [Removal] 
+1x Commit // Memory (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Crop Rotation (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Cultivate (sta) [Ramp] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Echo of Eons (mh1) [Maybeboard{noDeck}{noPrice}] 
+1x Evolutionary Leap (tsr) [Draw] 
+1x Exotic Orchard (c21)
+1x Eye of Vecna (afr) [Draw] 
+1x Fabled Passage (m21)
+1x Farseek (c19) [Ramp] 
+1x Flooded Grove (2xm)
+11x Forest (znr) 280
+1x Frantic Search (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Gaea's Cradle (usg) [Maybeboard{noDeck}{noPrice}] 
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) [Ramp] 
+1x Growth Spiral (sta) [Draw] 
+1x Heroic Intervention (m21) [Utility] 
+1x Hinterland Harbor (dom)
+1x Impulse (vis) [Draw] 
+11x Island (znr) 270
+1x Kodama's Reach (c21) [Ramp] 
+1x Lightning Greaves (2xm) [Utility] 
+1x Manascape Refractor (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Misty Rainforest (slu)
+1x Moonsilver Key (mid) [Ramp] 
+1x Mystic Remora (ice) [Draw] 
+1x Nature's Lore (mb1) [Ramp] 
+1x Negate (sta) [Removal] 
+1x Paradoxical Outcome (tsr) [Draw] 
+1x Perplexing Test (c21) [Removal] 
+20x Persistent Petitioners (rna) [Placeholder Creatures] 
+1x Polymorphist's Jest (c17) [Removal] 
+1x Pongify (c14) [Removal] 
+1x Psychic Possession (dis) [Draw] 
+1x Rain of Revelation (m21) [Draw] 
+1x Rampant Growth (10e) [Ramp] 
+1x Recurring Insight (roe) [Draw] 
+1x Rhystic Study (mb1) [Draw] 
+1x Rogue's Passage (c21)
+1x Scavenger Grounds (c21)
+1x Sea Gate Restoration // Sea Gate, Reborn (znr) [Land] 
+1x Search for Tomorrow (mma) [Ramp] 
+1x Shadowspear (thb) [Utility] 
+1x Sol Ring (c19) [Ramp] 
+1x Strixhaven Stadium (stx) [Finisher] 
+1x Swan Song (c16) [Removal] 
+1x Sylvan Library (4ed) [Draw] 
+1x Sylvan Scrying (mrd) [Maybeboard{noDeck}{noPrice}] 
+1x Teferi's Ageless Insight (m21) [Utility] 
+1x The Great Henge (eld) *F*  [Ramp] 
+1x Three Visits (cmr) [Ramp] 
+1x Triumph of the Hordes (mb1) [Finisher] 
+1x Vivien, Champion of the Wilds (war) [Utility] 
+1x Volo, Guide to Monsters (afr) [Commander{top}] 
+1x Whirlwind Denial (sta) [Removal] 
+1x Wild Growth (c18) [Ramp] 
+1x Wilderness Reclamation (c20) [Utility] 
+1x Yavimaya Coast (c21)
+1x Yavimaya, Cradle of Growth (mh2)

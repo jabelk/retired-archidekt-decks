@@ -1,0 +1,83 @@
+1x Aminatou's Augury (mb1) [Cheating Targets] 
+1x Ancient Tomb (uma)
+1x Arcane Signet (afc) [Ramp] 
+1x Archmage Emeritus (stx) [Draw] 
+1x Beacon of Tomorrows (5dn) [Extra Triggers] 
+1x Behold the Multiverse (khm) [Draw] 
+1x Blatant Thievery (e02) [Cheating Targets] 
+1x Brainstorm (sld) [Top Deck] 
+1x Castle Vantress (eld)
+1x Cloud Key (tsr) [Ramp] 
+1x Coalition Relic (tsr) [Ramp] 
+1x Command Beacon (cmr)
+1x Commit // Memory (mb1) [Removal] 
+1x Consuming Tide (pvow) [Removal] 
+1x Curator's Ward (dom) [Protect] 
+1x Curator's Ward (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Emergence Zone (war)
+1x Evacuation (7ed) [Removal] 
+1x Fellwar Stone (9ed) [Ramp] 
+1x Force of Negation (mh1) [Protect] 
+1x Force of Will (2xm) [Protect] 
+1x Guildless Commons (cmr)
+1x Halimar Depths (c20)
+1x Hall of Storm Giants (afr)
+1x Honored Heirloom (vow) [Ramp] 
+1x Hullbreaker Horror (vow) [Cheating Targets] 
+1x Imprisoned in the Moon (voc) [Removal] 
+20x Island (cmr) 506
+1x Isolated Watchtower (c18)
+1x Jace, the Mind Sculptor (2xm) *F*  [Draw] 
+1x Jacob Hauken, Inspector // Hauken's Insight (vow) [Commander{top}] 
+1x Jin-Gitaxias, Core Augur (sld) [Cheating Targets] 
+1x Jin-Gitaxias, Progress Tyrant (pneo) [Cheating Targets] 
+1x Long-Term Plans (scg) [Tutors] 
+1x Malevolent Hermit // Benevolent Geist (mid) [Protect] 
+1x Mana Vault (5ed) [Ramp] 
+1x Midnight Clock (plist) [Ramp] 
+1x Mnemonic Deluge (cmr) [Cheating Targets] 
+1x Muddle the Mixture (rav) [Protect] 
+1x Mystic Confluence (tsr) [Removal] 
+1x Mystic Forge (m20) [Top Deck] 
+1x Mystic Sanctuary (eld)
+1x Mystical Tutor (6ed) [Tutors] 
+1x Narset's Reversal (war) [Protect] 
+1x Nexus of Fate (m19) *F*  [Extra Triggers] 
+1x Omniscience (m19) [Cheating Targets] 
+1x Otawara, Soaring City (neo)
+1x Otherworldly Gaze (mid) [Top Deck] 
+1x Overflowing Insight (xln) [Cheating Targets] 
+1x Paradox Haze (tsp) [Extra Triggers] 
+1x Ponder (tsr) [Draw] 
+1x Pongify (tsr) [Removal] 
+1x Portent (5ed) [Draw] 
+1x Reality Shift (plist) [Removal] 
+1x Reliquary Tower (cmr)
+1x Rhystic Study (jmp) [Draw] 
+1x Roadside Reliquary (neo)
+1x Savor the Moment (shm) [Extra Triggers] 
+1x Sea Gate Restoration // Sea Gate, Reborn (znr) [Land] 
+1x Sensei's Divining Top (chk) [Top Deck] 
+1x Serum Visions (sld) *F*  [Draw] 
+1x Shark Typhoon (iko) [Cheating Targets] 
+1x Shrine of the Forsaken Gods (bfz)
+1x Sol Ring (afc) [Ramp] 
+1x Solve the Equation (stx) [Tutors] 
+1x Spectral Deluge (khc) [Removal] 
+1x Spellskite (sld) [Protect] 
+1x Teferi's Ageless Insight (m21) [Draw] 
+1x Telling Time (mm2) [Draw] 
+1x The Reality Chip (neo) [Top Deck] 
+1x Thought Vessel (cmr) [Ramp] 
+1x Thran Dynamo (mb1) [Ramp] 
+1x Time Stretch (ody) [Extra Triggers] 
+1x Time Warp (m10) [Extra Triggers] 
+1x Trinket Mage (mb1) [Tutors] 
+1x Ulamog, the Ceaseless Hunger (bfz) [Maybeboard{noDeck}{noPrice}] 
+1x War Room (cmr)
+1x Wash Away (vow) [Protect] 
+1x Wayfarer's Bauble (afc) [Ramp] 
+1x Whelming Wave (cmr) [Removal] 
+1x Worn Powerstone (plist) [Ramp] 
+1x Wrong Turn (cmr) [Removal] 

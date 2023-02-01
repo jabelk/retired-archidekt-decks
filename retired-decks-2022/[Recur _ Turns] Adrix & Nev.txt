@@ -1,0 +1,123 @@
+1x Academy Manufactor (mh2) [Maybeboard{noDeck}{noPrice}] 
+1x Adrix and Nev, Twincasters (c21) [Commander{top}] 
+1x An Offer You Can't Refuse (snc) [Removal]  ^Don't Have,#f47373^
+1x Arcane Denial (voc) [Removal]  ^Don't Have,#f47373^
+1x Archaeomancer (sld) [Protect / Recur]  ^Have,#37d67a^
+1x Archmage Emeritus (stx) [Draw]  ^Have,#37d67a^
+1x Astral Dragon (clb) [Maybeboard{noDeck}{noPrice}] 
+1x Avenger of Zendikar (ncc) [Maybeboard{noDeck}{noPrice}] 
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Land] 
+1x Bane of Progress (cma) [Removal]  ^Have,#37d67a^
+1x Beast Whisperer (khc) [Draw]  ^Have,#37d67a^
+1x Beast Within (clb) [Removal] 
+1x Biovisionary (gtc) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Bootleggers' Stash (snc) [Synergy] 
+1x Boseiju, Who Endures (neo)
+1x Bramble Sovereign (clb) [Synergy]  ^Don't Have,#f47373^
+1x Breeding Pool (rna)
+1x Cackling Counterpart (mm3) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Chord of Calling (2xm) [tutor] 
+1x Combine Chrysalis (mh2) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Command Tower (clb)
+1x Croaking Counterpart (mid) [Copy My Stuff] 
+1x Crop Rotation (2xm) [tutor] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Dreamroot Cascade (vow)
+1x Druid's Deliverance (c19) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Elvish Mystic (khc) [Ramp]  ^Have,#37d67a^
+1x Endless Evil (clb) [Copy My Stuff] 
+1x Eternal Witness (2x2) [Protect / Recur] 
+1x Evacuation (c16) [Removal] 
+1x Exotic Orchard (clb)
+1x Expropriate (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Extravagant Replication (ncc) [Maybeboard{noDeck}{noPrice}] 
+1x Fabled Passage (m21)
+1x Fabricate (m10) [Maybeboard{noDeck}{noPrice}] 
+1x Farseek (ncc) [Maybeboard{noDeck}{noPrice}] 
+1x Fated Infatuation (bng) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Field of the Dead (m20)
+1x Fierce Empath (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Finale of Devastation (war) [tutor] 
+11x Forest (dmu) 276
+1x Freyalise, Llanowar's Fury (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Fyndhorn Elves (cmr) [Ramp] 
+1x Glen Elendra Archmage (uma) [Removal] 
+1x Greenwarden of Murasa (ncc) [Maybeboard{noDeck}{noPrice}] 
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) [Ramp] 
+1x Guardian Project (rna) [Maybeboard{noDeck}{noPrice}] 
+1x Helm of the Host (dom) [Maybeboard{noDeck}{noPrice}] 
+1x Hinterland Harbor (dom)
+1x Intuition (tmp) [tutor] 
+1x Irenicus's Vile Duplication (clb) [Copy My Stuff] 
+10x Island (dmu) 265
+1x Jaheira, Friend of the Forest (clb) [Ramp] 
+1x Junk Winder (mh2) [Removal] 
+1x Koma, Cosmos Serpent (khm) [Finish the Game] 
+1x Llanowar Elves (mb1) [Ramp] 
+1x Lonis, Cryptozoologist (mh2) [Draw] 
+1x Mirror Box (neo) [Maybeboard{noDeck}{noPrice}] 
+1x Mirrorhall Mimic // Ghastly Mimicry (vow) [Copy My Stuff] 
+1x Misty Rainforest (mh2)
+1x Mulldrifter (2x2) [Draw] 
+1x Mystic Sanctuary (eld)
+1x Mystical Tutor (plist) [tutor] 
+1x Narset's Reversal (war) [Removal] 
+1x Nature's Claim (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Nature's Lore (clb) [Ramp] 
+1x Ohran Frostfang (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Oko, Thief of Crowns (eld) [Removal] 
+1x Orvar, the All-Form (khm) [Maybeboard{noDeck}{noPrice}] 
+1x Otawara, Soaring City (neo)
+1x Overcharged Amalgam (clb) [Maybeboard{noDeck}{noPrice}] 
+1x Panharmonicon (2x2) [Maybeboard{noDeck}{noPrice}] 
+1x Parallel Lives (isd) [Synergy] 
+1x Perplexing Test (c21) [Removal] 
+1x Primal Vigor (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Prismatic Vista (mh1)
+1x Prosperous Innkeeper (afr) [Ramp] 
+1x Quasiduplicate (grn) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Reliquary Tower (clb)
+1x Replication Technique (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Rhystic Study (jmp) [Draw] 
+1x Rite of Replication (c21) [Copy My Stuff] 
+1x Sakashima of a Thousand Faces (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Sakura-Tribe Elder (clb) [Ramp] 
+1x Scute Swarm (ncc) [Synergy] 
+1x Second Harvest (c19) [Synergy] 
+1x Seedborn Muse (c19) [Synergy] 
+1x Shamanic Revelation (ncc) [Draw] 
+1x Shared Summons (m20) [Maybeboard{noDeck}{noPrice}] 
+1x Skullwinder (clb) [Maybeboard{noDeck}{noPrice}] 
+1x Sol Ring (c21) [Ramp] 
+1x Solve the Equation (stx) [tutor] 
+1x Soul of the Harvest (jmp) [Maybeboard{noDeck}{noPrice}] 
+1x Spell Swindle (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Spellseeker (bbd) [Maybeboard{noDeck}{noPrice}] 
+1x Survival of the Fittest (exo) [tutor] 
+1x Swan Song (c16) [Maybeboard{noDeck}{noPrice}] 
+1x Sylvan Library (ema) [Draw] 
+1x Sylvan Scrying (mb1) [tutor] 
+1x Tamiyo, Collector of Tales (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Tamiyo, Compleated Sage (neo) [Maybeboard{noDeck}{noPrice}] 
+1x Temporal Manipulation (plist) [Finish the Game] 
+1x Tempt with Reflections (c13) [Maybeboard{noDeck}{noPrice}] 
+1x Thassa, Deep-Dwelling (thb) [Synergy] 
+1x Three Visits (clb) [Ramp] 
+1x Time Stretch (10e) [Finish the Game] 
+1x Time Warp (m10) [Finish the Game] 
+1x Timeless Witness (mh2) [Protect / Recur] 
+1x Timestream Navigator (rix) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Tireless Provisioner (mh2) [Ramp] 
+1x Tireless Tracker (plist) [Draw] 
+1x Toski, Bearer of Secrets (khm) [Draw] 
+1x Trail of Evidence (mb1) [Synergy] 
+1x Triumph of the Hordes (mb1) [Maybeboard{noDeck}{noPrice}] 
+1x Vivien, Monsters' Advocate (iko) [Maybeboard{noDeck}{noPrice}] 
+1x Wild Growth (afc) [Ramp] 
+1x Wilderness Reclamation (c20) [Maybeboard{noDeck}{noPrice}] 
+1x Windfall (khc) [Draw] 
+1x Winged Portent (vow) [Maybeboard{noDeck}{noPrice}] 
+1x Wood Elves (ncc) [Maybeboard{noDeck}{noPrice}] 
+1x Worldly Tutor (6ed) [tutor] 
+1x Yavimaya Coast (dmu)
+1x Yavimaya, Cradle of Growth (mh2)

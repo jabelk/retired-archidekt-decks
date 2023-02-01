@@ -1,0 +1,96 @@
+1x Academy Ruins (2xm) [Maybeboard{noDeck}{noPrice}] 
+1x Access Denied (nec) [Removal] 
+1x Aether Spellbomb (jmp) [Removal] 
+1x All Is Dust (uma) [Removal] 
+1x Arcane Denial (cmr) [Removal] 
+1x Arcane Signet (phed) [Ramp] 
+1x Ashnod's Altar (mb1) [Thopter Synergy] 
+1x Bident of Thassa (a25) [Draw] 
+1x Buried Ruin (2xm)
+1x Castle Vantress (eld)
+1x Chief Engineer (pm15) *F*  [Ramp] 
+1x Clock of Omens (m13) [Maybeboard{noDeck}{noPrice}] 
+1x Coat of Arms (mb1) [Thopter Synergy] 
+1x Crashing Drawbridge (eld) [Thopter Synergy] 
+1x Curiosity Crafter (c21) [Draw] 
+1x Cyclonic Rift (2xm) [Removal] 
+1x Darksteel Citadel (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Emry, Lurker of the Loch (nec) [Recasting] 
+1x Etherium Sculptor (nec) [Ramp] 
+1x Everflowing Chalice (2xm) [Ramp] 
+1x Fabricate (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Fellwar Stone (4ed) [Ramp] 
+1x Forsaken Monument (znr) [Thopter Synergy] 
+1x Foundry Inspector (nec) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Fractured Powerstone (plist) [Ramp] 
+1x Inventors' Fair (phed)
+20x Island (neo) 286
+1x Jhoira's Familiar (2xm) [Ramp] 
+1x Junk Winder (mh2) [Removal] 
+1x Jwari Disruption // Jwari Ruins (znr) [Land] 
+1x Kappa Cannoneer (nec) [Thopter Synergy] 
+1x Karn, Scion of Urza (dom) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Krark-Clan Ironworks (5dn) [Thopter Synergy] 
+1x Lightning Greaves (afc) [Utility] 
+1x Liquimetal Torque (mh2) [Ramp] 
+1x Long-Term Plans (scg) [Maybeboard{noDeck}{noPrice}] 
+1x Master of Etherium (nec) [Maybeboard{noDeck}{noPrice}] 
+1x Mechtitan Core (neo) [Thopter Synergy] 
+1x Metallic Mimic (sld) [Thopter Synergy] 
+1x Mirrodin Besieged (mh1) [Thopter Synergy] 
+1x Moonsilver Key (mid) [Tutor] 
+1x Mycosynth Golem (5dn) [Thopter Synergy] 
+1x Mystic Forge (m20) [Recasting] 
+1x Mystic Remora (ice) [Draw] 
+1x Mystic Sanctuary (eld)
+1x Negate (znr) [Removal] 
+1x Nettlecyst (mh2) [Thopter Synergy] 
+1x Ornithopter of Paradise (mh2) [Ramp] 
+1x Otawara, Soaring City (neo)
+1x Padeem, Consul of Innovation (kld) [Draw] 
+1x Paradoxical Outcome (tsr) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Perplexing Test (c21) [Removal] 
+1x Phyrexian Altar (uma) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Phyrexian Metamorph (2xm) [Utility] 
+1x Pongify (tsr) [Removal] 
+1x Reality Heist (neo) [Draw] 
+1x Reality Shift (nec) [Removal] 
+1x Reliquary Tower (phed)
+1x Research Thief (nec) [Draw] 
+1x Rhystic Study (jmp) [Draw] 
+1x Roadside Reliquary (neo)
+1x Sai, Master Thopterist (nec) [Commander{top}] 
+1x Sakashima's Will (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Scrap Trawler (c21) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Seat of the Synod (c18)
+1x Sensei's Divining Top (chk) [Recasting] 
+1x Sharding Sphinx (jmp) [Thopter Synergy] 
+1x Shimmer Dragon (eld) [Draw] 
+1x Shimmer Myr (nec) [Utility] 
+1x Skullclamp (plist) [Draw] 
+1x Sol Ring (phed) [Ramp] 
+1x Solemn Simulacrum (nec) [Ramp] 
+1x Soul-Guide Lantern (thb) [Utility] 
+1x Steel Overseer (c21) [Thopter Synergy] 
+1x Stoic Rebuttal (mm2) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Strixhaven Stadium (stx) [Ramp] 
+1x Sword of Hearth and Home (mh2) [Ramp] 
+1x Tectonic Edge (mb1)
+1x Tezzeret, Artifice Master (plist) [Thopter Synergy] 
+1x Tezzeret, Betrayer of Flesh (neo) [Draw] 
+1x The Antiquities War (dom) [Maybeboard{noDeck}{noPrice}]  ^Don't Have,#f47373^
+1x Thought Monitor (mh2) [Draw] 
+1x Thought Vessel (cmr) [Ramp] 
+1x Thoughtcast (nec) [Draw] 
+1x Thran Dynamo (mb1) [Ramp] 
+1x Throne of the High City (cn2)
+1x Tolaria West (tsr)
+1x Tomb of the Spirit Dragon (ktk)
+1x Trading Post (mb1) [Thopter Synergy] 
+1x Treasure Vault (afr) [Maybeboard{noDeck}{noPrice}]  ^Getting,#2ccce4^
+1x Urza's Saga (mh2)
+1x Urza, Lord High Artificer (h1r) *F*  [Thopter Synergy] 
+1x Vedalken Humiliator (c18) [Thopter Synergy] 
+1x War Room (cmr)
+1x Wash Away (vow) [Removal] 
+1x Whir of Invention (sld) [Tutor] 

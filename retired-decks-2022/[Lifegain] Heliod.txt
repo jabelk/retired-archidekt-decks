@@ -1,0 +1,103 @@
+1x Abiding Grace (mh2) [Recursion] 
+1x Aetherflux Reservoir (mb1) [Finishers] 
+1x Ajani, Adversary of Tyrants (m19) [Maybeboard{noDeck}{noPrice}] 
+1x Akroma's Will (cmr) [Protection] 
+1x Ancient Tomb (uma)
+1x Arcane Lighthouse (cm2)
+1x Arcane Signet (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Archaeomancer's Map (c21) [Ramp] 
+1x Archangel of Thune (2xm) [Finishers] 
+1x Auriok Champion (ima) [Lifegain triggers] 
+1x Austere Command (cmr) [Removal] 
+1x Authority of the Consuls (kld) [Lifegain triggers] 
+1x Benevolent Offering (voc)
+1x Bereaved Survivor // Dauntless Avenger (mid) [Maybeboard{noDeck}{noPrice}] 
+1x Bond of Discipline (war) [Finishers] 
+1x Buried Ruin (2xm)
+1x Cavalier of Dawn (m20) [Maybeboard{noDeck}{noPrice}] 
+1x Cleric Class (afr) [Recursion] 
+1x Cosmic Intervention (khc) [Maybeboard{noDeck}{noPrice}] 
+1x Daxos, Blessed by the Sun (plist) [Lifegain triggers] 
+1x Dowsing Dagger // Lost Vale (xln) [Ramp] 
+1x Eerie Interlude (khc) [Maybeboard{noDeck}{noPrice}] 
+1x Elesh Norn, Grand Cenobite (sld) [Finishers] 
+1x Elspeth, Sun's Champion (ths) [Removal] 
+1x Emergence Zone (war)
+1x Emeria, the Sky Ruin (plist)
+1x Esper Sentinel (mh2) [Draw] 
+1x Expedition Map (plist) [Draw] 
+1x Extraction Specialist (snc)
+1x Eye of Vecna (afr) [Draw] 
+1x Farewell (neo) [Removal] 
+1x Field of Ruin (tsr)
+1x Flawless Maneuver (c20) [Protection] 
+1x Generous Gift (mh1) [Removal] 
+1x Grand Abolisher (e01) [Protection] 
+1x Grand Crescendo (ncc)
+1x Guildless Commons (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Heliod, Sun-Crowned (sld) [Commander{top}] 
+1x Homeward Path (c16)
+1x Hopeful Initiate (vow) [Removal] 
+1x Karoo (vis)
+1x Keeper of the Accord (cmr) [Ramp] 
+1x Knight of the White Orchid (voc) [Ramp] 
+1x Knight of the White Orchid (voc) [Ramp] 
+1x Land Tax (plist) [Ramp] 
+1x Lapse of Certainty (fmb1) *F*  [Maybeboard{noDeck}{noPrice}] 
+1x Lion Sash (neo)
+1x Lotus Field (m20)
+1x Lotus Vale (wth)
+1x Mana Tithe (tsr) [Maybeboard{noDeck}{noPrice}] 
+1x Mazemind Tome (m21) [Draw] 
+1x Mind's Eye (bbd) [Draw] 
+1x Mistveil Plains (uma)
+1x Nettlecyst (mh2) [Finishers] 
+1x Nykthos, Shrine to Nyx (plist)
+1x Oath of Lieges (exo) [Ramp] 
+1x Odric, Lunarch Marshal (cmr) [Maybeboard{noDeck}{noPrice}] 
+1x Patch Up (snc)
+1x Path to Exile (sld) [Removal] 
+18x Plains (afr) 265
+1x Pristine Talisman (c21) [Ramp] 
+1x Radiant Fountain (c21)
+1x Ranger of Eos (ala) [Tutors] 
+1x Ranger-Captain of Eos (h1r) *F*  [Tutors] 
+1x Rebuff the Wicked (tsr) [Maybeboard{noDeck}{noPrice}] 
+1x Recruiter of the Guard (mb1) [Tutors] 
+1x Resourceful Defense (ncc)
+1x Resplendent Angel (m19) [Lifegain Payoffs] 
+1x Righteous Valkyrie (khm) [Lifegain triggers] 
+1x Roadside Reliquary (neo)
+1x Roadside Reliquary (neo) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Scavenger Grounds (c21)
+1x Scorched Ruins (wth)
+1x Selfless Spirit (plist) [Protection] 
+1x Semester's End (pstx) [Maybeboard{noDeck}{noPrice}] 
+1x Seraph Sanctuary (ddq)
+1x Serra Ascendant (ima) [Lifegain triggers] 
+1x Settle the Wreckage (xln) [Maybeboard{noDeck}{noPrice}] 
+1x Sevinne's Reclamation (c19) [Recursion] 
+1x Shrine of the Forsaken Gods (c19)
+1x Sigarda's Splendor (mid) [Draw] 
+1x Smothering Tithe (rna) [Ramp] 
+1x Smuggler's Share (ncc) [Draw] 
+1x Sol Ring (c21) [Ramp] 
+1x Soul Warden (mb1) [Lifegain triggers] 
+1x Soul's Attendant (roe) [Lifegain triggers] 
+1x Speaker of the Heavens (m21) [Lifegain Payoffs] 
+1x Storm of Souls (voc) [Recursion] 
+1x Sunscorch Regent (c21) [Lifegain triggers] 
+1x Suture Priest (nph) [Lifegain triggers] 
+1x Swords to Plowshares (voc) [Removal] 
+1x Teferi's Protection (sta) [Protection] 
+1x Tenuous Truce (ncc) [Maybeboard{noDeck}{noPrice}] 
+1x The Celestus (mid) [Maybeboard{noDeck}{noPrice}] 
+1x The Celestus (pmid) *F*  [Draw] 
+1x The Ozolith (iko) [Lifegain Payoffs] 
+1x The Restoration of Eiganjo // Architect of Restoration (neo) [Ramp] 
+1x Towashi Guide-Bot (neo) [Maybeboard{noDeck}{noPrice}]  ^Have,#37d67a^
+1x Tragic Arrogance (c21)
+1x True Conviction (ss2) [Maybeboard{noDeck}{noPrice}] 
+1x Verge Rangers (c20) [Ramp] 
+1x Voice of the Blessed (vow) [Lifegain Payoffs] 
+1x War Room (cmr)

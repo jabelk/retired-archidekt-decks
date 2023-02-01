@@ -1,0 +1,81 @@
+1x Abundance (znc) [Draw] 
+1x Aesi, Tyrant of Gyre Strait (cmr) *F*  [Commander{top}] 
+1x Alchemist's Refuge (fmb1) *F* 
+1x Ancient Greenwarden (znr) [Landfall] 
+1x Ancient Tomb (uma)
+1x Arcane Lighthouse (c14)
+1x Ashaya, Soul of the Wild (znr) [Landfall] 
+1x Augur of Autumn (mid) [Top Deck] 
+1x Avenger of Zendikar (wwk) [Landfall] 
+1x Azusa, Lost but Seeking (m21) [Ramp] 
+1x Bane of Progress (cc1) [Interaction] 
+1x Beast Within (mic) [Interaction] 
+1x Boseiju, Who Endures (neo)
+1x Breeding Pool (rna)
+1x Champion of Lambholt (jmp) [Finisher] 
+1x Command Tower (nec)
+1x Consuming Tide (vow) [Interaction] 
+1x Counterspell (sta) [Interaction] 
+1x Craterhoof Behemoth (sld) [Finisher] 
+1x Crucible of Worlds (m19) [Recursion] 
+1x Crystal Vein (c14) [Maybeboard{noDeck}{noPrice}] 
+1x Cultivate (mb1) [Ramp] 
+1x Cultivator Colossus (vow) [Draw] 
+1x Dreamroot Cascade (vow)
+1x Dryad of the Ilysian Grove (sld) [Ramp] 
+1x Dust Bowl (mmq)
+1x Fabled Passage (m21)
+1x Field of the Dead (m20)
+1x Finale of Devastation (war) [Finisher] 
+14x Forest (cmr) 510
+1x Ghost Quarter (mb1)
+1x Glacial Chasm (ice)
+1x Harrow (c18) [Ramp] 
+1x Heroic Intervention (aer) [Utility] 
+1x Hinterland Harbor (dom)
+9x Island (khm) 395
+1x It That Betrays (roe) [Maybeboard{noDeck}{noPrice}] 
+1x Jace, Wielder of Mysteries (war) [Finisher] 
+1x Kodama of the East Tree (cmr) [Landfall] 
+1x Kodama's Reach (uma) [Ramp] 
+1x Lotus Cobra (znr) [Landfall] 
+1x Mana Breach (exo) [Recursion] 
+1x Mystic Sanctuary (eld)
+1x Narset's Reversal (war) [Interaction] 
+1x Nature's Lore (por) [Ramp] 
+1x Oko, Thief of Crowns (eld) [Interaction] 
+1x Oracle of Mul Daya (jmp) [Top Deck] 
+1x Overburden (pcy) [Recursion] 
+1x Prismatic Vista (mh1)
+1x Rampaging Baloths (c19) [Landfall] 
+1x Rampant Growth (afc) [Ramp] 
+1x Rejuvenating Springs (cmr)
+1x Reliquary Tower (cmr)
+1x Rewind (m21) [Interaction] 
+1x Rite of Replication (c21) [Finisher] 
+1x Roaring Earth (neo)
+1x Sakashima of a Thousand Faces (cmr) [Utility] 
+1x Scavenger Grounds (c20)
+1x Scute Swarm (znr) [Landfall] 
+1x Search for Tomorrow (tsr) [Ramp] 
+1x Seedborn Muse (cc1) [Utility] 
+1x Shigeki, Jukai Visionary (neo)
+1x Skyshroud Claim (bbd) [Ramp] 
+1x Sol Ring (c20) [Ramp] 
+1x Stone-Seeder Hierophant (rav)
+1x Summary Dismissal (emn) [Interaction] 
+1x Sylvan Library (ema) [Draw] 
+1x Tatyova, Benthic Druid (dom) [Draw] 
+1x Temur Sabertooth (frf) [Utility] 
+1x The Reality Chip (neo) [Top Deck] 
+1x Thrasios, Triton Hero (cmr) [Draw] 
+1x Three Visits (cmr) [Ramp] 
+1x Thwart (mmq) [Interaction] 
+1x Tireless Provisioner (mh2) [Landfall] 
+1x Tireless Tracker (plist)
+1x Trade Routes (9ed) [Draw] 
+1x Uro, Titan of Nature's Wrath (sld) *F*  [Ramp] 
+1x Voidslime (dis) [Interaction] 
+1x Walk the Aeons (tsr) [Utility] 
+1x Yavimaya, Cradle of Growth (mh2)
+1x Zendikar's Roil (ori) [Landfall] 

@@ -1,0 +1,87 @@
+1x Agent of Treachery (m20) [Cheating Targets] 
+1x Arcane Signet (afc) [Ramp] 
+1x Archaeomancer (sld) [Cheating Targets] 
+1x Arid Mesa (mh2)
+1x Behold the Multiverse (khm) [Card Advantage] 
+1x Blasphemous Act (c21) [Removal] 
+1x Blood Crypt (sld)
+1x Brash Taunter (m21) [Cheating Targets] 
+1x Chromatic Lantern (mb1) [Ramp] 
+1x Command Tower (afc)
+1x Conjurer's Closet (2xm) [Utility] 
+1x Cut // Ribbons (sld) [Removal] 
+1x Day's Undoing (ori) [Card Advantage] 
+1x Deflecting Swat (c20) [Protection] 
+1x Demonic Tutor (puma) *F*  [Card Advantage] 
+1x Disrupt Decorum (afc) [Removal] 
+1x Dockside Extortionist (c19) [Ramp] 
+1x Drowned Catacomb (xln)
+1x Exotic Orchard (afc)
+1x Fable of the Mirror-Breaker // Reflection of Kiki-Jiki (neo) [Clone / Copy] 
+1x Fabled Passage (m21)
+1x Fierce Guardianship (c20) [Removal] 
+1x Fiery Islet (mh1)
+1x Final Fortune (7ed) [Living Dangerously ] 
+1x Flameshadow Conjuring (ori) [Clone / Copy] 
+1x Force of Negation (mh1) [Removal] 
+1x Force of Will (2xm) *F*  [Removal] 
+1x Gilded Drake (usg) [Cheating Targets] 
+1x Glen Elendra Archmage (uma) [Cheating Targets] 
+1x Glorious End (akh) [Backup Obeka] 
+1x Grim Tutor (sld) *F*  [Card Advantage] 
+1x Grixis Panorama (c17)
+1x Haunted Ridge (pmid)
+1x Herald of Leshrac (fmb1) *F*  [Cheating Targets] 
+1x Impulse (vis) [Card Advantage] 
+6x Island (mh2) 484
+1x Kiki-Jiki, Mirror Breaker (tsr) [Clone / Copy] 
+1x Lightning Greaves (afc) [Protection] 
+1x Mana Crypt (2xm) [Ramp] 
+1x Meteor Golem (sld) [Cheating Targets] 
+1x Mimic Vat (mb1) [Utility] 
+1x Minamo, School at Water's Edge (chk)
+1x Mirror Box (neo) [Utility] 
+1x Mirrorhall Mimic // Ghastly Mimicry (vow) [Clone / Copy] 
+8x Mountain (mh2) 487
+1x Mulldrifter (tsr) [Card Advantage] 
+1x Mystic Remora (ice) [Card Advantage] 
+1x Nightscape Familiar (e01) [Ramp] 
+1x Notion Thief (znc) [Cheating Targets] 
+1x Obeka, Brute Chronologist (cmr) *F*  [Commander{top}] 
+1x Peregrine Drake (bbd) [Cheating Targets] 
+1x Polluted Delta (ktk)
+1x Puppeteer Clique (c17) [Cheating Targets] 
+1x Rakdos Signet (sld) [Ramp] 
+1x Reality Shift (plist) [Removal] 
+1x Rhystic Study (jmp) [Card Advantage] 
+1x Rite of Replication (c21) [Clone / Copy] 
+1x Sakashima of a Thousand Faces (cmr) [Clone / Copy] 
+1x Scattered Thoughts (vow) [Card Advantage] 
+1x Scavenger Grounds (c21)
+1x Sedris, the Traitor King (plist) [Maybeboard{noDeck}{noPrice}] 
+1x Shipwreck Marsh (pmid)
+1x Shivan Reef (c21)
+1x Smoldering Marsh (afc)
+1x Sneak Attack (2xm) [Clone / Copy] 
+1x Sol Ring (afc) [Ramp] 
+1x Solemn Simulacrum (m21) [Ramp] 
+1x Spark Double (war) [Clone / Copy] 
+1x Splinter Twin (plist) [Clone / Copy] 
+1x Steam Vents (grn)
+1x Stormcarved Coast (vow)
+1x Strike It Rich (mh2) [Ramp] 
+1x Sundial of the Infinite (m12) [Backup Obeka] 
+3x Swamp (mh2) 485
+1x Swiftfoot Boots (afc) [Protection] 
+1x Talisman of Creativity (c21) [Ramp] 
+1x Talisman of Dominance (e01) [Ramp] 
+1x Talisman of Indulgence (afc) [Ramp] 
+1x Tectonic Edge (mb1)
+1x Teferi's Veil (wth) [Utility] 
+1x Thassa, Deep-Dwelling (thb) [Utility] 
+1x Toxrill, the Corrosive (vow) [Cheating Targets] 
+1x Valakut Awakening // Valakut Stoneforge (znr) [Card Advantage] 
+1x Vandalblast (tsr) [Removal] 
+1x Watery Grave (grn)
+1x Windfall (khc) [Card Advantage] 
+1x Zealous Conscripts (tsr) [Cheating Targets] 

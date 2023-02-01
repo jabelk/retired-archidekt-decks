@@ -1,0 +1,105 @@
+1x Academy Manufactor (mh2) [Artifact Mana] 
+1x Adrix and Nev, Twincasters (c21) *F*  [Artifact Doublers] 
+1x Aesi, Tyrant of Gyre Strait (cmr) *F*  [Card Advantage] 
+1x Amulet of Vigor (fmb1) *F*  [Urza's saga targets] 
+1x Ancient Greenwarden (znr) [Card Advantage] 
+1x Arid Mesa (mh2)
+1x Basilisk Collar (mm3) [Urza's saga targets] 
+1x Beast Within (c21) [Interaction] 
+1x Braid of Fire (fmb1) *F*  [Artifact Mana] 
+1x Brass's Bounty (rix) [Artifact Mana] 
+1x Breeding Pool (gtc)
+1x Brudiclad, Telchor Engineer (2xm) [Wincon] 
+1x Chaos Warp (c19) [Interaction] 
+1x Cinder Glade (afc)
+1x Command Tower (cmr)
+1x Counterspell (sta) [Interaction] 
+1x Crop Rotation (2xm) [Land Ramp] 
+1x Crucible of Worlds (m19) [Land Ramp] 
+1x Cultivate (cmr) [Land Ramp] 
+1x Dalakos, Crafter of Wonders (pthb) [Wincon] 
+1x Dockside Extortionist (c19) [Artifact Mana] 
+1x Dust Bowl (mmq)
+1x Evolving Wilds (iko)
+1x Fabled Passage (m21)
+1x Farseek (m13) [Land Ramp] 
+1x Fathom Fleet Swordjack (cmr) [Wincon] 
+1x Field of the Dead (m20)
+1x Fierce Guardianship (c20) [Interaction] 
+3x Forest (khm) 398
+1x Ghirapur Aether Grid (ori) [Wincon] 
+1x Gingerbread Cabin (eld) [Maybeboard{noDeck}{noPrice}] 
+1x Gingerbread Cabin (c21)
+1x Goldspan Dragon (khm) [Artifact Mana] 
+1x Great Furnace (c21)
+1x Harrow (znc) [Land Ramp] 
+1x Indomitable Creativity (aer) [Wincon] 
+1x Inspiring Statuary (aer) [Artifact Mana] 
+1x Into the North (csp) [Land Ramp] 
+1x Island (mid) 270
+1x Junk Winder (mh2) [Interaction] 
+1x Ketria Triome (iko)
+1x Kodama's Reach (uma) [Land Ramp] 
+1x Krark-Clan Ironworks (5dn) [Artifact Mana] 
+1x Life from the Loam (sld) [Land Ramp] 
+1x Lonis, Cryptozoologist (mh2) [Card Advantage] 
+1x Machinate (dst) [Card Advantage] 
+1x Mana Vault (4ed) [Urza's saga targets] 
+1x Master of Etherium (2xm) [Wincon] 
+1x Mechanized Production (aer) [Maybeboard{noDeck}{noPrice}] 
+1x Misty Rainforest (zen)
+1x Mox Opal (2xm) [Artifact Mana] 
+1x Mystic Remora (ice) [Card Advantage] 
+1x Nature's Lore (p02) [Land Ramp] 
+1x Negate (sta) [Interaction] 
+1x Oko, Thief of Crowns (eld) *F*  [Interaction] 
+1x Parallel Lives (isd) [Artifact Doublers] 
+1x Prismatic Vista (mh1)
+1x Rampant Growth (m12) [Land Ramp] 
+1x Ramunap Excavator (cmr) [Card Advantage] 
+1x Reckless Fireweaver (mb1) [Wincon] 
+1x Rejuvenating Springs (cmr)
+1x Reverse Engineer (f17) *F*  [Card Advantage] 
+1x Rhystic Study (mb1) [Card Advantage] 
+1x Rise and Shine (mh2) [Wincon] 
+1x Saheeli, the Gifted (c18) *F*  [Artifact Mana] 
+1x Scalding Tarn (zen) [Maybeboard{noDeck}{noPrice}] 
+1x Scavenger Grounds (c21)
+1x Seat of the Synod (c18)
+1x Second Harvest (c19) [Artifact Doublers] 
+1x Shimmer Dragon (eld) [Card Advantage] 
+1x Silverbluff Bridge (mh2)
+1x Simic Growth Chamber (afc)
+1x Slagwoods Bridge (mh2)
+2x Snow-Covered Forest (khm) 284
+2x Snow-Covered Island (khm) 279 [Maybeboard{noDeck}{noPrice}] 
+1x Snow-Covered Island (khm) 279
+2x Snow-Covered Mountain (khm) 282
+1x Sol Ring (cc2) [Urza's saga targets] 
+1x Steam Vents (rtr) [Maybeboard{noDeck}{noPrice}] 
+1x Stomping Ground (gtc)
+1x Storm the Vault // Vault of Catlacan (rix) [Artifact Mana] 
+1x Strip Mine (atq) [Maybeboard{noDeck}{noPrice}] 
+1x Swan Song (c16) [Interaction] 
+1x Taiga (3ed) [Maybeboard{noDeck}{noPrice}] 
+1x Tanglepool Bridge (mh2)
+1x Tatyova, Benthic Druid (dom) [Card Advantage] 
+1x Terramorphic Expanse (cmr)
+1x Thopter Engineer (2xm) [Wincon] 
+1x Thrasios, Triton Hero (c16) *F*  [Commander{top}] 
+1x Three Visits (cmr) [Land Ramp] 
+1x Tireless Provisioner (mh2) [Artifact Mana] 
+1x Tireless Tracker (soi) [Card Advantage] 
+1x Toggo, Goblin Weaponsmith (cmr) [Commander{top}] 
+1x Training Center (cmr)
+1x Training Grounds (roe) [Card Advantage] 
+1x Treasure Vault (afr)
+1x Tree of Tales (mrd)
+1x Tropical Island (3ed) [Maybeboard{noDeck}{noPrice}] 
+1x Ugin, the Spirit Dragon (m21) [Interaction] 
+1x Urza's Saga (mh2)
+1x Urza, Lord High Artificer (h1r) *F*  [Artifact Mana] 
+1x Volatile Fjord (khm)
+1x Volcanic Island (3ed) [Maybeboard{noDeck}{noPrice}] 
+1x Wooded Foothills (ktk)
+1x Yavimaya, Cradle of Growth (mh2)

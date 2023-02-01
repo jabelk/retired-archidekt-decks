@@ -1,0 +1,95 @@
+1x Adeline, Resplendent Cathar (mid) [Damage] 
+1x Arid Mesa (mh2)
+1x Augur of Autumn (mid) [Draw] 
+1x Aura Shards (plist) [Removal] 
+1x Avacyn's Pilgrim (mic) [Ramp] 
+1x Avenger of Zendikar (2xm) [Damage] 
+1x Bane of Progress (cc1) [Removal] 
+1x Beast Whisperer (grn) [Draw] 
+1x Beast Within (ncc) [Removal] 
+1x Birds of Paradise (3ed) [Ramp] 
+1x Boreal Druid (csp) [Ramp] 
+1x Boseiju, Who Endures (neo)
+1x Bountiful Promenade (bbd)
+1x Camaraderie (ncc) [Draw] 
+1x Circle of Dreams Druid (afr) [Ramp] 
+1x Combat Celebrant (akh) [Damage] 
+1x Command Tower (nec)
+1x Crashing Drawbridge (eld) [Damage] 
+1x Devilish Valet (psnc) [Damage] 
+1x Dockside Extortionist (c19) [Maybeboard{noDeck}{noPrice}] 
+1x Dowsing Dagger // Lost Vale (xln) [Ramp] 
+1x Druid of Purification (afc) [Removal] 
+1x Elvish Mystic (tsr) [Ramp] 
+1x Escape to the Wilds (eld) [Draw] 
+1x Esper Sentinel (mh2) [Draw] 
+1x Exotic Orchard (phed)
+1x Faeburrow Elder (eld) [Ramp] 
+1x Farewell (neo) [Removal] 
+1x Fauna Shaman (uma) [Tutor] 
+1x Field of the Dead (m20)
+1x Flawless Maneuver (c20) [Protect / Recur] 
+7x Forest (snc) 270
+1x Frondland Felidar (iko) [Removal] 
+1x Fyndhorn Elves (cmr) [Ramp] 
+1x Gaea's Cradle (usg)
+1x Gala Greeters (snc) *F*  [Ramp] 
+1x Generous Gift (ncc) [Removal] 
+1x Ghost Quarter (cm2)
+1x Glimpse of Nature (chk) [Draw] 
+1x Grand Crescendo (ncc) [Protect / Recur] 
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) [Ramp] 
+1x Guardian Project (rna) [Draw] 
+1x Harmonize (tsr) [Draw] 
+1x Ilysian Caryatid (thb) [Ramp] 
+1x Imperial Recruiter (mh2) [Maybeboard{noDeck}{noPrice}] 
+1x Incubation Druid (ncc) [Ramp] 
+1x Indulge // Excess (ncc) [Damage] 
+1x Iroas, God of Victory (sld) *F*  [Protect / Recur] 
+1x Jaspera Sentinel (khm) [Ramp] 
+1x Jetmir's Garden (snc)
+1x Jetmir, Nexus of Revels (snc) [Commander{top}] 
+1x Kabira Takedown // Kabira Plateau (znr) [Land] 
+1x Kataki, War's Wage (md1) [Removal] 
+1x Lion Sash (neo) [Removal] 
+1x Llanowar Elves (mb1) [Ramp] 
+1x Mangara, the Diplomat (m21) [Draw] 
+1x Marisi, Breaker of the Coil (c19) *F*  [Protect / Recur] 
+1x Masked Vandal (khm) [Removal] 
+1x Mirri, Weatherlight Duelist (sld) *F*  [Damage] 
+1x Mosswort Bridge (ncc)
+1x Mountain (snc) 268
+1x Nacatl War-Pride (fut) [Damage] 
+1x Nullmage Shepherd (khc) [Removal] 
+1x Ohran Frostfang (plist) [Draw] 
+1x Overgrown Farmland (mid)
+1x Plains (snc) 262
+1x Priest of Titania (mb1) [Ramp] 
+1x Professional Face-Breaker (snc) [Draw] 
+1x Recruiter of the Guard (mb1) [Maybeboard{noDeck}{noPrice},Tutor] 
+1x Reliquary Tower (c21)
+1x Rhythm of the Wild (nec) [Protect / Recur] 
+1x Rite of Harmony (mid) [Draw] 
+1x Rockfall Vale (mid)
+1x Rumor Gatherer (snc) [Draw] 
+1x Sacred Foundry (grn)
+1x Saryth, the Viper's Fang (mid) [Protect / Recur] 
+1x Selfless Spirit (plist) [Protect / Recur] 
+1x Shalai, Voice of Plenty (dom) [Protect / Recur] 
+1x Shamanic Revelation (c21) [Draw] 
+3x Snow-Covered Forest (mh1) 254
+1x Snow-Covered Mountain (mh1) 253
+1x Snow-Covered Plains (mh1) 250
+1x Stomping Ground (rna)
+1x Teferi's Protection (mb1) [Protect / Recur] 
+1x Temple Garden (grn)
+1x Tempt with Vengeance (c13) [Damage] 
+1x The Great Henge (eld) [Draw] 
+1x Tilonalli's Summoner (rix) [Damage] 
+1x Timeless Witness (mh2) [Protect / Recur] 
+1x Toski, Bearer of Secrets (khm) [Draw] 
+1x Waves of Aggression (eve) [Damage] 
+1x Windbrisk Heights (ncc)
+1x Windswept Heath (ktk)
+1x Wooded Foothills (ktk)
+1x Yavimaya, Cradle of Growth (mh2)

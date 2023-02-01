@@ -1,0 +1,85 @@
+1x Akroma's Will (cmr) [Finisher] 
+1x Alhammarret's Archive (mb1) [Conditional Draw] 
+1x Anointed Procession (akh) [Token Enabler] 
+1x Anvil of Bogardan (vis) [Loot Draw] 
+1x Arcane Signet (voc) [Ramp] 
+1x Arid Mesa (mh2)
+1x Ash Barrens (c20)
+1x Austere Command (cmr) [Removal] 
+1x Boros Charm (c21) [Protect] 
+1x Brilliant Restoration (pneo) [Recursion] 
+1x Careful Consideration (tsr) [Loot Draw] 
+1x Careful Study (ody) [Loot Draw] 
+1x Cast Out (c20) [Removal] 
+1x Cathars' Crusade (jmp) [Finisher] 
+1x Change of Fortune (vow) [Loot Draw] 
+1x Command Tower (voc)
+1x Compulsion (tor) [Loot Draw] 
+1x Containment Construct (neo) [Recursion] 
+1x Council's Judgment (2xm) [Removal] 
+1x Crucible of Worlds (m19) [Ramp] 
+1x Dack Fayden (sld) [Loot Draw] 
+1x Dismantling Wave (c20) [Removal] 
+1x Divine Visitation (grn) [Token Enabler] 
+1x Dockside Extortionist (c19) [Ramp] 
+1x Eiganjo, Seat of the Empire (pneo)
+1x Eldrazi Monument (mb1) [Token Enabler] 
+1x Elspeth, Sun's Champion (ths) [Removal] 
+1x Exotic Orchard (c20)
+1x Faithful Mending (mid) [Loot Draw] 
+1x Faithless Looting (c21) [Loot Draw] 
+1x Feldon of the Third Path (c21) [Recursion] 
+1x Fellwar Stone (plist) [Ramp] 
+1x Flooded Strand (ktk)
+1x Forgotten Creation (mic) [Loot Draw] 
+1x Gavi, Nest Warden (c20) [Commander{top}] 
+1x Generous Gift (nec) [Removal] 
+1x Glint-Horn Buccaneer (m20) [Loot Draw] 
+1x Hallowed Fountain (rna)
+1x Hour of Reckoning (mic) [Removal] 
+1x Ideas Unbound (sok) [Loot Draw] 
+1x Invoke Calamity (pneo) [Recursion] 
+1x Invoke Justice (neo) [Recursion] 
+1x Irencrag Pyromancer (eld) [Removal] 
+1x Irrigated Farmland (c20)
+9x Island (khm) 395
+1x Izzet Signet (c20) [Ramp] 
+1x Junk Winder (mh2) [Removal] 
+1x Late to Dinner (mh2) [Recursion] 
+1x Library of Leng (5ed) [Loot Draw] 
+1x Lier, Disciple of the Drowned (dbl) [Recursion] 
+1x Loyal Unicorn (plist) [Token Enabler] 
+1x Mad Ratter (eld) [Token Creation] 
+1x Minn, Wily Illusionist (afc) [Maybeboard{noDeck}{noPrice}] 
+2x Mountain (afr) 275
+1x Mystic Remora (ice) [Conditional Draw] 
+1x Path to Exile (2xm) [Removal] 
+12x Plains (bfz) 251a
+1x Prava of the Steel Legion (cmr) [Token Enabler] 
+1x Raugrin Triome (iko)
+1x Read the Runes (jmp) [Loot Draw] 
+1x Reconstruct History (stx) [Recursion] 
+1x Recurring Insight (roe) [Draw] 
+1x Rhystic Study (jmp) [Conditional Draw] 
+1x Rielle, the Everwise (iko) [Conditional Draw] 
+1x Shark Typhoon (iko) [Token Creation] 
+1x Shivan Reef (c21)
+1x Sokenzan, Crucible of Defiance (pneo)
+1x Sol Ring (c20) [Ramp] 
+1x Solemn Simulacrum (afc) [Ramp] 
+1x Spectator Seating (cmr)
+1x Steam Vents (grn)
+1x Strike It Rich (mh2) [Ramp] 
+1x Surge to Victory (c21) [Finisher] 
+1x Surly Badgersaur (c20) [Removal] 
+1x Teferi's Ageless Insight (m21) [Conditional Draw] 
+1x Teferi, Master of Time (pm21) *F*  [Loot Draw] 
+1x The Locust God (c20) [Loot Draw] 
+1x The Restoration of Eiganjo // Architect of Restoration (neo) [Ramp] 
+1x Thrill of Possibility (thb) [Loot Draw] 
+1x Training Center (cmr)
+1x Unbreakable Formation (sld) [Protect] 
+1x Unexpected Windfall (afr) [Loot Draw] 
+1x Valakut Awakening // Valakut Stoneforge (znr) [Land] 
+1x Wayfarer's Bauble (plist) [Ramp] 
+1x Whirlwind of Thought (iko) [Conditional Draw] 

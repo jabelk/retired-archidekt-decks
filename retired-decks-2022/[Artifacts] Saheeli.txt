@@ -1,0 +1,83 @@
+1x Academy Ruins (2xm) *F* 
+1x Aetherworks Marvel (kld) [Synergy] 
+1x Arcane Denial (cmr) [Removal] 
+1x Arcane Signet (afc) [Ramp] 
+1x Big Score (snc) [Draw] 
+1x Blasphemous Act (voc) [Removal] 
+1x Blightsteel Colossus (2xm) *F*  [Finisher] 
+1x Brass's Bounty (prix) [Synergy] 
+1x Castle Vantress (eld)
+1x Chain Reaction (wwk) [Removal] 
+1x Command Tower (mic)
+1x Cyclonic Rift (2xm) [Removal] 
+1x Darksteel Citadel (c21)
+1x Darksteel Colossus (sld) *F*  [Finisher] 
+1x Darksteel Forge (2xm) [Synergy] 
+1x Delayed Blast Fireball (clb) [Removal] 
+1x Disrupt Decorum (afc) [Removal] 
+1x Dragonspark Reactor (neo) [Finisher] 
+1x Everflowing Chalice (2xm) [Ramp] 
+1x Fabled Passage (m21)
+1x Fabricate (plist) [Synergy] 
+1x Faithless Looting (sta) [Draw] 
+1x Fellwar Stone (5ed) [Ramp] 
+1x Force of Negation (2x2) [Removal] 
+1x Forsaken Monument (znr) [Thopters] 
+1x Fractured Powerstone (plist) [Ramp] 
+1x Glittering Stockpile (snc) [Ramp] 
+1x Great Furnace (c21)
+1x Ingenious Artillerist (clb) [Finisher] 
+1x Insurrection (cmd) [Finisher] 
+1x Inventors' Fair (plist)
+1x Izzet Signet (cmd) [Ramp] 
+1x Jeska's Will (clb) [Ramp] 
+1x Junk Winder (mh2) [Removal] 
+1x Kappa Cannoneer (nec) [Finisher] 
+1x Krark-Clan Ironworks (5dn) [Synergy] 
+1x Liquimetal Torque (mh2) [Ramp] 
+1x Mirrodin Besieged (mh1) [Thopters] 
+1x Mirrorworks (mbs) [Synergy] 
+1x Mox Opal (mm2) [Ramp] 
+1x Mystic Sanctuary (eld)
+1x Nettlecyst (mh2) [Synergy] 
+1x Omniscience (m19) [Finisher] 
+1x Otawara, Soaring City (pneo)
+1x Perplexing Test (c21) [Removal] 
+1x Professional Face-Breaker (snc) [Synergy] 
+1x Reality Heist (neo) [Draw] 
+1x Reality Shift (nec) [Removal] 
+1x Reliquary Tower (c21)
+1x Rhystic Study (jmp) [Draw] 
+1x Saheeli, the Gifted (c18) *F*  [Commander{top}] 
+1x Seat of the Synod (c18)
+1x Seize the Spoils (khm) [Draw] 
+1x Sharding Sphinx (c18) [Thopters] 
+1x Shrine of the Forsaken Gods (c19)
+1x Silverbluff Bridge (mh2)
+1x Skullclamp (clb) [Draw] 
+14x Snow-Covered Island (mh1) 251
+5x Snow-Covered Mountain (mh1) 253
+1x Sol Ring (voc) [Ramp] 
+1x Stonecoil Serpent (eld) [Synergy] 
+1x Storm the Vault // Vault of Catlacan (rix) [Synergy] 
+1x Strixhaven Stadium (pstx) *F*  [Thopters] 
+1x Sunstone (ice) [Synergy] 
+1x Talisman of Creativity (mh1) [Ramp] 
+1x Tectonic Edge (mb1)
+1x The Reality Chip (neo) [Draw] 
+1x Thought Monitor (mh2) [Draw] 
+1x Thought Vessel (cmr) [Ramp] 
+1x Thoughtcast (mrd) [Draw] 
+1x Time Warp (s99) [Synergy] 
+1x Trading Post (mb1) [Synergy] 
+1x Treasure Vault (afr)
+1x Ugin, the Ineffable (war) [Synergy] 
+1x Ugin, the Spirit Dragon (m21) [Removal] 
+1x Unexpected Windfall (afr) [Draw] 
+1x Urza's Saga (mh2)
+1x Urza, Lord High Artificer (h1r) *F*  [Synergy] 
+1x Vandalblast (tsr) [Removal] 
+1x Vedalken Humiliator (c18) [Thopters] 
+1x Wash Away (vow) [Removal] 
+1x Wheel of Misfortune (cmr) [Draw] 
+1x Whir of Invention (sld) [Synergy] 

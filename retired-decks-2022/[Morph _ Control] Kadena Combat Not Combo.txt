@@ -1,0 +1,100 @@
+1x Ainok Survivalist (mb1) [Targeted Removal,morph] 
+1x Alchemist's Refuge (avr)
+1x Arcane Signet (c21) [Ramp] 
+1x Assassin's Trophy (grn) [Targeted Removal] 
+1x Bane of the Living (c19) [Board Wipe,morph] 
+1x Beast Within (tsr) [Targeted Removal] 
+1x Bojuka Bog (tsr)
+1x Breeding Pool (rna)
+1x Chromeshell Crab (c19) [Targeted Removal,morph] 
+1x City of Brass (md1)
+1x Cloudstone Curio (rav) [Replay Them] 
+1x Command Tower (khc)
+1x Craterhoof Behemoth (jmp) [Finish the game] 
+1x Crop Rotation (2xm) [Ramp] 
+1x Crystal Shard (tsr) [Replay Them] 
+1x Cyclonic Rift (2xm) [Board Wipe] 
+1x Darkwater Catacombs (afc)
+1x Deathmist Raptor (c19) [Replay Them,morph] 
+1x Den Protector (c19) [Replay Them,morph] 
+1x Exotic Orchard (c21)
+1x Farseek (tsr) [Ramp] 
+1x Fertile Ground (mb1) [Ramp] 
+1x Flooded Grove (2xm)
+1x Forest (stx) 374
+1x Forsaken Monument (znr) [Morph Synergies] 
+1x Ghost Quarter (mb1)
+1x Gift of Doom (c19) [Protect,morph] 
+1x Grim Haruspex (plist) [Draw,morph] 
+1x Heroic Intervention (m21) [Protect] 
+1x Hinterland Harbor (dom)
+1x Icefeather Aven (c19) [Replay Them,morph] 
+1x Island (stx) 368
+1x Ixidron (c19) [Board Wipe] 
+1x Kadena's Silencer (c19) [Protect,morph] 
+1x Kadena, Slinking Sorcerer (c19) *F*  [Commander{top}] 
+1x Kheru Spellsnatcher (c19) [Protect,morph] 
+1x Krosan Cloudscraper (tsb) [Finish the game,morph] 
+1x Leyline of Anticipation (m20) [Flash] 
+1x Llanowar Wastes (c20)
+1x Marsh Flats (zne)
+1x Mischievous Quanar (plist) [Protect,morph] 
+1x Misty Rainforest (zne)
+1x Mystic Forge (m20) [Morph Synergies] 
+1x Mystic Remora (ice) [Draw] 
+1x Nantuko Vigilante (c19) [Targeted Removal,morph] 
+1x Night's Whisper (mb1) [Draw] 
+1x Nurturing Peatland (mh1)
+1x Overgrown Tomb (grn)
+1x Paradoxical Outcome (tsr) [Draw] 
+1x Polluted Delta (ktk)
+1x Prismatic Vista (zne)
+1x Read the Bones (tsr) [Draw] 
+1x Reality Shift (plist) [Targeted Removal] 
+1x Realms Uncharted (roe) [Draw] 
+1x Rejuvenating Springs (cmr)
+1x Reliquary Tower (c21)
+1x Rimewood Falls (khm)
+1x Scroll of Fate (c19) [Morph Synergies,morph] 
+1x Seedborn Muse (cc1) [Ramp] 
+1x Silumgar Assassin (c19) [Targeted Removal,morph] 
+1x Simic Signet (cmr) [Ramp] 
+1x Skinthinner (c19) [Targeted Removal,morph] 
+1x Snow-Covered Forest (khm) 284
+1x Snow-Covered Island (khm) 278
+1x Snow-Covered Swamp (khm) 280
+1x Sol Ring (c21) [Ramp] 
+1x Stratus Dancer (c19) [Protect,morph] 
+1x Sudden Spoiling (tsr) [Finish the game] 
+1x Sunken Ruins (2xm)
+1x Swamp (stx) 371
+1x Sylvan Library (cc1) [Draw] 
+1x Tainted Pact (ody) [Draw] 
+1x Talisman of Curiosity (mh1) [Ramp] 
+1x Talisman of Resilience (mh1) [Ramp] 
+1x Teferi, Mage of Zhalfir (tsr) [Flash] 
+1x Temur Sabertooth (c17) [Replay Them] 
+1x Thieving Amalgam (c19) [Morph Synergies] 
+1x Thousand Winds (c19) [Replay Them,morph] 
+1x Three Visits (cmr) [Ramp] 
+1x Tomb of the Spirit Dragon (ktk)
+1x Triumph of the Hordes (mb1) [Finish the game] 
+1x Ugin, the Ineffable (war) [Morph Synergies,morph] 
+1x Underground River (cm2)
+1x Unwind (dom) [Protect] 
+1x Urborg, Tomb of Yawgmoth (tsr)
+1x Vedalken Orrery (cns) [Flash] 
+1x Vesuvan Shapeshifter (tsr) [Replay Them,morph] 
+1x Vizier of the Menagerie (akh) [Morph Synergies] 
+1x Voidmage Apprentice (jvc) [Protect,morph] 
+1x Watery Grave (grn)
+1x Whisperwood Elemental (frf) [Morph Synergies,morph] 
+1x Wild Growth (mb1) [Ramp] 
+1x Willbender (c19) [Protect,morph] 
+1x Windswept Heath (zne)
+1x Wood Elves (khc) [Ramp] 
+1x Wooded Foothills (zne)
+1x Yavimaya Coast (c20)
+1x Yedora, Grave Gardener (c21) [Replay Them] 
+1x Zagoth Triome (iko)
+1x Zoetic Cavern (a25) [Land,morph] 

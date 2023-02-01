@@ -1,0 +1,87 @@
+1x Adorned Pouncer (hou) [Beaters] 
+1x Arahbo, Roar of the World (c17) *F*  [Commander{top}] 
+1x Austere Command (ima) [Removal] 
+1x Bala Ged Recovery // Bala Ged Sanctuary (znr) [Recursion] 
+1x Beast Within (c19) [Removal] 
+1x Beastmaster Ascension (mb1) [Creature Synergies] 
+1x Berserk (cn2) [Finish the Game] 
+1x Blighted Woodland (cmr)
+1x Brimaz, King of Oreskos (bng) [Token Makers] 
+1x Bronzehide Lion (thb) [Beaters] 
+1x Brushland (10e)
+1x Chameleon Colossus (c15) [Beaters] 
+1x Command Tower (eld)
+1x Cubwarden (iko) [Beaters] 
+1x Cultivate (c19) [Ramp] 
+1x Deglamer (mor) [Removal] 
+1x Farseek (c19) [Ramp] 
+1x Felidar Retreat (znr) [Token Makers] 
+1x Feline Sovereign (m21) [Beaters] 
+1x Fleecemane Lion (c17) [Beaters] 
+8x Forest (parl) 5
+1x Frondland Felidar (iko) [Beaters] 
+1x Generous Gift (mh1) [Removal] 
+1x Ghost Quarter (mb1)
+1x Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun (xln) [Draw] 
+1x Guardian Project (rna) [Draw] 
+1x Harmonize (p08) [Draw] 
+1x Heroic Intervention (m21) [Recursion] 
+1x Horizon Canopy (zne)
+1x Hungry Lynx (c17) [Token Makers] 
+1x Jazal Goldmane (c17) [Finish the Game] 
+1x Kaheera, the Orphanguard (iko) [Sideboard] 
+1x Keeper of Fables (eld) [Draw] 
+1x Kenrith's Transformation (eld) [Removal] 
+1x King of the Pride (mh1) [Beaters] 
+1x Kodama's Reach (uma) [Ramp] 
+1x Krosan Verge (znc)
+1x Leonin Relic-Warder (c17) [Beaters] 
+1x Leonin Warleader (pm19) [Token Makers] 
+1x Life's Legacy (m15) [Maybeboard{noDeck}{noPrice}] 
+1x Lost Leonin (nph) [Beaters] 
+1x Mirari's Wake (c17) [Creature Synergies] 
+1x Mirri's Guile (tmp) [Draw] 
+1x Mirri, Cat Warrior (10e) [Beaters] 
+1x Mirri, Weatherlight Duelist (c17) *F*  [Beaters] 
+1x Mirror Entity (cma) [Beaters] 
+1x Mistveil Plains (uma)
+1x Momentous Fall (c19) [Draw] 
+1x Mosswort Bridge (c20)
+1x Mutavault (m14)
+1x Myriad Landscape (cmr)
+1x Nacatl War-Pride (fut) [Token Makers] 
+1x Nature's Lore (gvl) [Ramp] 
+1x Nature's Will (chk) [Creature Synergies] 
+1x Overrun (cma) [Finish the Game] 
+1x Overwhelming Stampede (c19) [Finish the Game] 
+1x Path to Exile (ss2) [Removal] 
+1x Pir's Whim (bbd) [Ramp] 
+8x Plains (cst) 370
+1x Pride Sovereign (hou) [Token Makers] 
+1x Primal Might (m21) [Removal] 
+1x Prowling Serpopard (akh) [Beaters] 
+1x Qasali Pridemage (c17) [Removal] 
+1x Qasali Slingers (c17) [Removal] 
+1x Rampant Growth (p09) [Ramp] 
+1x Regal Caracal (akh) [Token Makers] 
+1x Reliquary Tower (c19)
+1x Return of the Wildspeaker (eld) [Draw] 
+1x Rogue's Passage (c19)
+1x Scattered Groves (akh)
+1x Seht's Tiger (c17) [Beaters] 
+1x Selesnya Sanctuary (gk1)
+1x Skyhunter Skirmisher (mm2) [Beaters] 
+1x Skyshroud Claim (bbd) [Ramp] 
+1x Sol Ring (pf19) [Ramp] 
+1x Stalking Leonin (c17) [Beaters] 
+1x Stirring Wildwood (uma)
+1x Sungrass Prairie (c19)
+1x Sunpetal Grove (pxln)
+1x Swords to Plowshares (cst) [Removal] 
+1x Temple of Plenty (bng)
+1x The Great Henge (eld) [Draw] 
+1x Treetop Village (ddu)
+1x True Conviction (ss2) [Creature Synergies] 
+1x Unclaimed Territory (xln)
+1x Unravel the Aether (bng) [Removal] 
+1x White Sun's Zenith (c17) [Token Makers] 

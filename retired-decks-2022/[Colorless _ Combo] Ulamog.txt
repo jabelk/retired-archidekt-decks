@@ -1,0 +1,102 @@
+1x All Is Dust (uma) [Removal] 
+1x Ancient Tomb (plist)
+1x Arcane Lighthouse (c14)
+1x Arch of Orazca (rix)
+1x Basalt Monolith (2xm) [Ramp] 
+1x Buried Ruin (jmp)
+1x Clock of Omens (5dn) [Utility / Synergy] 
+1x Cloud Key (tsr) [Draw Combo] 
+1x Coalition Relic (tsr) [Ramp] 
+1x Command Beacon (cmr)
+1x Commander's Plate (cmr) [Protect / Recur] 
+1x Conduit of Ruin (bfz) [Tutor] 
+1x Contagion Engine (plist) [Extra Turns Combo] 
+1x Crawling Barrens (znr)
+1x Crucible of Worlds (m19) [Ramp] 
+1x Crystal Vein (mir)
+1x Doubling Cube (plist) [Utility / Synergy] 
+1x Dust Bowl (mmq)
+1x Eldrazi Temple (plist)
+1x Everflowing Chalice (ncc) [Ramp] 
+1x Expedition Map (plist) [Tutor] 
+1x Eye of Ugin (wwk) [Tutor] 
+1x Eye of Vecna (pafr) [Draw] 
+1x Field of the Dead (m20)
+1x Forsaken Monument (znr) [Ramp] 
+1x Foundry Inspector (cmr) [Draw Combo] 
+1x Geode Golem (c18) [Utility / Synergy] 
+1x Ghost Quarter (sld)
+1x Gonti's Aether Heart (aer) [Extra Turns Combo] 
+1x Grim Monolith (ulg) [Ramp] 
+1x Grindstone (wc98) [Mill Combo] 
+1x Guildless Commons (cmr)
+1x High Market (c21)
+1x Homeward Path (j17) *F* 
+1x Honored Heirloom (vow) [Removal] 
+1x Introduction to Prophecy (stx) [Draw] 
+1x Inventors' Fair (phed)
+1x Karn, the Great Creator (sld) [Extra Turns Combo] 
+1x Kozilek, Butcher of Truth (plist) [Draw] 
+1x Kozilek, the Great Distortion (ogw) [Draw] 
+1x Krark-Clan Ironworks (5dn) [Extra Turns Combo] 
+1x Kuldotha Forgemaster (2xm) [Tutor] 
+1x Lightning Greaves (ncc) [Protect / Recur] 
+1x Liquimetal Torque (mh2) [Ramp] 
+1x Loreseeker's Stone (cmr) [Draw] 
+1x Magistrate's Scepter (m19)
+1x Mana Crypt (2xm) [Ramp] 
+1x Mana Vault (4ed) [Ramp] 
+1x Manifold Key (m20) [Utility / Synergy] 
+1x Metalworker (wc00) [Ramp] 
+1x Mikokoro, Center of the Sea (c21)
+1x Mind's Eye (bbd) [Draw] 
+1x Moonsilver Key (mid) [Tutor] 
+1x Mox Opal (2xm) [Ramp] 
+1x Mystic Forge (m20) [Draw Combo] 
+1x Nephalia Academy (plist)
+1x Nettlecyst (mh2) [Bodies] 
+1x Network Terminal (neo) [Draw] 
+1x Painter's Servant (shm) [Mill Combo] 
+1x Planar Bridge (paer) [Tutor] 
+1x Reliquary Tower (c21)
+1x Rings of Brighthearth (cmr) [Extra Turns Combo] 
+1x Roadside Reliquary (neo)
+1x Rogue's Passage (ncc)
+1x Sanctum of Eternity (c19)
+1x Sanctum of Ugin (bfz)
+1x Scavenger Grounds (c21)
+1x Scorched Ruins (wth)
+1x Scrapyard Recombiner (mh1) [Tutor] 
+1x Sculpting Steel (c21) [Utility / Synergy] 
+1x Semblance Anvil (som) [Ramp] 
+1x Sensei's Divining Top (plist) [Draw Combo] 
+1x Shrine of the Forsaken Gods (c19)
+1x Skyclave Relic (znr) [Ramp] 
+1x Sol Ring (3ed) [Ramp] 
+1x Soul of New Phyrexia (c18) [Protect / Recur] 
+1x Spawning Bed (bfz)
+1x Spine of Ish Sah (c13) [Removal] 
+1x Staff of Domination (cmr) [Draw] 
+1x Stonecoil Serpent (eld) [Bodies] 
+1x Strionic Resonator (a25) [Utility / Synergy] 
+1x Temporal Aperture (usg) [Tutor] 
+1x Thespian's Stage (uma)
+1x Thran Dynamo (mb1) [Ramp] 
+1x Tomb of the Spirit Dragon (ktk)
+1x Trading Post (cm2) [Protect / Recur] 
+1x Treasure Vault (afr)
+1x Tyrite Sanctum (khm)
+1x Ugin's Nexus (ktk) [Extra Turns Combo] 
+1x Ugin, the Spirit Dragon (m21) [Removal] 
+1x Ulamog, the Ceaseless Hunger (bfz) [Commander{top}] 
+1x Underdark Rift (afc)
+1x Unwinding Clock (plist) [Utility / Synergy] 
+1x Urza's Saga (mh2)
+1x Vesuva (tsr)
+1x Voltaic Key (m11) [Utility / Synergy] 
+1x Walking Ballista (2xm) [Ping Combo] 
+1x War Room (cmr)
+1x Wastes (tsr) 410
+1x Well of Knowledge (wth) [Draw] 
+1x Witch's Clinic (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Worn Powerstone (plist) [Ramp] 

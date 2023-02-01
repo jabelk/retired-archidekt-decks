@@ -1,0 +1,97 @@
+1x Altar of Dementia (mh1) [Sac Outlet] 
+1x Arcane Signet (sld) [Ramp] 
+1x Ashnod's Altar (chr) [Sac Outlet] 
+1x Bane of Progress (cc1) [Removal] 
+1x Beast Whisperer (tsr) [Draw] 
+1x Bloom Tender (sld) [Ramp] 
+1x Bojuka Bog (mic)
+1x Boseiju, Who Endures (neo)
+1x Bountiful Promenade (bbd)
+1x Buried Alive (uma) [Tutor] 
+1x Cabal Coffers (mh2)
+1x Caustic Caterpillar (ori) [Removal] 
+1x Command Tower (c21)
+1x Dark Confidant (2xm) [Draw] 
+1x Dawntreader Elk (jmp) [Ramp] 
+1x Deathcap Glade (vow)
+1x Deathrite Shaman (ema) [Ramp] 
+1x Diligent Farmhand (ody) [Ramp] 
+1x Dosan the Falling Leaf (chk) [Utility] 
+1x Dust Bowl (mmq)
+1x Eldrazi Displacer (ogw) [Utility] 
+1x Exotic Orchard (c19)
+1x Faeburrow Elder (eld) [Ramp] 
+1x Field of the Dead (m20)
+1x Fiend Hunter (uma) [Removal] 
+1x Forest (neo) 301
+1x Foundation Breaker (mh2) [Removal] 
+1x Gaea's Cradle (usg)
+1x Godless Shrine (rna)
+1x Golgari Grave-Troll (ddj) [Mill] 
+1x Golgari Thug (uma) [Mill] 
+1x Gray Merchant of Asphodel (thb) [Finisher] 
+1x Guardian Project (rna) [Draw] 
+1x Hermit Druid (plist) [Mill] 
+1x High Market (afc)
+1x Indatha Triome (iko)
+1x Journey to Eternity // Atzal, Cave of Eternity (rix) [Recursion] 
+1x Karador, Ghost Chieftain (cmr) [Commander{top}] 
+1x Knight of the Reliquary (tsr) [Tutor] 
+1x Life from the Loam (sld) [Mill] 
+1x Living Death (plist) [Recursion] 
+1x Lord of the Forsaken (mid) [Sac Outlet] 
+1x Marionette Master (afc) [Finisher] 
+1x Marsh Flats (mh2)
+1x Massacre Wurm (m21) [Removal] 
+1x Meren of Clan Nel Toth (sld) *F*  [Recursion] 
+1x Night's Whisper (voc) [Draw] 
+1x Nim Deathmantle (som) [Finisher] 
+1x Overgrown Farmland (mid)
+1x Overgrown Tomb (rtr)
+1x Phyrexian Altar (uma) [Sac Outlet] 
+1x Phyrexian Reclamation (jmp) [Recursion] 
+1x Plaguecrafter (afc) [Removal] 
+1x Plains (neo) 294
+1x Ramunap Excavator (cmr) [Recursion] 
+1x Reveillark (plist) [Recursion] 
+1x Rite of Oblivion (mid) [Removal] 
+1x Saffi Eriksdotter (tsr) [Recursion] 
+1x Sakura-Tribe Elder (nec) [Ramp] 
+1x Satyr Wayfinder (znc) [Mill] 
+1x Scavenging Ooze (m21) [Utility] 
+1x Shattered Sanctum (pvow) *F* 
+1x Shigeki, Jukai Visionary (neo) [Mill] 
+1x Shriekmaw (afc) [Removal] 
+1x Siege Rhino (pktk) *F*  [Finisher] 
+1x Skull Prophet (iko) [Ramp] 
+1x Skullclamp (plist) [Sac Outlet] 
+1x Skyclave Apparition (znr) [Removal] 
+2x Snow-Covered Forest (mh1) 254
+2x Snow-Covered Plains (mh1) 250
+2x Snow-Covered Swamp (mh1) 252
+1x Sol Ring (phed) [Ramp] 
+1x Spore Frog (mh1) [Utility] 
+1x Stinkweed Imp (mb1) [Mill] 
+1x Stitcher's Supplier (plist) [Mill] 
+1x Strands of Night (7ed) [Recursion] 
+1x Survival of the Fittest (exo) [Tutor] 
+1x Swamp (neo) 298
+1x Sylvan Library (cc1) [Draw] 
+1x Syr Konrad, the Grim (eld) [Finisher] 
+1x Takenuma, Abandoned Mire (neo)
+1x Thespian's Stage (2xm)
+1x Timeless Witness (mh2) [Recursion] 
+1x Toxic Deluge (ema) [Removal] 
+1x Undergrowth Stadium (cmr)
+1x Urborg, Tomb of Yawgmoth (tsr)
+1x Vault of Champions (cmr)
+1x Verdant Catacombs (mh2)
+1x Vesuva (tsr)
+1x Vile Entomber (mh2) [Tutor] 
+1x Viscera Seer (cmr) [Sac Outlet] 
+1x Windswept Heath (ktk)
+1x Woe Strider (thb) [Sac Outlet] 
+1x Woodland Cemetery (dom)
+1x Yavimaya Granger (ulg) [Ramp] 
+1x Yavimaya, Cradle of Growth (mh2)
+1x Young Necromancer (mh2) [Recursion] 
