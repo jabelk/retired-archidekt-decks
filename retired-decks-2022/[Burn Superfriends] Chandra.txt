@@ -1,0 +1,74 @@
+1x Bag of Holding (m20) [Draw] 
+1x Birgi, God of Storytelling // Harnfel, Horn of Bounty (khm) [Ramp] 
+1x Blasphemous Act (c21) [Removal] 
+1x Blood Moon (2xm) [Removal] 
+1x Brash Taunter (m21) [Big Beaters/Blockers] 
+1x Burning Prophet (war) [Draw] 
+1x Chandra Ablaze (zen)
+1x Chandra's Incinerator (m21) [Big Beaters/Blockers] 
+1x Chandra's Regulator (m20) [Planeswalker Synergy] 
+1x Chandra, Acolyte of Flame (m20)
+1x Chandra, Awakened Inferno (m20)
+1x Chandra, Bold Pyromancer (dom) *F* 
+1x Chandra, Fire Artisan (war)
+1x Chandra, Fire of Kaladesh // Chandra, Roaring Flame (ori) [Commander{top}] 
+1x Chandra, Heart of Fire (m21)
+1x Chandra, Novice Pyromancer (m20)
+1x Chandra, Pyrogenius (kld) *F* 
+1x Chandra, Torch of Defiance (ss3)
+1x Chandra, the Firebrand (m13)
+1x Chaos Warp (c20) [Removal] 
+1x Contagion Clasp (tsr) [Planeswalker Synergy] 
+1x Crackle with Power (stx) [Removal] 
+1x Dictate of the Twin Gods (jou) [Damage Amplify] 
+1x Druidic Satchel (c21) [Draw] 
+1x Electrodominance (rna) [Removal] 
+1x Embermaw Hellion (ori) [Damage Amplify] 
+1x Endless Atlas (2xm) [Draw] 
+1x Expedition Map (2xm) [Ramp] 
+1x Extraplanar Lens (mrd) [Ramp] 
+1x Faithless Looting (c21) [Draw] 
+1x Fiery Emancipation (m21) [Damage Amplify] 
+1x Fires of Invention (eld) [Ramp] 
+1x Furnace of Rath (dpa) [Damage Amplify] 
+1x Gadrak, the Crown-Scourge (m21) [Big Beaters/Blockers] 
+1x Gamble (uma) [Draw] 
+1x Gauntlet of Power (tsr) [Ramp] 
+1x Introduction to Annihilation (stx) [Removal] 
+1x Karn Liberated (puma) *F* 
+1x Karn's Bastion (war)
+1x Kazuul, Tyrant of the Cliffs (c16) [Big Beaters/Blockers] 
+1x Koth of the Hammer (som)
+1x Leyline of Punishment (m11) [Planeswalker Synergy] 
+1x Light Up the Stage (plist) [Draw] 
+1x Mana Geyser (c21) [Ramp] 
+1x Neheb, the Eternal (hou) [Big Beaters/Blockers] 
+1x Nevinyrral's Disk (mh2) [Removal] 
+1x Nykthos, Shrine to Nyx (plist)
+1x Nyx Lotus (thb) [Ramp] 
+1x Planebound Accomplice (mh1) [Planeswalker Synergy] 
+1x Price of Glory (ody) [Removal] 
+1x Reiterate (tsr) [Damage Amplify] 
+1x Repeated Reverberation (m20) [Planeswalker Synergy] 
+1x Rings of Brighthearth (cmr) [Planeswalker Synergy] 
+1x Rolling Earthquake (2xm) [Removal] 
+1x Ruby Medallion (cm2) [Ramp] 
+1x Runaway Steam-Kin (grn) [Ramp] 
+1x Sarkhan the Masterless (war)
+1x Seize the Spoils (khm) [Draw] 
+1x Shadowspear (thb) [Planeswalker Synergy] 
+1x Shatterskull Smashing // Shatterskull, the Hammer Pass (znr) [Removal] 
+28x Snow-Covered Mountain (khm) 282
+1x Sol Ring (c21) [Ramp] 
+1x Solemn Simulacrum (c21) [Ramp] 
+1x Thought Vessel (cmr) [Ramp] 
+1x Thousand-Year Elixir (c21) [Maybeboard{noDeck}{noPrice}] 
+1x Thran Temporal Gateway (dom) [Planeswalker Synergy] 
+1x Thrill of Possibility (sta) [Draw] 
+1x Torbran, Thane of Red Fell (eld) [Damage Amplify] 
+1x Valakut Awakening // Valakut Stoneforge (znr) [Draw] 
+1x Valakut, the Molten Pinnacle (zen)
+1x Vandalblast (tsr) [Removal] 
+1x Volt Charge (ddl) [Removal] 
+1x War Room (cmr)
+1x Wheel of Misfortune (cmr) [Draw] 

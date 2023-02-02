@@ -1,0 +1,98 @@
+1 Amoeboid Changeling
+1 Anguished Unmaking
+1 Arcane Signet
+1 Assassin's Trophy
+1 Blood Crypt
+1 Bonescythe Sliver
+1 Boros Signet
+1 Breeding Pool
+1 Cavern of Souls
+1 Chromatic Orrery
+1 Cloudshredder Sliver
+1 Command Tower
+1 Constricting Sliver
+1 Crypt Sliver
+1 Crystalline Sliver
+1 Cyclonic Rift
+1 Darkheart Sliver
+1 Demonic Tutor
+1 Diffusion Sliver
+1 Dovin's Veto
+1 Dregscape Sliver
+1 Enlightened Tutor
+1 Flooded Strand
+3 Forest
+1 Galerider Sliver
+1 Gemhide Sliver
+1 Godless Shrine
+1 Golgari Signet
+1 Growing Rites of Itlimoc
+1 Gruul Signet
+1 Guardian Project
+1 Hallowed Fountain
+1 Harmonic Sliver
+1 Harsh Mercy
+1 Heart Sliver
+1 Heartstone
+1 Herald's Horn
+1 Hibernation Sliver
+1 Homing Sliver
+1 Hunter Sliver
+1 Indatha Triome
+2 Island
+1 Izzet Signet
+1 Ketria Triome
+1 Lavabelly Sliver
+1 Mana Confluence
+1 Manaweft Sliver
+1 Merciless Eviction
+1 Misty Rainforest
+1 Mountain
+1 Muscle Sliver
+1 Nature's Lore
+1 Necrotic Sliver
+1 Opaline Sliver
+1 Overgrown Tomb
+1 Path of Ancestry
+2 Plains
+1 Predatory Sliver
+1 Prismatic Omen
+1 Quick Sliver
+1 Raugrin Triome
+1 Rhythm of the Wild
+1 Root Sliver
+1 Sacred Foundry
+1 Savai Triome
+1 Sedge Sliver
+1 Selesnya Signet
+1 Sentinel Sliver
+1 Shifting Sliver
+1 Simic Signet
+1 Sinew Sliver
+1 Skyshroud Claim
+1 Sliver Hive
+1 Sliver Hivelord
+1 Sliver Legion
+1 Sliver Overlord
+1 Sliver Queen
+1 Sol Ring
+1 Steam Vents
+1 Stomping Ground
+1 Striking Sliver
+1 Swamp
+1 Swan Song
+1 Swords to Plowshares
+1 Syphon Sliver
+1 Temple Garden
+1 The First Sliver
+1 Training Grounds
+1 Unclaimed Territory
+1 Venom Sliver
+1 Wargate
+1 Watery Grave
+1 Windswept Heath
+1 Winged Sliver
+1 Wooded Foothills
+1 Zagoth Triome
+
+1 Jegantha, the Wellspring

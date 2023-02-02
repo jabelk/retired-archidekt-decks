@@ -1,0 +1,70 @@
+1 Anger
+1 Blade of Selves
+1 Blood Moon
+1 Brightstone Ritual
+1 Chandra, Torch of Defiance
+1 Chaos Warp
+1 Conspicuous Snoop
+1 Dockside Extortionist
+1 Fervor
+1 Flamekin Village
+1 Foundry Street Denizen
+1 Gamble
+1 Goblin Bushwhacker
+1 Goblin Chainwhirler
+1 Goblin Chieftain
+1 Goblin Chirurgeon
+1 Goblin Cratermaker
+1 Goblin Instigator
+1 Goblin King
+1 Goblin Lackey
+1 Goblin Lookout
+1 Goblin Matron
+1 Goblin Piledriver
+1 Goblin Recruiter
+1 Goblin Ringleader
+1 Goblin Sharpshooter
+1 Goblin Soothsayer
+1 Goblin Tinkerer
+1 Goblin Trashmaster
+1 Goblin Warchief
+1 Goblin Wardriver
+1 Grenzo, Havoc Raiser
+1 Ib Halfheart, Goblin Tactician
+1 Imperial Recruiter
+1 Indomitable Creativity
+1 Isolated Watchtower
+1 Kiki-Jiki, Mirror Breaker
+1 Krenko, Mob Boss
+1 Krenko, Tin Street Kingpin
+1 Legion Loyalist
+1 Lithoform Engine
+1 Mana Echoes
+1 Mass Hysteria
+1 Mirror March
+1 Mogg Fanatic
+1 Mogg War Marshal
+1 Moggcatcher
+1 Molten Echoes
+25 Mountain
+1 Mutavault
+1 Muxus, Goblin Grandee
+1 Panharmonicon
+1 Pashalik Mons
+1 Path of Ancestry
+1 Purphoros, God of the Forge
+1 Pyroblast
+1 Red Elemental Blast
+1 Scroll Rack
+1 Sensation Gorger
+1 Shared Animosity
+1 Siege-Gang Commander
+1 Skirk Fire Marshal
+1 Skirk Prospector
+1 Skullclamp
+1 Slate of Ancestry
+1 Sol Ring
+1 Stingscourger
+1 Thespian's Stage
+1 Warren Instigator
+

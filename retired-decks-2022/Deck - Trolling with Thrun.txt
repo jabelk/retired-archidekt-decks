@@ -1,0 +1,79 @@
+1 Ancient Animus
+1 Ancient Tomb
+1 Argentum Armor
+1 Bala Ged Recovery
+1 Bear Umbra
+1 Beast Within
+1 Berserk
+1 Blackblade Reforged
+1 Blanchwood Armor
+1 Bonders' Enclave
+1 Cartouche of Strength
+1 Cathedral of War
+1 Colossal Majesty
+1 Colossification
+1 Creeping Renaissance
+1 Cultivate
+1 Destiny Spinner
+1 Dungrove Elder
+1 Eldrazi Conscription
+1 Fireshrieker
+23 Forest
+1 Gaea's Touch
+1 Garruk, Primal Hunter
+1 Ground Seal
+1 Hall of Gemstone
+1 Haunted Cloak
+1 Hunter's Insight
+1 Hunter's Prowess
+1 Hydra's Growth
+1 Increasing Savagery
+1 Inquisitor's Flail
+1 Khalni Ambush
+1 Kodama's Reach
+1 Krosan Grip
+1 Llanowar Reborn
+1 Loxodon Warhammer
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Nature's Lore
+1 Nature's Way
+1 Nykthos, Shrine to Nyx
+1 Nylea's Colossus
+1 O-Naginata
+1 Primal Bellow
+1 Primal Might
+1 Ram Through
+1 Rampant Growth
+1 Rancor
+1 Reliquary Tower
+1 Return of the Wildspeaker
+1 Rhonas the Indomitable
+1 Ring of Kalonia
+1 Rishkar's Expertise
+1 Rogue's Passage
+1 Sakura-Tribe Elder
+1 Season of Growth
+1 Setessan Training
+1 Shadowspear
+1 Silent Arbiter
+1 Snake Umbra
+1 Song of the Dryads
+1 Soul's Majesty
+1 Strata Scythe
+1 Strip Mine
+1 Sylvan Library
+1 Tajuru Preserver
+1 Tangled Florahedron
+1 Thought Vessel
+1 Three Visits
+1 Thrun, the Last Troll
+1 Tranquil Thicket
+1 Ulvenwald Tracker
+1 Utopia Sprawl
+1 Vernal Bloom
+1 Vow of Wildness
+1 War Room
+1 Wild Growth
+1 Wolfwillow Haven
+

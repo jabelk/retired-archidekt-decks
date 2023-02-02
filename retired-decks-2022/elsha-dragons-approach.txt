@@ -1,0 +1,65 @@
+1 Arid Mesa
+1 Ash Barrens
+1 Azorius Signet
+1 Birgi, God of Storytelling
+1 Blasphemous Act
+1 Burning Prophet
+1 Chromatic Lantern
+1 Command Tower
+1 Commander's Sphere
+26 Dragon's Approach
+1 Dream Halls
+1 Elsha of the Infinite
+1 Evolving Wilds
+1 Faithless Looting
+1 Flusterstorm
+1 Frantic Search
+1 Ghost Quarter
+1 Goblin Electromancer
+1 Guttersnipe
+1 Hallowed Fountain
+1 Harness the Storm
+1 Honor the God-Pharaoh
+4 Island
+1 Izzet Signet
+1 Jace's Sanctum
+1 Jeska's Will
+1 Knollspine Dragon
+1 Lightning Greaves
+1 Locket of Yesterdays
+1 Mana Crypt
+1 Mana Drain
+1 Mana Geyser
+1 Mana Vault
+1 Mind Stone
+13 Mountain
+1 Neheb, the Eternal
+1 Niv-Mizzet, Parun
+1 Past in Flames
+2 Plains
+1 Prairie Stream
+1 Ruby Medallion
+1 Runaway Steam-Kin
+1 Sacred Foundry
+1 Seal of the Guildpact
+1 Shivan Reef
+1 Smash to Smithereens
+1 Sol Ring
+1 Steam Vents
+1 Storm-Kiln Artist
+1 Syr Carah, the Bold
+1 Talisman of Conviction
+1 Talisman of Creativity
+1 Talisman of Progress
+1 Terramorphic Expanse
+1 Thought Vessel
+1 Thrill of Possibility
+1 Torbran, Thane of Red Fell
+1 Tormenting Voice
+1 Underworld Breach
+1 Valakut Exploration
+1 Whirlwind of Thought
+1 Wild Guess
+1 Windswept Heath
+
+

@@ -1,0 +1,103 @@
+1 Aether Gale
+1 Animist's Awakening
+1 Ash Barrens
+1 Augury Owl
+1 Bala Ged Recovery // Bala Ged Sanctuary
+1 Baral's Expertise
+1 Blighted Woodland
+1 Body of Knowledge
+1 Castle Vantress
+1 Chakram Retriever
+1 Chasm Skulker
+1 Command Tower
+1 Condescend
+1 Cryptic Annelid
+1 Crystal Ball
+1 Deliberate
+1 Depart the Realm
+1 Displacement Wave
+1 Dissolve
+1 Eligeth, Crossroads Augur
+1 Evolving Wilds
+1 Exotic Orchard
+1 Eyes Everywhere
+1 Eyes of the Watcher
+1 Finale of Revelation
+1 Font of Fertility
+1 Foresee
+6 Forest
+1 Growth Spiral
+1 In Search of Greatness
+1 Inscription of Insight
+11 Island
+1 Jace's Sanctum
+1 Jace, Mirror Mage
+1 Jolrael, Mwonvuli Recluse
+1 Kiora's Follower
+1 Kruphix, God of Horizons
+1 Kydele, Chosen of Kruphix
+1 Lifecrafter's Bestiary
+1 Minamo, School at Water's Edge
+1 Myriad Landscape
+1 Mystic Speculation
+1 Nevinyrral's Disk
+1 Omen of the Sea
+1 Ominous Seas
+1 Opt
+1 Precognitive Perception
+1 Preordain
+1 Prognostic Sphinx
+1 Psychosis Crawler
+1 Rampant Growth
+1 Ravenform
+1 Reason // Believe
+1 Retreat to Coralhelm
+1 Return to Nature
+1 Sakura-Tribe Elder
+1 Saw It Coming
+1 Scour All Possibilities
+1 Search for Tomorrow
+1 Serum Visions
+1 Sigiled Starfish
+1 Simic Guildgate
+1 Simic Signet
+1 Sol Ring
+1 Sphinx of Foresight
+1 Staff of Domination
+1 Swiftfoot Boots
+1 Talisman of Curiosity
+1 Tamiyo's Epiphany
+1 Teferi's Ageless Insight
+1 Temple of Mystery
+1 Terramorphic Expanse
+1 Thornwood Falls
+1 Thought Vessel
+1 Thriving Grove
+1 Thriving Isle
+1 Track Down
+1 Ugin's Insight
+1 Umbral Mantle
+1 Unravel the Aether
+1 Wayfarer's Bauble
+1 Witching Well
+1 Woodland Stream
+1 Zhalfirin Void
+
+Maybeboard
+1 Archmage Ascension
+1 Behold the Multiverse
+1 Folio of Fancies
+1 Graven Lore
+1 Greater Good
+1 Library of Leng
+1 Marit Lage's Slumber
+1 Mazemind Tome
+1 Nissa, Steward of Elements
+1 Reliquary Tower
+1 Seer's Lantern
+1 Serum Visions
+1 Teferi's Ageless Insight
+1 Thassa, God of the Sea
+1 Thrasios, Triton Hero
+1 Tomorrow, Azami's Familiar
+
